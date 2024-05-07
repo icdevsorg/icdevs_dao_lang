@@ -1,0 +1,269 @@
+digraph G {
+    rankdir=TB; // Sets the direction of graph layout from top to bottom
+    nodesep=0.6;  // increases the space between nodes at the same rank
+    ranksep=1.2;
+    node [shape=box];
+
+    // Nodes definition with descriptions stripped for simplicity in this format
+
+    "Resource Optimization" [label="Resource Optimization\nMaximize efficiency and effectiveness of resource utilization"];
+"Effective Action" [label="Effective Action\nEnable action during instability"];
+"Community Involvement" [label="Community Involvement\nEngage community in decision-making"];
+"Feedback Loops" [label="Feedback Loops\nIntegrate community feedback"];
+"Iterative Funding" [label="Iterative Funding\nPhased funding approach based on milestone achievements"];
+"Impact Measurement" [label="Impact Measurement\nEvaluate project success and impact"];
+"Resource Development" [label="Resource Development\nDevelop resources organically"];
+"Incentive Alignment" [label="Incentive Alignment\nAlign incentives with long-term goals"];
+"Risk Management" [label="Risk Management\nSpread investments to mitigate risks"];
+"Transparent Governance" [label="Transparent Governance\nClear and open governance structures"];
+"Open Data" [label="Open Data\nMake financial data and records openly accessible"];
+"Immutable Records" [label="Immutable Records\nCreate tamper-proof records of all financial dealings"];
+"Educational Outreach" [label="Educational Outreach\nEducate about technologies and governance models"];
+"Community Champions" [label="Community Champions\nEmpower members to act as community champions"];
+"Decentralized Autonomy" [label="Decentralized Autonomy\nDelegate decision-making powers to autonomous groups"];
+"Credible Neutrality" [label="Credible Neutrality\nCreate impartial and fair mechanisms"];
+"Legitimacy" [label="Legitimacy\nFocus on transparent and fair decision-making processes"];
+"Quantitative Analysis" [label="Quantitative Analysis\nDevelop metrics for impact measurement"];
+"Qualitative Assessment" [label="Qualitative Assessment\nComplement quantitative data with qualitative insights"];
+"Benchmarking" [label="Benchmarking\nSet clear benchmarks for project assessment"];
+"Outcome Visualization" [label="Outcome Visualization\nVisual tools to represent impact data"];
+"Impact Storytelling" [label="Impact Storytelling\nCreate narratives around impact data"];
+"Adaptive Metrics" [label="Adaptive Metrics\nDesign flexible metrics for dynamic environments"];
+"Regular Community Check-Ins" [label="Regular Community Check-Ins\nScheduled meetings for community discussion"];
+"Dynamic Surveys" [label="Dynamic Surveys\nRegularly updated surveys to gather feedback"];
+"Feedback Integration Teams" [label="Feedback Integration Teams\nTeams to integrate feedback into planning"];
+"Public Feedback Repositories" [label="Public Feedback Repositories\nLog of feedback and actions taken"];
+"Real-Time Feedback Channels" [label="Real-Time Feedback Channels\nReal-time platforms for feedback"];
+"Feedback Reward System" [label="Feedback Reward System\nRewards for providing feedback"];
+"Annual Report" [label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
+"Skill Inventory" [label="Skill Inventory\nEncourage development of diverse skills"];
+"Mentorship Programs" [label="Mentorship Programs\nMentorship to accelerate learning"];
+"Role Rotation" [label="Role Rotation\nRotate roles within the DAO"];
+"Cross-functional Teams" [label="Cross-functional Teams\nTeams with diverse expertise"];
+"Learning and Development Fund" [label="Learning and Development Fund\nFunds for professional development"];
+"Innovation Labs" [label="Innovation Labs\nLabs for creativity and skill application"];
+"Token-Based Rewards" [label="Token-Based Rewards\nUse DAO tokens as a reward system"];
+"Reputation Systems" [label="Reputation Systems\nTrack contributions and behavior"];
+"Staking Mechanisms" [label="Staking Mechanisms\nStake tokens for decision participation"];
+"Contribution Tracking" [label="Contribution Tracking\nTransparent system for tracking contributions"];
+"Escrow and Milestone Payments" [label="Escrow and Milestone Payments\nPayments based on achieving milestones"];
+"Performance-Based Bonuses" [label="Performance-Based Bonuses\nBonuses for outstanding performance"];
+"Democratic Participation Incentives" [label="Democratic Participation Incentives\nRewards for governance participation"];
+"Long-Term Participation Rewards" [label="Long-Term Participation Rewards\nRewards for long-term participation"];
+"Skill and Role Development Incentives" [label="Skill and Role Development Incentives\nIncentives for developing new skills"];
+"Portfolio Approach" [label="Portfolio Approach\nDiverse portfolio to mitigate risks"];
+"Cross-Platform Engagement" [label="Cross-Platform Engagement\nEngage with multiple project ecosystems"];
+"Community Diversification" [label="Community Diversification\nFoster diverse community base"];
+"Financial Reserves" [label="Financial Reserves\nMaintain reserves for stability"];
+"Decentralized Decision-Making" [label="Decentralized Decision-Making\nSpread decision-making authority"];
+"Scalable Decision-Making" [label="Scalable Decision-Making\nProcesses that scale with organization needs"];
+"Predefined Action Protocols" [label="Predefined Action Protocols\nClear protocols for common scenarios"];
+"Communication Channels" [label="Communication Channels\nEfficient channels for rapid coordination"];
+"Dynamic Role Allocation" [label="Dynamic Role Allocation\nFlexible role definitions based on needs"];
+"Transparent Trackability" [label="Transparent Trackability\nAll transactions and decisions are transparent and accessible"];
+"Stakeholder Synthesis" [label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+"Iterative Decision Framework" [label="Iterative Decision Framework\nRevising and evolving decisions through iterative feedback"];
+"Community Value Alignment" [label="Community Value Alignment\nEnsure alignment with core values and vision"];
+"Futarchy" [label="Futarchy\nGovernance through prediction markets"];
+"Rage Quit" [label="Rage Quit\nAllow members to withdraw their investments if they disagree"];
+"Architectural Decentralization" [label="Architectural Decentralization\nDistribute network across multiple locations"];
+"Political Decentralization" [label="Political Decentralization\nDistribute decision-making authority"];
+"Logical Decentralization" [label="Logical Decentralization\nDecentralize state and functioning logic"];
+"Coin Voting" [label="Coin Voting\nVoting power proportional to token hold"];
+"Citizen Voting" [label="Citizen Voting\nOne person, one vote system"];
+"Conviction Voting" [label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+"Quadratic Voting" [label="Quadratic Voting\nCost of vote is square of votes, allowing minor voice"];
+"Multi-factorial Consensus" [label="Multi-factorial Consensus\nIntegrate multiple factors before final decision"];
+"Mica Secret Voting" [label="Mica Secret Voting\nEnsure voter preferences are secret until all cast"];
+"Control as a Liability" [label="Control as a Liability\nMinimizing control to promote democratic governance"];
+"CDP Voting" [label="CDP Voting\nVoting power based on collateralized positions"];
+"Inability to Fork External Assets" [label="Inability to Fork External Assets\nLimits of forking in decentralized networks"];
+"Celebrations" [label="Celebrations\nTake time to celebrate as a community.\n It builds trust and common experience"];
+"Future Kindness" [label="Future Kindness\nBe kind to your future self.\n Avoid situations that will cause pain in the future."];
+"Evergreen" [label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+"Bounties" [label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+"Grants" [label="Grants\nDeploy resources to developers and companies that can help an organization achieve goals"];
+"RFPs" [label="RFPs\nIssue RFPs to focus grant proposals"];
+"Infrastructure" [label="Infrastructure\nDevelop software and continually useable tools"];
+"Institutions" [label="Institutions\nDevelop enduring organizations that support the protocol"];
+"Biz Dev Agents" [label="Biz Dev Agents\nSpecialized roles within a DAO tasked with fostering\n business development and strategic partnerships"];
+"Seconded Resources" [label="Seconded Resources\nDedicated personnel or assets from one department\n or affiliated group to another within the DAO"];
+"Working Groups" [label="Working Groups\nDAO committees formed to address specific needs."];
+"Good UI" [label="Good UI\nActions need to take the path of least resistance.\n No one needs a second job."];
+"Define Affordances/Disaffordances" [label="Define Affordances/Disaffordances\nClearly define what should/shouldn't be done to avoid debate."];
+"Whole Process" [label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
+"Job Boundaries" [label="Job Boundaries\nClearly defines roles and responsibilities."];
+"Harvest Teams" [label="Harvest Teams\nSpecial teams or committees that focus on extracting and implementing\n actionable insights from completed projects or phases"];
+"Levels of Intensity" [label="Levels of Intensity\nStructures participation and decision-making into\n different tiers based on required dedication and impact"];
+"Well Being" [label="Well Being\nStructures the DAO to enrich people's lives and meet them where they are."];
+"Bribes" [label="Bribes\nManipulating votes through the offer of resources to voters for their vote."];
+"Contingent Bribes" [label="Contingent Bribes\nBribes only paid out upon the enactment or ratification of a vote."];
+"Subtraction" [label="Subtraction\nActively seek to subtract power from the DAO and resist the natural tendency of an organization to grow and accumulate power"];
+"Dunbar's Number" [label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+"Seasons" [label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
+"Right to Resignation" [label="Right to Resignation\nDAO members should not be precluded from leaving the DAO or a job withing the DAO.\n"];
+"Goodhart's Law" [label="Goodhart's Law\nWhen a metric is used as a target it can no longer be used as an effective measure.\n"];
+
+"Right Size" [label="Right Size\nIssuing little grants can take as much time as issuing large grants.\n"];
+"Bridge Feedback" [label="Bridge Feedback\nProvide only positive feedback that point rejected teams toward success.\n"];
+"Target Professionals" [label="Target Professionals\nPrioritize funding professionals over new starters as they have more success.\n"];
+"Grant Shopping" [label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
+"Convertible Grants" [label="Convertible Grants\nGrants that can be converted to tokens at a later date to benefit the DAO.\n"];
+"Frivolity" [label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+
+
+
+
+    // Relationships definition
+   "Community Involvement" -> "Resource Optimization";
+"Impact Measurement" -> "Resource Optimization";
+"Resource Development" -> "Resource Optimization";
+"Incentive Alignment" -> "Resource Optimization";
+"Risk Management" -> "Resource Optimization";
+"Effective Action" -> "Resource Optimization";
+"Grant Shopping" -> "Grants";
+
+"Token-Based Rewards" -> {"Incentive Alignment","Feedback Reward System"};
+"Reputation Systems" -> "Incentive Alignment";
+"Performance-Based Bonuses" -> "Incentive Alignment";
+"Democratic Participation Incentives" -> {"Incentive Alignment", "Effective Action"};
+"Skill and Role Development Incentives" -> "Cross-functional Teams";
+
+"Contribution Tracking" -> {"Reputation Systems", "Performance-Based Bonuses", "Skill and Role Development Incentives", "Shares for Sweat"};
+
+"Escrow and Milestone Payments" -> "Performance-Based Bonuses";
+"Long-Term Participation Rewards" -> "Performance-Based Bonuses";
+"Staking Mechanisms" -> {"Token-Based Rewards", "Coin Voting"};
+
+"Legitimacy" -> "Effective Action";
+"Credible Neutrality" -> "Effective Action";
+"Scalable Decision-Making" -> "Effective Action";
+"Communication Channels" -> {"Cross-functional Teams" , "Feedback Integration Teams", "Dunbar's Number"};
+
+
+"Financial Reserves" -> {"Risk Management","Legitimacy"};
+"Portfolio Approach" -> "Risk Management";
+"Decentralized Decision-Making" -> {"Risk Management", "Effective Action"};
+"Architectural Decentralization" -> "Risk Management";
+"Inability to Fork External Assets" -> {"Control as Liability", "Rage Quit"};
+
+"Cross-functional Teams" -> {"Resource Development", "Portfolio Approach", "Effective Action"};
+"Cross-Platform Engagement" -> "Portfolio Approach";
+"Community Diversification" -> "Portfolio Approach";
+"Bridge Feedback" -> "Grants";
+
+
+"Feedback Loops" -> "Impact Measurement";
+
+"Iterative Funding" -> {"Feedback Loops", "Grants"};
+"Regular Community Check-Ins" -> "Community Value Alignment";
+"Feedback Integration Teams" -> {"Feedback Loops", "Iterative Funding"};
+"Feedback Reward System" -> {"Feedback Loops", "Incentive Alignment"};
+
+"Public Feedback Repositories" -> "Feedback Integration Teams";
+"Real-Time Feedback Channels" -> "Feedback Integration Teams";
+"Dynamic Surveys" -> {"Regular Community Check-Ins","Qualitative Assessment", "Quantitative Assessment", "Feedback Integration Teams"};
+
+
+"Predefined Action Protocols" -> "Scalable Decision-Making";
+"Dynamic Role Allocation" -> "Predefined Action Protocols";
+
+
+"Transparent Governance" -> {"Community Involvement", "Legitimacy"};
+"Educational Outreach" -> {"Community Involvement", "Institutions"};
+"Community Champions" -> {"Community Involvement", "Resource Development"};
+"Decentralized Autonomy" -> {"Community Involvement", "Resource Development"};
+
+"Open Data" -> "Transparent Trackability";
+"Immutable Records" -> {"Transparent Trackability", "Impact Measurement"};
+"Seasons" -> {"Celebrations", "Iterative Funding","Regular Community Check-Ins"};
+"Celebrations" -> "Community Involvement";
+
+"Quantitative Analysis" -> "Impact Measurement";
+"Qualitative Assessment" -> "Impact Measurement";
+
+"Benchmarking" -> "Quantitative Analysis";
+"Adaptive Metrics" -> {"Quantitative Analysis", "Goodhart's Law"};
+
+"Goodhart's Law" -> {"Quantitative Analysis", "Benchmarking"}
+
+"Outcome Visualization" -> "Qualitative Assessment";
+"Impact Storytelling" -> "Qualitative Assessment";
+"Target Professionals" -> "Grants";
+"Grand Shopping" -> "Grants";
+"Showcase" -> {"Grants", "Celebration"};
+"Frivolity" -> {"Celebrations", "Dunbar's Number"}
+
+
+"Annual Report" -> {"Public Feedback Repositories","Impact Measurement", "Seasons" };
+
+"Skill Inventory" -> {"Resource Development", "Mentorship Programs", "Role Rotation", "Dynamic Role Allocation","Target Professionals"};
+"Mentorship Programs" -> "Resource Development";
+"Role Rotation" -> {"Cross-functional Teams", "Resource Development", "Working Groups"};
+
+"Learning and Development Fund" -> {"Resource Development", "Educational Outreach"};
+"Innovation Labs" -> "Portfolio Approach";
+
+
+"Dunbar's Number" -> {"Mentorship Programs", "Community Involvement", "Community Diversification", "Working Groups"};
+"Conviction Voting" -> "Long-Term Participation Rewards";
+"Shares for Sweat" -> "Token-Based Rewards";
+
+"Transparent Trackability" -> {"Transparent Governance"};
+
+"Stakeholder Synthesis" -> "Working Groups";
+"Iterative Decision Framework" -> "Feedback Loops";
+"Community Value Alignment" -> {"Feedback Loops", "RFPs"};
+
+"Political Decentralization" -> {"Decentralized Decision-Making"};
+"Logical Decentralization" -> "Portfolio Approach";
+"Coin Voting" -> {"Token-Based Rewards", "Multi-factorial Consensus"};
+"Citizen Voting" -> {"Credible Neutrality", "Multi-factorial Consensus"};
+"Conviction Voting" -> {"Token-Based Rewards","Multi-factorial Consensus"};
+"Quadratic Voting" -> {"Credible Neutrality", "Multi-factorial Consensus"};
+"Multi-factorial Consensus" -> {"Scalable Decision-Making", "Credible Neutrality", "Legitimacy", "Decentralized Decision-Making", "Political Decentralization"};
+"Mica Secret Voting" -> {"Credible Neutrality"};
+
+"Control as a Liability" -> "Decentralized Autonomy";
+"CDP Voting" -> {"Staking Mechanisms", "Coin Voting"};
+"Future Kindness" -> {"Staking Mechanisms", "Well Being"};
+
+"Evergreen" -> {"Bounties","RFPs","Predefined Action Protocols"};
+
+"Infrastructure" -> "Resource Development";
+"Grants" -> {"Infrastructure", "Institutions"};
+"Bounties" -> {"Infrastructure", "Risk Management", "Performance-Based Bonuses"};
+"Innovation Lab" -> {"Infrastructure"};
+
+"Institutions" -> {"Resource Development", "Community Involvement"};
+
+"Biz Dev Agents" -> {"Institutions","Grants"};
+"Seconded Resources" -> {"Institutions", "Grants"};
+"RFPs" -> {"Grants"};
+
+"Working Groups" -> {"Community Involvement", "Evergreen", "RFPs", "Community Champions"};
+"Good UI" -> "Predefined Action Protocols";
+"Define Affordances/Disaffordances" -> "Predefined Action Protocols";
+"Right to Resignation" -> {"Well Being","Levels Of Intensity"};
+"Whole Process" -> {"Grants", "Bounties"};
+
+"Job Boundaries" -> {"Decentralized Autonomy", "Cross-functional Teams", "Working Groups","Whole Process"};
+
+"Harvest Teams" -> {"Convertible Grants"};
+"Levels of Intensity" -> {"Well Being"};
+"Well Being" -> "Incentive Alignment";
+"Futarchy" -> "Staking Mechanisms";
+"Rage Quit" -> "Well Being";
+
+"Contingent Bribes" -> {"Bribes", "Mica Secret Voting"};
+"Bribes" -> {"Political Decentralization"}
+"Subtraction" -> {"Control as a Liability"}
+"Right Size" -> {"Grants", "Community Involvement", "Scalable Decision-Making"}
+
+
+
+    subgraph{rank=max; "Resource Optimization"}
+
+    
+
+}

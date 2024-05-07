@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JBKZPG9GLYV');
+  </script>
+  
+  <div class="center debug">
+    <div>
+      {% include controls.html %}
+      <p style="font-size: 20px;">
+        {% if page.layout == 'home' %}<b>{% endif %}<a href="/">Home</a>{% if page.layout == 'home' %}</b>{% endif %}
+        
+        / <a href="/toc.html">Contents</a> 
+        / {% if site.donations %} {% if page.layout == 'donations' %}<b>{% endif %}
+           <a href="https://icdevs.org/donations.html">Donations</a>{% if page.layout == 'donations' %}</b>{% endif %} {% endif %}
+         / {% if page.layout == 'news' %}</b>{% endif %} <a href="/news.html">News</a> {% if page.layout == 'news' %}</b>{% endif %}
+        {% if site.contact %} {% if page.layout == 'contact' %}<b>{% endif %}
+        / <a href="/contact.html">Contact</a>{% if page.layout == 'contact' %}</b>{% endif %} {% endif %}
+
+
+      </p>
+    <div>
+    {{ content }}
+  </div>
+  {% if site.edit-date %}
+    <p style="text-align: right;">
+      <small>last edited</small>
+    </p>
+  {% endif %}
+    {% include footer.html %}
+</body>
+</html>

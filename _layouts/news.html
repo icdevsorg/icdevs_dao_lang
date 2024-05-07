@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  <div class="center">
+    <div>
+      {% include controls.html %}
+      <p style="font-size: 20px;">
+        {% if page.layout == 'home' %}<b>{% endif %}<a href="/">Home</a>{% if page.layout == 'home' %}</b>{% endif %}
+        {% if site.who_we_are %} {% if page.layout == 'who_we_are' %}<b>{% endif %}
+          / <a href="/who_we_are.html">Who We Are</a>{% if page.layout == 'who_we_are' %}</b>{% endif %} {% endif %}
+        / {% if site.donations %} {% if page.layout == 'donations' %}<b>{% endif %}
+           <a href="/donations.html">Donations</a>{% if page.layout == 'donations' %}</b>{% endif %} {% endif %}
+
+         / {% if page.layout == 'news' %}</b>{% endif %} <a href="/news.html">News</a> {% if page.layout == 'news' %}</b>{% endif %}
+        {% if site.contact %} {% if page.layout == 'contact' %}<b>{% endif %}
+        / <a href="/contact.html">Contact</a>{% if page.layout == 'contact' %}</b>{% endif %} {% endif %}
+      </p>
+    <div>
+    <div id="archives">
+      {% for category in site.categories %}
+        <div class="archive-group">
+          {% capture category_name %}{{ category | first }}{% endcapture %}
+          <div id="#{{ category_name | slugize }}"></div>
+          <h3 class="category-head">
+            {{ category_name }}
+          </h3>
+          <a name="{{ category_name | slugize }}"></a>
+          {% for post in site.categories[category_name] %}
+          <article class="archive-item">
+            <div style="line-height:14px;height:14px; border-bottom:2px dotted;">
+                <p style="text-align:left;">
+                  <a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+                  <span style="float:right;">
+                      {{post.date|date:'%B %d, %Y'}}
+                  </span>
+                </p>
+              </div>
+          </article>
+          {% endfor %}
+        </div>
+      {% endfor %}
+      </div>
+  </div>
+  <footer style="position:fixed;bottom:5px;">
+    <p style="text-align:left;">
+    Developed by ICDevs.org  &nbsp;&nbsp;&nbsp;
+    <span style="float:right;">
+      {% include socials.html %}
+    </span>
+    </p>
+  </footer>
+</body>
+</html>
