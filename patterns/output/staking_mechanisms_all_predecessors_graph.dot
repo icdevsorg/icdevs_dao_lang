@@ -1,0 +1,16 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Staking Mechanisms"	[label="Staking Mechanisms\nStake tokens for decision participation"];
+	Futarchy	[label="Futarchy\nGovernance through prediction markets"];
+	Futarchy -> "Staking Mechanisms";
+	"CDP Voting"	[label="CDP Voting\nVoting power based on collateralized positions"];
+	"CDP Voting" -> "Staking Mechanisms";
+	"Future Kindness"	[label="Future Kindness\nBe kind to your future self.\n Avoid situations that will cause pain in the future."];
+	"Future Kindness" -> "Staking Mechanisms";
+}

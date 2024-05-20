@@ -1,0 +1,40 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Performance-Based Bonuses"	[label="Performance-Based Bonuses\nBonuses for outstanding performance"];
+	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+	"Contribution Tracking" -> "Performance-Based Bonuses";
+	"Escrow and Milestone Payments"	[label="Escrow and Milestone Payments\nPayments based on achieving milestones"];
+	"Escrow and Milestone Payments" -> "Performance-Based Bonuses";
+	"Long-Term Participation Rewards"	[label="Long-Term Participation Rewards\nRewards for long-term participation"];
+	"Long-Term Participation Rewards" -> "Performance-Based Bonuses";
+	Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+	Bounties -> "Performance-Based Bonuses";
+	Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+	Evergreen -> Bounties;
+	"Whole Process"	[label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
+	"Whole Process" -> Bounties;
+	"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
+	"Job Boundaries" -> "Whole Process";
+	"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	"Working Groups" -> Evergreen;
+	"Role Rotation"	[label="Role Rotation\nRotate roles within the DAO"];
+	"Role Rotation" -> "Working Groups";
+	"Stakeholder Synthesis"	[label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+	"Stakeholder Synthesis" -> "Working Groups";
+	"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	"Dunbar's Number" -> "Working Groups";
+	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
+	"Communication Channels" -> "Dunbar's Number";
+	Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	Frivolity -> "Dunbar's Number";
+	"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	"Skill Inventory" -> "Role Rotation";
+	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+	"Conviction Voting" -> "Long-Term Participation Rewards";
+}

@@ -1,0 +1,29 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Feedback Reward System"	[label="Feedback Reward System\nRewards for providing feedback"];
+	"Token-Based Rewards"	[label="Token-Based Rewards\nUse DAO tokens as a reward system"];
+	"Token-Based Rewards" -> "Feedback Reward System";
+	"Staking Mechanisms"	[label="Staking Mechanisms\nStake tokens for decision participation"];
+	"Staking Mechanisms" -> "Token-Based Rewards";
+	"Coin Voting"	[label="Coin Voting\nVoting power proportional to token hold"];
+	"Staking Mechanisms" -> "Coin Voting";
+	"Coin Voting" -> "Token-Based Rewards";
+	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+	"Conviction Voting" -> "Token-Based Rewards";
+	"Shares for Sweat"	[label=""];
+	"Shares for Sweat" -> "Token-Based Rewards";
+	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+	"Contribution Tracking" -> "Shares for Sweat";
+	"CDP Voting"	[label="CDP Voting\nVoting power based on collateralized positions"];
+	"CDP Voting" -> "Coin Voting";
+	Futarchy	[label="Futarchy\nGovernance through prediction markets"];
+	Futarchy -> "Staking Mechanisms";
+	"Future Kindness"	[label="Future Kindness\nBe kind to your future self.\n Avoid situations that will cause pain in the future."];
+	"Future Kindness" -> "Staking Mechanisms";
+}

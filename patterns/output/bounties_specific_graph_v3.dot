@@ -1,0 +1,30 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+		"Whole Process"	[label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Risk Management"	[label="Risk Management\nSpread investments to mitigate risks"];
+		"Performance-Based Bonuses"	[label="Performance-Based Bonuses\nBonuses for outstanding performance"];
+		Infrastructure	[label="Infrastructure\nDevelop software and continually useable tools"];
+	}
+	Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+	Bounties -> "Risk Management";
+	Bounties -> "Performance-Based Bonuses";
+	Bounties -> Infrastructure;
+	Evergreen -> Bounties;
+	"Whole Process" -> Bounties;
+}

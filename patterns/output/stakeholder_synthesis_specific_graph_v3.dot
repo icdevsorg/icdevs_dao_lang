@@ -1,0 +1,17 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	}
+	"Stakeholder Synthesis"	[label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+	"Stakeholder Synthesis" -> "Working Groups";
+}

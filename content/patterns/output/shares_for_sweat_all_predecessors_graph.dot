@@ -1,0 +1,12 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Shares for Sweat"	[label=""];
+	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+	"Contribution Tracking" -> "Shares for Sweat";
+}

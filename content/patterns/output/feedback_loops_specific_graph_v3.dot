@@ -1,0 +1,32 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Iterative Funding"	[label="Iterative Funding\nPhased funding approach based on milestone achievements"];
+		"Feedback Integration Teams"	[label="Feedback Integration Teams\nTeams to integrate feedback into planning"];
+		"Feedback Reward System"	[label="Feedback Reward System\nRewards for providing feedback"];
+		"Iterative Decision Framework"	[label="Iterative Decision Framework\nRevising and evolving decisions through iterative feedback"];
+		"Community Value Alignment"	[label="Community Value Alignment\nEnsure alignment with core values and vision"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Impact Measurement"	[label="Impact Measurement\nEvaluate project success and impact"];
+	}
+	"Feedback Loops"	[label="Feedback Loops\nIntegrate community feedback"];
+	"Feedback Loops" -> "Impact Measurement";
+	"Iterative Funding" -> "Feedback Loops";
+	"Feedback Integration Teams" -> "Feedback Loops";
+	"Feedback Reward System" -> "Feedback Loops";
+	"Iterative Decision Framework" -> "Feedback Loops";
+	"Community Value Alignment" -> "Feedback Loops";
+}

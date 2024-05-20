@@ -1,0 +1,28 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Resource Development"	[label="Resource Development\nDevelop resources organically"];
+		"Cross-functional Teams"	[label="Cross-functional Teams\nTeams with diverse expertise"];
+		"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	}
+	"Role Rotation"	[label="Role Rotation\nRotate roles within the DAO"];
+	"Role Rotation" -> "Resource Development";
+	"Role Rotation" -> "Cross-functional Teams";
+	"Role Rotation" -> "Working Groups";
+	"Skill Inventory" -> "Role Rotation";
+}

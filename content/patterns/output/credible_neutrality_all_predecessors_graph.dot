@@ -1,0 +1,34 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Credible Neutrality"	[label="Credible Neutrality\nCreate impartial and fair mechanisms"];
+	"Citizen Voting"	[label="Citizen Voting\nOne person, one vote system"];
+	"Citizen Voting" -> "Credible Neutrality";
+	"Multi-factorial Consensus"	[label="Multi-factorial Consensus\nIntegrate multiple factors before final decision"];
+	"Citizen Voting" -> "Multi-factorial Consensus";
+	"Quadratic Voting"	[label="Quadratic Voting\nCost of vote is square of votes, allowing minor voice"];
+	"Quadratic Voting" -> "Credible Neutrality";
+	"Quadratic Voting" -> "Multi-factorial Consensus";
+	"Multi-factorial Consensus" -> "Credible Neutrality";
+	"Mica Secret Voting"	[label="Mica Secret Voting\nEnsure voter preferences are secret until all cast"];
+	"Mica Secret Voting" -> "Credible Neutrality";
+	"Contingent Bribes"	[label="Contingent Bribes\nBribes only paid out upon the enactment or ratification of a vote."];
+	"Contingent Bribes" -> "Mica Secret Voting";
+	"Coin Voting"	[label="Coin Voting\nVoting power proportional to token hold"];
+	"Coin Voting" -> "Multi-factorial Consensus";
+	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+	"Conviction Voting" -> "Multi-factorial Consensus";
+	"Staking Mechanisms"	[label="Staking Mechanisms\nStake tokens for decision participation"];
+	"Staking Mechanisms" -> "Coin Voting";
+	"CDP Voting"	[label="CDP Voting\nVoting power based on collateralized positions"];
+	"CDP Voting" -> "Coin Voting";
+	Futarchy	[label="Futarchy\nGovernance through prediction markets"];
+	Futarchy -> "Staking Mechanisms";
+	"Future Kindness"	[label="Future Kindness\nBe kind to your future self.\n Avoid situations that will cause pain in the future."];
+	"Future Kindness" -> "Staking Mechanisms";
+}

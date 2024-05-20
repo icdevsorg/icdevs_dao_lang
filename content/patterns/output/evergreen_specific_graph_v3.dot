@@ -1,0 +1,28 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Predefined Action Protocols"	[label="Predefined Action Protocols\nClear protocols for common scenarios"];
+		Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+		RFPs	[label="RFPs\nIssue RFPs to focus grant proposals"];
+	}
+	Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+	Evergreen -> "Predefined Action Protocols";
+	Evergreen -> Bounties;
+	Evergreen -> RFPs;
+	"Working Groups" -> Evergreen;
+}

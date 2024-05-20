@@ -1,0 +1,30 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+		"Escrow and Milestone Payments"	[label="Escrow and Milestone Payments\nPayments based on achieving milestones"];
+		"Long-Term Participation Rewards"	[label="Long-Term Participation Rewards\nRewards for long-term participation"];
+		Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Incentive Alignment"	[label="Incentive Alignment\nAlign incentives with long-term goals"];
+	}
+	"Performance-Based Bonuses"	[label="Performance-Based Bonuses\nBonuses for outstanding performance"];
+	"Performance-Based Bonuses" -> "Incentive Alignment";
+	"Contribution Tracking" -> "Performance-Based Bonuses";
+	"Escrow and Milestone Payments" -> "Performance-Based Bonuses";
+	"Long-Term Participation Rewards" -> "Performance-Based Bonuses";
+	Bounties -> "Performance-Based Bonuses";
+}

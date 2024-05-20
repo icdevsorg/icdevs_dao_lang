@@ -1,0 +1,26 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+		"Resource Development"	[label="Resource Development\nDevelop resources organically"];
+	}
+	"Community Champions"	[label="Community Champions\nEmpower members to act as community champions"];
+	"Community Champions" -> "Community Involvement";
+	"Community Champions" -> "Resource Development";
+	"Working Groups" -> "Community Champions";
+}

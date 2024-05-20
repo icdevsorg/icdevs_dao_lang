@@ -1,0 +1,19 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Mica Secret Voting"	[label="Mica Secret Voting\nEnsure voter preferences are secret until all cast"];
+		Bribes	[label="Bribes\nManipulating votes through the offer of resources to voters for their vote."];
+	}
+	"Contingent Bribes"	[label="Contingent Bribes\nBribes only paid out upon the enactment or ratification of a vote."];
+	"Contingent Bribes" -> "Mica Secret Voting";
+	"Contingent Bribes" -> Bribes;
+}

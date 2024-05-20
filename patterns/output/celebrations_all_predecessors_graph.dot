@@ -1,0 +1,16 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	Celebrations	[label="Celebrations\nTake time to celebrate as a community.\n It builds trust and common experience"];
+	Seasons	[label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
+	Seasons -> Celebrations;
+	Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	Frivolity -> Celebrations;
+	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Report" -> Seasons;
+}

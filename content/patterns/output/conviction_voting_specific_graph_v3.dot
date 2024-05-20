@@ -1,0 +1,21 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Token-Based Rewards"	[label="Token-Based Rewards\nUse DAO tokens as a reward system"];
+		"Long-Term Participation Rewards"	[label="Long-Term Participation Rewards\nRewards for long-term participation"];
+		"Multi-factorial Consensus"	[label="Multi-factorial Consensus\nIntegrate multiple factors before final decision"];
+	}
+	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+	"Conviction Voting" -> "Token-Based Rewards";
+	"Conviction Voting" -> "Long-Term Participation Rewards";
+	"Conviction Voting" -> "Multi-factorial Consensus";
+}

@@ -1,0 +1,26 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		Seasons	[label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
+		Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+	}
+	Celebrations	[label="Celebrations\nTake time to celebrate as a community.\n It builds trust and common experience"];
+	Celebrations -> "Community Involvement";
+	Seasons -> Celebrations;
+	Frivolity -> Celebrations;
+}

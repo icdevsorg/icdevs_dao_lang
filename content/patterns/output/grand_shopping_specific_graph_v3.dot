@@ -1,0 +1,17 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		Grants	[label="Grants\nDeploy resources to developers and companies that can help an organization achieve goals"];
+	}
+	"Grand Shopping"	[label=""];
+	"Grand Shopping" -> Grants;
+}

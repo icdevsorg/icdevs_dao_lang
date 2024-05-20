@@ -1,0 +1,73 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Incentive Alignment"	[label="Incentive Alignment\nAlign incentives with long-term goals"];
+	"Feedback Reward System"	[label="Feedback Reward System\nRewards for providing feedback"];
+	"Feedback Reward System" -> "Incentive Alignment";
+	"Token-Based Rewards"	[label="Token-Based Rewards\nUse DAO tokens as a reward system"];
+	"Token-Based Rewards" -> "Incentive Alignment";
+	"Reputation Systems"	[label="Reputation Systems\nTrack contributions and behavior"];
+	"Reputation Systems" -> "Incentive Alignment";
+	"Performance-Based Bonuses"	[label="Performance-Based Bonuses\nBonuses for outstanding performance"];
+	"Performance-Based Bonuses" -> "Incentive Alignment";
+	"Democratic Participation Incentives"	[label="Democratic Participation Incentives\nRewards for governance participation"];
+	"Democratic Participation Incentives" -> "Incentive Alignment";
+	"Well Being"	[label="Well Being\nStructures the DAO to enrich people's lives and meet them where they are."];
+	"Well Being" -> "Incentive Alignment";
+	"Rage Quit"	[label="Rage Quit\nAllow members to withdraw their investments if they disagree"];
+	"Rage Quit" -> "Well Being";
+	"Future Kindness"	[label="Future Kindness\nBe kind to your future self.\n Avoid situations that will cause pain in the future."];
+	"Future Kindness" -> "Well Being";
+	"Levels of Intensity"	[label="Levels of Intensity\nStructures participation and decision-making into\n different tiers based on required dedication and impact"];
+	"Levels of Intensity" -> "Well Being";
+	"Right to Resignation"	[label="Right to Resignation\nDAO members should not be precluded from leaving the DAO or a job withing the DAO.\n"];
+	"Right to Resignation" -> "Well Being";
+	"Inability to Fork External Assets"	[label="Inability to Fork External Assets\nLimits of forking in decentralized networks"];
+	"Inability to Fork External Assets" -> "Rage Quit";
+	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+	"Contribution Tracking" -> "Performance-Based Bonuses";
+	"Escrow and Milestone Payments"	[label="Escrow and Milestone Payments\nPayments based on achieving milestones"];
+	"Escrow and Milestone Payments" -> "Performance-Based Bonuses";
+	"Long-Term Participation Rewards"	[label="Long-Term Participation Rewards\nRewards for long-term participation"];
+	"Long-Term Participation Rewards" -> "Performance-Based Bonuses";
+	Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+	Bounties -> "Performance-Based Bonuses";
+	Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+	Evergreen -> Bounties;
+	"Whole Process"	[label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
+	"Whole Process" -> Bounties;
+	"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
+	"Job Boundaries" -> "Whole Process";
+	"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	"Working Groups" -> Evergreen;
+	"Role Rotation"	[label="Role Rotation\nRotate roles within the DAO"];
+	"Role Rotation" -> "Working Groups";
+	"Stakeholder Synthesis"	[label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+	"Stakeholder Synthesis" -> "Working Groups";
+	"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	"Dunbar's Number" -> "Working Groups";
+	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
+	"Communication Channels" -> "Dunbar's Number";
+	Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	Frivolity -> "Dunbar's Number";
+	"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	"Skill Inventory" -> "Role Rotation";
+	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+	"Conviction Voting" -> "Long-Term Participation Rewards";
+	"Staking Mechanisms"	[label="Staking Mechanisms\nStake tokens for decision participation"];
+	"Staking Mechanisms" -> "Token-Based Rewards";
+	"Coin Voting"	[label="Coin Voting\nVoting power proportional to token hold"];
+	"Staking Mechanisms" -> "Coin Voting";
+	"Coin Voting" -> "Token-Based Rewards";
+	"Shares for Sweat"	[label=""];
+	"Shares for Sweat" -> "Token-Based Rewards";
+	"CDP Voting"	[label="CDP Voting\nVoting power based on collateralized positions"];
+	"CDP Voting" -> "Coin Voting";
+	Futarchy	[label="Futarchy\nGovernance through prediction markets"];
+	Futarchy -> "Staking Mechanisms";
+}

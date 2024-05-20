@@ -1,0 +1,17 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Portfolio Approach"	[label="Portfolio Approach\nDiverse portfolio to mitigate risks"];
+	}
+	"Innovation Labs"	[label="Innovation Labs\nLabs for creativity and skill application"];
+	"Innovation Labs" -> "Portfolio Approach";
+}

@@ -1,0 +1,18 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Convertible Grants"	[label="Convertible Grants\nGrants that can be converted to tokens at a later date to benefit the DAO.\n"];
+	}
+	"Harvest Teams"	[label="Harvest Teams\nSpecial teams or committees that focus on extracting and implementing\n actionable insights from completed projects \
+or phases"];
+	"Harvest Teams" -> "Convertible Grants";
+}

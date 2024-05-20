@@ -1,0 +1,32 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Feedback Loops"	[label="Feedback Loops\nIntegrate community feedback"];
+		"Immutable Records"	[label="Immutable Records\nCreate tamper-proof records of all financial dealings"];
+		"Quantitative Analysis"	[label="Quantitative Analysis\nDevelop metrics for impact measurement"];
+		"Qualitative Assessment"	[label="Qualitative Assessment\nComplement quantitative data with qualitative insights"];
+		"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Resource Optimization"	[label="Resource Optimization\nMaximize efficiency and effectiveness of resource utilization"];
+	}
+	"Impact Measurement"	[label="Impact Measurement\nEvaluate project success and impact"];
+	"Impact Measurement" -> "Resource Optimization";
+	"Feedback Loops" -> "Impact Measurement";
+	"Immutable Records" -> "Impact Measurement";
+	"Quantitative Analysis" -> "Impact Measurement";
+	"Qualitative Assessment" -> "Impact Measurement";
+	"Annual Report" -> "Impact Measurement";
+}

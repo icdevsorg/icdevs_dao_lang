@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve" : "bundle exec jekyll serve",
-    "build" : "bundle exec jekyll build"
+    "build" : "bundle exec jekyll build",
+    "buildsite" : "bash ./scripts/build.sh"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-icdevs:icdevs/Icdevs_fleeksite.git"
+    "url": "git@github.com-skilesare:skilesare/icdevs_dao_lang.git"
   },
   "author": "",
   "license": "ISC"

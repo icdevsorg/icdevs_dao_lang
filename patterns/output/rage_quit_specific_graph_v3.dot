@@ -1,0 +1,24 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Inability to Fork External Assets"	[label="Inability to Fork External Assets\nLimits of forking in decentralized networks"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Well Being"	[label="Well Being\nStructures the DAO to enrich people's lives and meet them where they are."];
+	}
+	"Rage Quit"	[label="Rage Quit\nAllow members to withdraw their investments if they disagree"];
+	"Rage Quit" -> "Well Being";
+	"Inability to Fork External Assets" -> "Rage Quit";
+}

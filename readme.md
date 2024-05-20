@@ -1,5 +1,5 @@
 python3 ./scripts/main.py ./patterns.dot ./content/patterns/output
-python3 inject_front_matter.pyx
+python3 inject_front_matter.py
 
 https://stackoverflow.com/questions/40266604/pip-install-pygraphviz-fails-failed-building-wheel-for-pygraphviz
 

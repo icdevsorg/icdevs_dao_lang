@@ -80,7 +80,6 @@ def create_all_predecessors_graph(graph, node_name, output_dir):
 
     filename = f"{node_name.replace(' ', '_').replace('/', '_').replace('-', '_').lower()}_all_predecessors_graph.dot"
 
-    filename = f"{node_name.replace(' ', '_').replace('/', '_')}_all_predecessors_graph.dot"
     subgraph.write(os.path.join(output_dir, filename))
     subgraph.layout(prog='dot')
     subgraph.draw(os.path.join(output_dir, filename.replace('.dot', '.png')), format='png')

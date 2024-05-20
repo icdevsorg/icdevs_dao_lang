@@ -1,0 +1,24 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Token-Based Rewards"	[label="Token-Based Rewards\nUse DAO tokens as a reward system"];
+	}
+	"Shares for Sweat"	[label=""];
+	"Shares for Sweat" -> "Token-Based Rewards";
+	"Contribution Tracking" -> "Shares for Sweat";
+}

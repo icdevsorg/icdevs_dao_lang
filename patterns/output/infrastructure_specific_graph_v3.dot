@@ -1,0 +1,28 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+		Grants	[label="Grants\nDeploy resources to developers and companies that can help an organization achieve goals"];
+		"Innovation Lab"	[label=""];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Resource Development"	[label="Resource Development\nDevelop resources organically"];
+	}
+	Infrastructure	[label="Infrastructure\nDevelop software and continually useable tools"];
+	Infrastructure -> "Resource Development";
+	Bounties -> Infrastructure;
+	Grants -> Infrastructure;
+	"Innovation Lab" -> Infrastructure;
+}

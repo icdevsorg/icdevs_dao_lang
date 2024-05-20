@@ -1,0 +1,46 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Iterative Funding"	[label="Iterative Funding\nPhased funding approach based on milestone achievements"];
+		RFPs	[label="RFPs\nIssue RFPs to focus grant proposals"];
+		"Biz Dev Agents"	[label="Biz Dev Agents\nSpecialized roles within a DAO tasked with fostering\n business development and strategic partnerships"];
+		"Seconded Resources"	[label="Seconded Resources\nDedicated personnel or assets from one department\n or affiliated group to another within the DAO"];
+		"Whole Process"	[label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
+		"Right Size"	[label="Right Size\nIssuing little grants can take as much time as issuing large grants.\n"];
+		"Bridge Feedback"	[label="Bridge Feedback\nProvide only positive feedback that point rejected teams toward success.\n"];
+		"Target Professionals"	[label="Target Professionals\nPrioritize funding professionals over new starters as they have more success.\n"];
+		"Grant Shopping"	[label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
+		"Grand Shopping"	[label=""];
+		Showcase	[label=""];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		Infrastructure	[label="Infrastructure\nDevelop software and continually useable tools"];
+		Institutions	[label="Institutions\nDevelop enduring organizations that support the protocol"];
+	}
+	Grants	[label="Grants\nDeploy resources to developers and companies that can help an organization achieve goals"];
+	Grants -> Infrastructure;
+	Grants -> Institutions;
+	"Iterative Funding" -> Grants;
+	RFPs -> Grants;
+	"Biz Dev Agents" -> Grants;
+	"Seconded Resources" -> Grants;
+	"Whole Process" -> Grants;
+	"Right Size" -> Grants;
+	"Bridge Feedback" -> Grants;
+	"Target Professionals" -> Grants;
+	"Grant Shopping" -> Grants;
+	"Grand Shopping" -> Grants;
+	Showcase -> Grants;
+}

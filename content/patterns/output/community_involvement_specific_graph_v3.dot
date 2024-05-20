@@ -1,0 +1,40 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Transparent Governance"	[label="Transparent Governance\nClear and open governance structures"];
+		"Educational Outreach"	[label="Educational Outreach\nEducate about technologies and governance models"];
+		"Community Champions"	[label="Community Champions\nEmpower members to act as community champions"];
+		"Decentralized Autonomy"	[label="Decentralized Autonomy\nDelegate decision-making powers to autonomous groups"];
+		Celebrations	[label="Celebrations\nTake time to celebrate as a community.\n It builds trust and common experience"];
+		Institutions	[label="Institutions\nDevelop enduring organizations that support the protocol"];
+		"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+		"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+		"Right Size"	[label="Right Size\nIssuing little grants can take as much time as issuing large grants.\n"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Resource Optimization"	[label="Resource Optimization\nMaximize efficiency and effectiveness of resource utilization"];
+	}
+	"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+	"Community Involvement" -> "Resource Optimization";
+	"Transparent Governance" -> "Community Involvement";
+	"Educational Outreach" -> "Community Involvement";
+	"Community Champions" -> "Community Involvement";
+	"Decentralized Autonomy" -> "Community Involvement";
+	Celebrations -> "Community Involvement";
+	Institutions -> "Community Involvement";
+	"Working Groups" -> "Community Involvement";
+	"Dunbar's Number" -> "Community Involvement";
+	"Right Size" -> "Community Involvement";
+}

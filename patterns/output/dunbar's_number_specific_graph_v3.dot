@@ -1,0 +1,32 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
+		Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+		"Mentorship Programs"	[label="Mentorship Programs\nMentorship to accelerate learning"];
+		"Community Diversification"	[label="Community Diversification\nFoster diverse community base"];
+		"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	}
+	"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	"Dunbar's Number" -> "Community Involvement";
+	"Dunbar's Number" -> "Mentorship Programs";
+	"Dunbar's Number" -> "Community Diversification";
+	"Dunbar's Number" -> "Working Groups";
+	"Communication Channels" -> "Dunbar's Number";
+	Frivolity -> "Dunbar's Number";
+}

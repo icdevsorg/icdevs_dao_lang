@@ -63,6 +63,17 @@ include:
 exclude:
   - vite-react-motoko
   - src
+  - scripts
+  - content
+  - canisterid.json
+  - dfx.json
+  - inject_fron_matter.py
+  - jek.gemspec
+  - LICENSE.txt
+  - package.json
+  - patterns.dot
+  - readme.md
+  
 
 
 

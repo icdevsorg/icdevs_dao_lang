@@ -1,0 +1,23 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Qualitative Assessment"	[label="Qualitative Assessment\nComplement quantitative data with qualitative insights"];
+		"Regular Community Check-Ins"	[label="Regular Community Check-Ins\nScheduled meetings for community discussion"];
+		"Feedback Integration Teams"	[label="Feedback Integration Teams\nTeams to integrate feedback into planning"];
+		"Quantitative Assessment"	[label=""];
+	}
+	"Dynamic Surveys"	[label="Dynamic Surveys\nRegularly updated surveys to gather feedback"];
+	"Dynamic Surveys" -> "Qualitative Assessment";
+	"Dynamic Surveys" -> "Regular Community Check-Ins";
+	"Dynamic Surveys" -> "Feedback Integration Teams";
+	"Dynamic Surveys" -> "Quantitative Assessment";
+}

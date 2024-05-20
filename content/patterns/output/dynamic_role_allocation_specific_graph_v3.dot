@@ -1,0 +1,24 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Predefined Action Protocols"	[label="Predefined Action Protocols\nClear protocols for common scenarios"];
+	}
+	"Dynamic Role Allocation"	[label="Dynamic Role Allocation\nFlexible role definitions based on needs"];
+	"Dynamic Role Allocation" -> "Predefined Action Protocols";
+	"Skill Inventory" -> "Dynamic Role Allocation";
+}

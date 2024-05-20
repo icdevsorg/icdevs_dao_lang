@@ -1,0 +1,94 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+	"Transparent Governance"	[label="Transparent Governance\nClear and open governance structures"];
+	"Transparent Governance" -> "Community Involvement";
+	"Educational Outreach"	[label="Educational Outreach\nEducate about technologies and governance models"];
+	"Educational Outreach" -> "Community Involvement";
+	Institutions	[label="Institutions\nDevelop enduring organizations that support the protocol"];
+	"Educational Outreach" -> Institutions;
+	"Community Champions"	[label="Community Champions\nEmpower members to act as community champions"];
+	"Community Champions" -> "Community Involvement";
+	"Decentralized Autonomy"	[label="Decentralized Autonomy\nDelegate decision-making powers to autonomous groups"];
+	"Decentralized Autonomy" -> "Community Involvement";
+	Celebrations	[label="Celebrations\nTake time to celebrate as a community.\n It builds trust and common experience"];
+	Celebrations -> "Community Involvement";
+	Institutions -> "Community Involvement";
+	"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	"Working Groups" -> "Community Involvement";
+	"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	"Dunbar's Number" -> "Community Involvement";
+	"Right Size"	[label="Right Size\nIssuing little grants can take as much time as issuing large grants.\n"];
+	"Right Size" -> "Community Involvement";
+	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
+	"Communication Channels" -> "Dunbar's Number";
+	Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	Frivolity -> "Dunbar's Number";
+	"Role Rotation"	[label="Role Rotation\nRotate roles within the DAO"];
+	"Role Rotation" -> "Working Groups";
+	"Stakeholder Synthesis"	[label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+	"Stakeholder Synthesis" -> "Working Groups";
+	"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
+	"Job Boundaries" -> "Working Groups";
+	"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	"Skill Inventory" -> "Role Rotation";
+	Grants	[label="Grants\nDeploy resources to developers and companies that can help an organization achieve goals"];
+	Grants -> Institutions;
+	"Biz Dev Agents"	[label="Biz Dev Agents\nSpecialized roles within a DAO tasked with fostering\n business development and strategic partnerships"];
+	"Biz Dev Agents" -> Institutions;
+	"Seconded Resources"	[label="Seconded Resources\nDedicated personnel or assets from one department\n or affiliated group to another within the DAO"];
+	"Seconded Resources" -> Institutions;
+	"Iterative Funding"	[label="Iterative Funding\nPhased funding approach based on milestone achievements"];
+	"Iterative Funding" -> Grants;
+	RFPs	[label="RFPs\nIssue RFPs to focus grant proposals"];
+	RFPs -> Grants;
+	"Whole Process"	[label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
+	"Whole Process" -> Grants;
+	"Bridge Feedback"	[label="Bridge Feedback\nProvide only positive feedback that point rejected teams toward success.\n"];
+	"Bridge Feedback" -> Grants;
+	"Target Professionals"	[label="Target Professionals\nPrioritize funding professionals over new starters as they have more success.\n"];
+	"Target Professionals" -> Grants;
+	"Grant Shopping"	[label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
+	"Grant Shopping" -> Grants;
+	"Grand Shopping"	[label=""];
+	"Grand Shopping" -> Grants;
+	Showcase	[label=""];
+	Showcase -> Grants;
+	"Community Value Alignment"	[label="Community Value Alignment\nEnsure alignment with core values and vision"];
+	"Community Value Alignment" -> RFPs;
+	Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+	Evergreen -> RFPs;
+	"Regular Community Check-Ins"	[label="Regular Community Check-Ins\nScheduled meetings for community discussion"];
+	"Regular Community Check-Ins" -> "Community Value Alignment";
+	"Dynamic Surveys"	[label="Dynamic Surveys\nRegularly updated surveys to gather feedback"];
+	"Dynamic Surveys" -> "Regular Community Check-Ins";
+	Seasons	[label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
+	Seasons -> "Regular Community Check-Ins";
+	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Report" -> Seasons;
+	"Feedback Integration Teams"	[label="Feedback Integration Teams\nTeams to integrate feedback into planning"];
+	"Feedback Integration Teams" -> "Iterative Funding";
+	"Public Feedback Repositories"	[label="Public Feedback Repositories\nLog of feedback and actions taken"];
+	"Public Feedback Repositories" -> "Feedback Integration Teams";
+	"Real-Time Feedback Channels"	[label="Real-Time Feedback Channels\nReal-time platforms for feedback"];
+	"Real-Time Feedback Channels" -> "Feedback Integration Teams";
+	"Learning and Development Fund"	[label="Learning and Development Fund\nFunds for professional development"];
+	"Learning and Development Fund" -> "Educational Outreach";
+	"Control as a Liability"	[label="Control as a Liability\nMinimizing control to promote democratic governance"];
+	"Control as a Liability" -> "Decentralized Autonomy";
+	Subtraction	[label="Subtraction\nActively seek to subtract power from the DAO and resist the natural tendency of an organization to grow and accumulate \
+power"];
+	Subtraction -> "Control as a Liability";
+	"Transparent Trackability"	[label="Transparent Trackability\nAll transactions and decisions are transparent and accessible"];
+	"Transparent Trackability" -> "Transparent Governance";
+	"Open Data"	[label="Open Data\nMake financial data and records openly accessible"];
+	"Open Data" -> "Transparent Trackability";
+	"Immutable Records"	[label="Immutable Records\nCreate tamper-proof records of all financial dealings"];
+	"Immutable Records" -> "Transparent Trackability";
+}

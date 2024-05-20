@@ -1,0 +1,26 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Transparent Trackability"	[label="Transparent Trackability\nAll transactions and decisions are transparent and accessible"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+		Legitimacy	[label="Legitimacy\nFocus on transparent and fair decision-making processes"];
+	}
+	"Transparent Governance"	[label="Transparent Governance\nClear and open governance structures"];
+	"Transparent Governance" -> "Community Involvement";
+	"Transparent Governance" -> Legitimacy;
+	"Transparent Trackability" -> "Transparent Governance";
+}

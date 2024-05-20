@@ -1,0 +1,21 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Feedback Integration Teams"	[label="Feedback Integration Teams\nTeams to integrate feedback into planning"];
+		"Cross-functional Teams"	[label="Cross-functional Teams\nTeams with diverse expertise"];
+		"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	}
+	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
+	"Communication Channels" -> "Feedback Integration Teams";
+	"Communication Channels" -> "Cross-functional Teams";
+	"Communication Channels" -> "Dunbar's Number";
+}

@@ -1,0 +1,28 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Control as a Liability"	[label="Control as a Liability\nMinimizing control to promote democratic governance"];
+		"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+		"Resource Development"	[label="Resource Development\nDevelop resources organically"];
+	}
+	"Decentralized Autonomy"	[label="Decentralized Autonomy\nDelegate decision-making powers to autonomous groups"];
+	"Decentralized Autonomy" -> "Community Involvement";
+	"Decentralized Autonomy" -> "Resource Development";
+	"Control as a Liability" -> "Decentralized Autonomy";
+	"Job Boundaries" -> "Decentralized Autonomy";
+}

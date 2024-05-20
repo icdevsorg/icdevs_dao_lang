@@ -1,0 +1,36 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Role Rotation"	[label="Role Rotation\nRotate roles within the DAO"];
+		"Stakeholder Synthesis"	[label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+		"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
+		"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Community Involvement"	[label="Community Involvement\nEngage community in decision-making"];
+		"Community Champions"	[label="Community Champions\nEmpower members to act as community champions"];
+		Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+		RFPs	[label="RFPs\nIssue RFPs to focus grant proposals"];
+	}
+	"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	"Working Groups" -> "Community Involvement";
+	"Working Groups" -> "Community Champions";
+	"Working Groups" -> Evergreen;
+	"Working Groups" -> RFPs;
+	"Role Rotation" -> "Working Groups";
+	"Stakeholder Synthesis" -> "Working Groups";
+	"Job Boundaries" -> "Working Groups";
+	"Dunbar's Number" -> "Working Groups";
+}

@@ -1,0 +1,34 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Credible Neutrality"	[label="Credible Neutrality\nCreate impartial and fair mechanisms"];
+		Legitimacy	[label="Legitimacy\nFocus on transparent and fair decision-making processes"];
+		"Cross-functional Teams"	[label="Cross-functional Teams\nTeams with diverse expertise"];
+		"Democratic Participation Incentives"	[label="Democratic Participation Incentives\nRewards for governance participation"];
+		"Decentralized Decision-Making"	[label="Decentralized Decision-Making\nSpread decision-making authority"];
+		"Scalable Decision-Making"	[label="Scalable Decision-Making\nProcesses that scale with organization needs"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Resource Optimization"	[label="Resource Optimization\nMaximize efficiency and effectiveness of resource utilization"];
+	}
+	"Effective Action"	[label="Effective Action\nEnable action during instability"];
+	"Effective Action" -> "Resource Optimization";
+	"Credible Neutrality" -> "Effective Action";
+	Legitimacy -> "Effective Action";
+	"Cross-functional Teams" -> "Effective Action";
+	"Democratic Participation Incentives" -> "Effective Action";
+	"Decentralized Decision-Making" -> "Effective Action";
+	"Scalable Decision-Making" -> "Effective Action";
+}

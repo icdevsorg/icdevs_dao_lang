@@ -1,0 +1,78 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Risk Management"	[label="Risk Management\nSpread investments to mitigate risks"];
+	"Portfolio Approach"	[label="Portfolio Approach\nDiverse portfolio to mitigate risks"];
+	"Portfolio Approach" -> "Risk Management";
+	"Financial Reserves"	[label="Financial Reserves\nMaintain reserves for stability"];
+	"Financial Reserves" -> "Risk Management";
+	"Decentralized Decision-Making"	[label="Decentralized Decision-Making\nSpread decision-making authority"];
+	"Decentralized Decision-Making" -> "Risk Management";
+	"Architectural Decentralization"	[label="Architectural Decentralization\nDistribute network across multiple locations"];
+	"Architectural Decentralization" -> "Risk Management";
+	Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
+	Bounties -> "Risk Management";
+	Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+	Evergreen -> Bounties;
+	"Whole Process"	[label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
+	"Whole Process" -> Bounties;
+	"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
+	"Job Boundaries" -> "Whole Process";
+	"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	"Working Groups" -> Evergreen;
+	"Role Rotation"	[label="Role Rotation\nRotate roles within the DAO"];
+	"Role Rotation" -> "Working Groups";
+	"Stakeholder Synthesis"	[label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+	"Stakeholder Synthesis" -> "Working Groups";
+	"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	"Dunbar's Number" -> "Working Groups";
+	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
+	"Communication Channels" -> "Dunbar's Number";
+	Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	Frivolity -> "Dunbar's Number";
+	"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	"Skill Inventory" -> "Role Rotation";
+	"Political Decentralization"	[label="Political Decentralization\nDistribute decision-making authority"];
+	"Political Decentralization" -> "Decentralized Decision-Making";
+	"Multi-factorial Consensus"	[label="Multi-factorial Consensus\nIntegrate multiple factors before final decision"];
+	"Multi-factorial Consensus" -> "Decentralized Decision-Making";
+	"Coin Voting"	[label="Coin Voting\nVoting power proportional to token hold"];
+	"Coin Voting" -> "Multi-factorial Consensus";
+	"Citizen Voting"	[label="Citizen Voting\nOne person, one vote system"];
+	"Citizen Voting" -> "Multi-factorial Consensus";
+	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+	"Conviction Voting" -> "Multi-factorial Consensus";
+	"Quadratic Voting"	[label="Quadratic Voting\nCost of vote is square of votes, allowing minor voice"];
+	"Quadratic Voting" -> "Multi-factorial Consensus";
+	"Staking Mechanisms"	[label="Staking Mechanisms\nStake tokens for decision participation"];
+	"Staking Mechanisms" -> "Coin Voting";
+	"CDP Voting"	[label="CDP Voting\nVoting power based on collateralized positions"];
+	"CDP Voting" -> "Coin Voting";
+	Futarchy	[label="Futarchy\nGovernance through prediction markets"];
+	Futarchy -> "Staking Mechanisms";
+	"Future Kindness"	[label="Future Kindness\nBe kind to your future self.\n Avoid situations that will cause pain in the future."];
+	"Future Kindness" -> "Staking Mechanisms";
+	Bribes	[label="Bribes\nManipulating votes through the offer of resources to voters for their vote."];
+	Bribes -> "Political Decentralization";
+	"Contingent Bribes"	[label="Contingent Bribes\nBribes only paid out upon the enactment or ratification of a vote."];
+	"Contingent Bribes" -> Bribes;
+	"Cross-functional Teams"	[label="Cross-functional Teams\nTeams with diverse expertise"];
+	"Cross-functional Teams" -> "Portfolio Approach";
+	"Innovation Labs"	[label="Innovation Labs\nLabs for creativity and skill application"];
+	"Innovation Labs" -> "Portfolio Approach";
+	"Cross-Platform Engagement"	[label="Cross-Platform Engagement\nEngage with multiple project ecosystems"];
+	"Cross-Platform Engagement" -> "Portfolio Approach";
+	"Community Diversification"	[label="Community Diversification\nFoster diverse community base"];
+	"Community Diversification" -> "Portfolio Approach";
+	"Logical Decentralization"	[label="Logical Decentralization\nDecentralize state and functioning logic"];
+	"Logical Decentralization" -> "Portfolio Approach";
+	"Skill and Role Development Incentives"	[label="Skill and Role Development Incentives\nIncentives for developing new skills"];
+	"Skill and Role Development Incentives" -> "Cross-functional Teams";
+	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+	"Contribution Tracking" -> "Skill and Role Development Incentives";
+}

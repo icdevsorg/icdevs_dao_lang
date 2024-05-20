@@ -1,0 +1,26 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Dynamic Surveys"	[label="Dynamic Surveys\nRegularly updated surveys to gather feedback"];
+		Seasons	[label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Community Value Alignment"	[label="Community Value Alignment\nEnsure alignment with core values and vision"];
+	}
+	"Regular Community Check-Ins"	[label="Regular Community Check-Ins\nScheduled meetings for community discussion"];
+	"Regular Community Check-Ins" -> "Community Value Alignment";
+	"Dynamic Surveys" -> "Regular Community Check-Ins";
+	Seasons -> "Regular Community Check-Ins";
+}

@@ -1,0 +1,32 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Staking Mechanisms"	[label="Staking Mechanisms\nStake tokens for decision participation"];
+		"Coin Voting"	[label="Coin Voting\nVoting power proportional to token hold"];
+		"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
+		"Shares for Sweat"	[label=""];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Incentive Alignment"	[label="Incentive Alignment\nAlign incentives with long-term goals"];
+		"Feedback Reward System"	[label="Feedback Reward System\nRewards for providing feedback"];
+	}
+	"Token-Based Rewards"	[label="Token-Based Rewards\nUse DAO tokens as a reward system"];
+	"Token-Based Rewards" -> "Incentive Alignment";
+	"Token-Based Rewards" -> "Feedback Reward System";
+	"Staking Mechanisms" -> "Token-Based Rewards";
+	"Coin Voting" -> "Token-Based Rewards";
+	"Conviction Voting" -> "Token-Based Rewards";
+	"Shares for Sweat" -> "Token-Based Rewards";
+}

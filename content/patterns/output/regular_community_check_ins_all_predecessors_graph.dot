@@ -1,0 +1,16 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Regular Community Check-Ins"	[label="Regular Community Check-Ins\nScheduled meetings for community discussion"];
+	"Dynamic Surveys"	[label="Dynamic Surveys\nRegularly updated surveys to gather feedback"];
+	"Dynamic Surveys" -> "Regular Community Check-Ins";
+	Seasons	[label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
+	Seasons -> "Regular Community Check-Ins";
+	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Report" -> Seasons;
+}

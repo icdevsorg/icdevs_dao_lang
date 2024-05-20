@@ -1,0 +1,30 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		Futarchy	[label="Futarchy\nGovernance through prediction markets"];
+		"CDP Voting"	[label="CDP Voting\nVoting power based on collateralized positions"];
+		"Future Kindness"	[label="Future Kindness\nBe kind to your future self.\n Avoid situations that will cause pain in the future."];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Token-Based Rewards"	[label="Token-Based Rewards\nUse DAO tokens as a reward system"];
+		"Coin Voting"	[label="Coin Voting\nVoting power proportional to token hold"];
+	}
+	"Staking Mechanisms"	[label="Staking Mechanisms\nStake tokens for decision participation"];
+	"Staking Mechanisms" -> "Token-Based Rewards";
+	"Staking Mechanisms" -> "Coin Voting";
+	Futarchy -> "Staking Mechanisms";
+	"CDP Voting" -> "Staking Mechanisms";
+	"Future Kindness" -> "Staking Mechanisms";
+}

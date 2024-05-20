@@ -1,0 +1,24 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_predecessors {
+		graph [rank=max,
+			style=invis
+		];
+		"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	}
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		Grants	[label="Grants\nDeploy resources to developers and companies that can help an organization achieve goals"];
+	}
+	"Target Professionals"	[label="Target Professionals\nPrioritize funding professionals over new starters as they have more success.\n"];
+	"Target Professionals" -> Grants;
+	"Skill Inventory" -> "Target Professionals";
+}

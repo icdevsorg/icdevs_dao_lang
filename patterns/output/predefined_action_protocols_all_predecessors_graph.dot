@@ -1,0 +1,34 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	"Predefined Action Protocols"	[label="Predefined Action Protocols\nClear protocols for common scenarios"];
+	"Dynamic Role Allocation"	[label="Dynamic Role Allocation\nFlexible role definitions based on needs"];
+	"Dynamic Role Allocation" -> "Predefined Action Protocols";
+	Evergreen	[label="Evergreen\nEnsures that bounties, grants, and organizational procedures remain up-to-date"];
+	Evergreen -> "Predefined Action Protocols";
+	"Good UI"	[label="Good UI\nActions need to take the path of least resistance.\n No one needs a second job."];
+	"Good UI" -> "Predefined Action Protocols";
+	"Define Affordances/Disaffordances"	[label="Define Affordances/Disaffordances\nClearly define what should/shouldn't be done to avoid debate."];
+	"Define Affordances/Disaffordances" -> "Predefined Action Protocols";
+	"Working Groups"	[label="Working Groups\nDAO committees formed to address specific needs."];
+	"Working Groups" -> Evergreen;
+	"Role Rotation"	[label="Role Rotation\nRotate roles within the DAO"];
+	"Role Rotation" -> "Working Groups";
+	"Stakeholder Synthesis"	[label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
+	"Stakeholder Synthesis" -> "Working Groups";
+	"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
+	"Job Boundaries" -> "Working Groups";
+	"Dunbar's Number"	[label="Dunbar's Number\nA person is only able to maintain a certain number of connections.\n Those connections have varying levels of strength."];
+	"Dunbar's Number" -> "Working Groups";
+	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
+	"Communication Channels" -> "Dunbar's Number";
+	Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+	Frivolity -> "Dunbar's Number";
+	"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
+	"Skill Inventory" -> "Role Rotation";
+}

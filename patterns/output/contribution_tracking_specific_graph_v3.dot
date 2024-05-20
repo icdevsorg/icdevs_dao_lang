@@ -1,0 +1,23 @@
+digraph "" {
+	graph [nodesep=0.6,
+		rankdir=TB,
+		ranksep=1.2
+	];
+	node [label="\N",
+		shape=box
+	];
+	subgraph cluster_descendants {
+		graph [rank=min,
+			style=invis
+		];
+		"Reputation Systems"	[label="Reputation Systems\nTrack contributions and behavior"];
+		"Performance-Based Bonuses"	[label="Performance-Based Bonuses\nBonuses for outstanding performance"];
+		"Skill and Role Development Incentives"	[label="Skill and Role Development Incentives\nIncentives for developing new skills"];
+		"Shares for Sweat"	[label=""];
+	}
+	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
+	"Contribution Tracking" -> "Reputation Systems";
+	"Contribution Tracking" -> "Performance-Based Bonuses";
+	"Contribution Tracking" -> "Skill and Role Development Incentives";
+	"Contribution Tracking" -> "Shares for Sweat";
+}
