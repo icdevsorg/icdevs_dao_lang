@@ -1,6 +1,6 @@
 ## IR - Immutable Records
 
-![Immutable Records](./output/illustration/immutable_records_illustration_v3.png)
+![Immutable Records](./output/illustrations/immutable_records.png)
 
 ### Supports:
 [Transparent Trackability](./transparent_trackability.html)  
@@ -26,4 +26,4 @@ The real-world application of immutable records can be observed in prominent DAO
 ### Therefore:
 Employ blockchain technology to ensure all critical data within the DAO is recorded reliably and immutably, enhancing trust and transparency.
 
-![Immutable Records](./output/immutable_records_specific_graph_v3.png)
+![Immutable Records](./output/immutable_records_specific_graph.png)

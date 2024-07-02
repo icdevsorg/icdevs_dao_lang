@@ -1,6 +1,6 @@
 ## RPS - Reputation Systems
 
-![Reputation Systems](./output/illustration/reputation_systems_illustration_v3.png)
+![Reputation Systems](./output/illustrations/reputation_systems.png)
 
 ### Supports:
 [Incentive Alignment](./incentive_alignment.html)
@@ -29,6 +29,8 @@ Adopt and continuously refine a reputation system tailored to the DAO’s specif
 
 ### Supported By:
 - [Contribution Tracking](./contribution_tracking.html)
+- [Honour](./honour.html)
+- [Commitment Pooling](./commitment_pooling.html)
 
-![Reputation Systems](./output/reputation_systems_specific_graph_v3.png)
+![Reputation Systems](./output/reputation_systems_specific_graph.png)
 

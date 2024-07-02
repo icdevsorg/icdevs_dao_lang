@@ -1,6 +1,6 @@
 ## TGV - Transparent Governance
 
-![Transparent Governance](./output/illustration/transparent_governance_illustration_v3.png)
+![Transparent Governance](./output/illustrations/transparent_governance.png)
 
 ### Supports:
 
@@ -38,4 +38,4 @@ Design and implement governance systems that not only ensure complete transparen
 
 [Transparent Trackability](./transparent_trackability.html)
 
-![Transparent Governance](./output/transparent_governance_specific_graph_v3.png)
+![Transparent Governance](./output/transparent_governance_specific_graph.png)

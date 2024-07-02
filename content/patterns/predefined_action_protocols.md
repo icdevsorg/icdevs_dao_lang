@@ -1,6 +1,6 @@
 ## PAP - Predefined Action Protocols
 
-![Predefined Action Protocols](./output/illustration/predefined_action_protocols_illustration_v3.png)
+![Predefined Action Protocols](./output/illustrations/predefined_action_protocols.png)
 
 ### Supports:
 [Scalable Decision-Making](./scalable_decision_making.html)
@@ -28,6 +28,6 @@ Establish and standardize protocols that guide members swiftly and effectively t
 ### Supported By:
 [Dynamic Role Allocation](./dynamic_role_allocation.html)  
 [Good UI](./good_ui.html)  
-[Define Affordances/Disaffordances](./define_affordancesdisaffordances.html)
+[Define Affordances/Disaffordances](./define_affordances_disaffordances.html)
 
-![Predefined Action Protocols](./output/predefined_action_protocols_specific_graph_v3.png)
+![Predefined Action Protocols](./output/predefined_action_protocols_specific_graph.png)

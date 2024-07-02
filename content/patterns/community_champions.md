@@ -1,6 +1,6 @@
 ## COM - Community Champions
 
-![Community Champions](./output/illustration/community_champions_illustration_v3.png)
+![Community Champions](./output/illustrations/community_champions.png)
 
 ### Supports:
 [Community Involvement](./community_involvement.html),[Resource Development](./resource_development.html)
@@ -34,4 +34,4 @@ Empower passionate community members to become Community Champions to enhance co
 ### Supported By:
 [Working Groups](./working_groups.html)
 
-![Community Champions](./output/community_champions_specific_graph_v3.png)
+![Community Champions](./output/community_champions_specific_graph.png)

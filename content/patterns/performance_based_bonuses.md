@@ -1,6 +1,6 @@
 ## PBB - Performance-Based Bonuses
 
-![Performance-Based Bonuses](./output/illustration/performance_based_bonuses_illustration_v3.png)
+![Performance-Based Bonuses](./output/illustrations/performance_based_bonuses.png)
 
 ### Supports:
 
@@ -36,4 +36,4 @@ Adopt Performance-Based Bonuses to enhance contributor motivation, align their i
 ### Supported By:
 [Contribution Tracking](./contribution_tracking.html), [Escrow and Milestone Payments](./escrow_and_milestone_payments.html), [Long-Term Participation Rewards](./long_term_participation_rewards.html)
 
-![Performance-Based Bonuses](./output/performance_based_bonuses_specific_graph_v3.png)
+![Performance-Based Bonuses](./output/performance_based_bonuses_specific_graph.png)

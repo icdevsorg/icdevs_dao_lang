@@ -1,6 +1,6 @@
 ## GRS - Grant Shopping
 
-![Grant Shopping](./output/illustration/grant_shopping_illustration_v3.png)
+![Grant Shopping](./output/illustrations/grant_shopping.png)
 
 ### Supports:
 
@@ -29,4 +29,4 @@ Implement stringent vetting procedures that include checks against multiple subm
 To mitigate the effects of grant shopping ensure due diligence and verification in the grant application review process. Utilize technologies for transparent and immutable tracking, and consider collaborative approaches with other organizations to identify and deter multi-application strategies for the same projects.
 
 
-![Grant Shopping](./output/grant_shopping_specific_graph_v3.png)
+![Grant Shopping](./output/grant_shopping_specific_graph.png)

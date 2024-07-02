@@ -1,6 +1,6 @@
 ## CBR - Contingent Bribes
 
-![Contingent Bribes](./output/illustration/contingent_bribes_illustration_v3.png)
+![Contingent Bribes](./output/illustrations/contingent_bribes.png)
 
 ### Supports:
 [Mica Secret Voting](./mica_secret_voting.html)
@@ -26,4 +26,4 @@ To guard against the manipulation of votes through contingent bribes, DAOs shoul
 ### Therefore:
 By reinforcing the voting process with both technological solutions and community governance standards, DAOs can reduce the risk and impact of contingent bribes, preserving the integrity and fairness of collective decision-making.
 
-![Contingent Bribes](./output/contingent_bribes_specific_graph_v3.png)
+![Contingent Bribes](./output/contingent_bribes_specific_graph.png)

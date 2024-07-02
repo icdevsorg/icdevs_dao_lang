@@ -1,6 +1,6 @@
 ## LDG - Logical Decentralization
 
-![Logical Decentralization](./output/illustration/logical_decentralization_illustration_v3.png)
+![Logical Decentralization](./output/illustrations/logical_decentralization.png)
 
 ### Supports:
 [Portfolio Approach](./portfolio_approach.html)
@@ -26,4 +26,4 @@ Implement a design where the decision-making logic and operational processes of 
 ### Therefore:
 Strive to design systems where logical processes are as decentralized as the community or infrastructure, ensuring that the DAO remains robust, adaptable, and democratic in its operations.
 
-![Logical Decentralization](./output/logical_decentralization_specific_graph_v3.png)
+![Logical Decentralization](./output/logical_decentralization_specific_graph.png)

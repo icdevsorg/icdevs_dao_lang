@@ -1,6 +1,6 @@
 ## PFR - Public Feedback Repositories
 
-![Public Feedback Repositories](./output/illustration/public_feedback_repositories_illustration_v3.png)
+![Public Feedback Repositories](./output/illustrations/public_feedback_repositories.png)
 
 ### Supports:
 [Feedback Integration Teams](./feedback_integration_teams.html)
@@ -23,6 +23,6 @@ Implement a structured system called Public Feedback Repositories where all comm
 Create and maintain transparent and immutable public feedback repositories to enhance community trust and ensure accountability in how feedback is processed and acted upon.
 
 ### Supported By:
-[Annual Report](./annual_report.html)
+[Annual Report](./annual_reports.html)
 
-![Public Feedback Repositories](./output/public_feedback_repositories_specific_graph_v3.png)
+![Public Feedback Repositories](./output/public_feedback_repositories_specific_graph.png)

@@ -1,9 +1,9 @@
 ## CIT - Citizen Voting
 
-![Citizen Voting](./output/illustration/citizen_voting_illustration_v3.png)
+![Citizen Voting](./output/illustrations/citizen_voting.png)
 
 ### Supports:
-[Multi-factorial Consensus](./multi-factorial_consensus.html)
+[Multi-factorial Consensus](./multi_factorial_consensus.html)
 
 ### Context:
 In the DAO landscape, governance and decision-making processes often need to reflect the ethos of decentralization fully. One person, one vote is a democratic principle that supports an equal say for all participants, regardless of their wealth or stake in the system.
@@ -26,4 +26,4 @@ Real-world examples include DAOs like [Democracy Earth](https://www.democracy.ea
 Adopt Citizen Voting to ensure each member has an equal say in the decision-making process, backed by a secure, Sybil-resistant identity verification mechanism.
 
 
-![Citizen Voting](./output/citizen_voting_specific_graph_v3.png)
+![Citizen Voting](./output/citizen_voting_specific_graph.png)

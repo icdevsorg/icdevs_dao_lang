@@ -50,8 +50,7 @@ through activities such as...
 * [LGM. Legitimacy](./legitimacy.html)
 * [CNL. Credible Neutrality](./credible_neutrality.html)
 * [DPI. Democratic Participation Incentives](./democratic_participation_incentives.html)
-* [SDM. Scalable Decision-Making](./scalable_decision-making.html)
-* [CFT. Cross-functional Teams](./cross-functional_teams.html)
+* [SDM. Scalable Decision-Making](./scalable_decision_making.html)
 
 ...resulting in...
 
@@ -80,7 +79,7 @@ through activities such as...
 
 ...supported by...
 
-* [RFP. Requests for Proposals](./requests_for_proposals.html)
+* [RFP. Requests for Proposals](./rfps.html)
 * [SCH. Showcase](./showcase.html)
 * [GRS. Grant Shopping](./grant_shopping.html)
 * [WHP. Whole Process](./whole_process.html)
@@ -122,7 +121,7 @@ through activities such as...
 
 ...and...
 
-* [RCC. Regular Community Check-Ins](./regular_community_check-ins.html)
+* [RCC. Regular Community Check-Ins](./regular_community_check_ins.html)
 * [FIT. Feedback Integration Teams](./feedback_integration_teams.html)
 
 ...fortified by...
@@ -146,13 +145,13 @@ through activities such as...
 ...and recorded in...
 
 * [IR. Immutable Records](./immutable_records.html)
-* [ARP. Annual Report](./annual_report.html)
+* [ARP. Annual Reports](./annual_reports.html)
 * [OD. Open Data](./open_data.html)
 
 
 To further develop resources use...
 
-* [CFT. Cross-functional Teams](./cross-functional_teams.html)
+* [CFT. Cross-functional Teams](./cross_functional_teams.html)
 
 ...defined, modified, and maintained with...
 
@@ -193,6 +192,8 @@ Always aligning incentives with...
 * [CTR. Contribution Tracking](./contribution_tracking.html)
 * [EMP. Escrow and Milestone Payments](./escrow_and_milestone_payments.html)
 * [CTR. Contribution Tracking](./contribution_tracking.html)
+* [CP. Commitment Pooling](./commitment_pooling.html)
+* [HON. Honour](./honour.html)
 
 Avoid and manage risk for the DAO with...
 
@@ -201,15 +202,14 @@ Avoid and manage risk for the DAO with...
 
 ...where you diversify the DAO across many areas such as...
 
-* [CFT. Cross-functional Teams](./cross-functional_teams.html)
-* [CPE. Cross-Platform Engagement](./cross_platform_engagement.html)
+* [CPE. Cross-Platform Engagements](./cross_platform_engagements.html)
 * [CDV. Community Diversification](./community_diversification.html)
 * [ILB. Innovation Labs](./innovation_labs.html)
 * [LDG. Logical Decentralization](./logical_decentralization.html)
 
 ...and govern with...
 
-* [DDM. Decentralized Decision-Making](./decentralized_decision-making.html)
+* [DDM. Decentralized Decision-Making](./decentralized_decision_making.html)
 
 ...supported by
 
@@ -249,15 +249,32 @@ Always promoting...
 * [ITF. Inability to Fork External Assets](./inability_to_fork_external_assets.html)
 
 
-Start Exploring: [Resource Optimization](./resouce_development.html)
+Start Exploring: [Resource Optimization](./resource_development.html)
 
 Skip to Form Language: [The Form Language](../forms/form_language.html)
 
 Explore the High Level Hierarchies:
 
-![Target Professionals](./output/community_involvement_all_predecessors_graph.png)
-![Target Professionals](./output/impact_measurement_all_predecessors_graph.png)
-![Target Professionals](./output/resource_development_all_predecessors_graph.png)
-![Target Professionals](./output/incentive_alignment_all_predecessors_graph.png)
-![Target Professionals](./output/risk_management_all_predecessors_graph.png)
-![Target Professionals](./output/effective_action_all_predecessors_graph.png)
+## Community Involvement
+
+[![Community Involvement Heiarchy](./output/community_involvement_all_predecessors_graph.png)](./output/community_involvement_all_predecessors_graph.png){:target="_blank"}
+
+## Resource Development
+
+[![Resource Development](./output/resource_development_all_predecessors_graph.png)](./output/resource_development_all_predecessors_graph.png){:target="_blank"}
+
+## Impact Measurement
+
+[![Impact Measurement](./output/impact_measurement_all_predecessors_graph.png)](./output/impact_measurement_all_predecessors_graph.png){:target="_blank"}
+
+## Incentive Alignment
+
+[![Incentive Alignment](./output/incentive_alignment_all_predecessors_graph.png)](./output/incentive_alignment_all_predecessors_graph.png){:target="_blank"}
+
+## Risk Management
+
+[![Risk Management](./output/risk_management_all_predecessors_graph.png)](./output/risk_management_all_predecessors_graph.png){:target="_blank"}
+
+## Effective Action
+
+[![Effective Action](./output/effective_action_all_predecessors_graph.png)](./output/effective_action_all_predecessors_graph.png){:target="_blank"}

@@ -1,6 +1,6 @@
 ## QAN - Quantitative Analysis
 
-![Quantitative Analysis](./output/illustration/quantitative_analysis_illustration_v3.png)
+![Quantitative Analysis](./output/illustrations/quantitative_analysis.png)
 
 ### Supports:
 
@@ -34,4 +34,4 @@ Adopt quantitative analysis with clear, consistent metrics and automated data co
 ### Supported By:
 [Benchmarking](./benchmarking.html), [Adaptive Metrics](./adaptive_metrics.html), [Dynamic Surveys](./dynamic_surveys.html)
 
-![Quantitative Analysis](./output/quantitative_analysis_specific_graph_v3.png)
+![Quantitative Analysis](./output/quantitative_analysis_specific_graph.png)

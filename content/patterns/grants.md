@@ -1,6 +1,6 @@
 ## GRA - Grants
 
-![Grants](./output/illustration/grants_illustration_v3.png)
+![Grants](./output/illustrations/grants.png)
 
 ### Supports:
 
@@ -35,4 +35,4 @@ Create structured, transparent, and accountable processes for grant applications
 
 [Iterative Funding](./iterative_funding.html), [RFPs](./rfps.html), [Seconded Resources](./seconded_resources.html), [Biz Dev Agents](./biz_dev_agents.html)
 
-![Grants](./output/grants_specific_graph_v3.png)
+![Grants](./output/grants_specific_graph.png)

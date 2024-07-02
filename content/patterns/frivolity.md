@@ -1,6 +1,6 @@
 ## FRV - Frivolity
 
-![Frivolity](./output/illustration/frivolity_illustration_v3.png)
+![Frivolity](./output/illustrations/frivolity.png)
 
 ### Supports:
 
@@ -31,4 +31,4 @@ Incorporate elements of fun and social bonding activities systematically to main
 ### Supported By:
 
 
-![Frivolity](./output/frivolity_specific_graph_v3.png)
+![Frivolity](./output/frivolity_specific_graph.png)

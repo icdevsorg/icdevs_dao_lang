@@ -1,6 +1,6 @@
 ## RCC - Regular Community Check-Ins
 
-![Regular Community Check-Ins](./output/illustration/regular_community_check_ins_illustration_v3.png)
+![Regular Community Check-Ins](./output/illustrations/regular_community_check_ins.png)
 
 ### Supports:
 
@@ -35,4 +35,4 @@ Incorporate regular scheduled community interactions into the operational calend
 [Seasons](./seasons.html)  
 [Dynamic Surveys](./dynamic_surveys.html)
 
-![Regular Community Check-Ins](./output/regular_community_check_ins_specific_graph_v3.png)
+![Regular Community Check-Ins](./output/regular_community_check_ins_specific_graph.png)

@@ -1,6 +1,6 @@
 ## FBL - Feedback Loops
 
-![Feedback Loops](./output/illustration/feedback_loops_illustration_v3.png)
+![Feedback Loops](./output/illustrations/feedback_loops.png)
 
 ### Supports:
 
@@ -40,8 +40,8 @@ Implement structured and transparent feedback loops that enable continuous impro
 
 [Regular Community Check-Ins](./regular_community_check_ins.html)
 
-[Feedback Integration Team](./feedback_integration_team.html)
+[Feedback Integration Team](./feedback_integration_teams.html)
 
 [Feedback Reward System](./feedback_reward_system.html)
 
-![Feedback Loops](./output/feedback_loops_specific_graph_v3.png)
+![Feedback Loops](./output/feedback_loops_specific_graph.png)

@@ -1,6 +1,6 @@
 ## CDV - Community Diversification
 
-![Community Diversification](./output/illustration/community_diversification_illustration_v3.png)
+![Community Diversification](./output/illustrations/community_diversification.png)
 
 ### Supports:
 [Portfolio Approach](./portfolio_approach.html)
@@ -31,4 +31,4 @@ Actively diversify the community by implementing inclusive policies and support 
 ### Supported By:
 [Dunbar's Number](./dunbars_number.html)
 
-![Community Diversification](./output/community_diversification_specific_graph_v3.png)
+![Community Diversification](./output/community_diversification_specific_graph.png)

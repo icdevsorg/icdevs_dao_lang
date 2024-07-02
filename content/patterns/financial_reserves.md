@@ -1,6 +1,6 @@
 ## FIR - Financial Reserves
 
-![Financial Reserves](./output/illustration/financial_reserves_illustration_v3.png)
+![Financial Reserves](./output/illustrations/financial_reserves.png)
 
 ### Supports:
 
@@ -35,4 +35,4 @@ Establish a "Financial Reserves" system where a certain percentage of the DAO's 
 Maintain a dedicated financial reserve to ensure liquidity, facilitate stability, promote investor confidence, and enable the DAO to seize strategic opportunities.
 
 
-![Financial Reserves](./output/financial_reserves_specific_graph_v3.png)
+![Financial Reserves](./output/financial_reserves_specific_graph.png)

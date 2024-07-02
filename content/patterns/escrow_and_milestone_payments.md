@@ -1,6 +1,6 @@
 ## EMP - Escrow and Milestone Payments
 
-![Escrow and Milestone Payments](./output/illustration/escrow_and_milestone_payments_illustration_v3.png)
+![Escrow and Milestone Payments](./output/illustrations/escrow_and_milestone_payments.png)
 
 ### Supports:
 [Performance-Based Bonuses](./performance_based_bonuses.html)
@@ -26,4 +26,4 @@ This pattern not only secures the DAO’s capital but also incentivizes project 
 Use the escrow and milestone payment system to structure payment schedules around significant, verifiable project milestones. This approach balances risk and rewards effectively, fostering a culture of accountability and performance.
 
 
-![Escrow and Milestone Payments](./output/escrow_and_milestone_payments_specific_graph_v3.png)
+![Escrow and Milestone Payments](./output/escrow_and_milestone_payments_specific_graph.png)

@@ -1,6 +1,6 @@
 ## IFN - Iterative Funding
 
-![Iterative Funding](./output/illustration/iterative_funding_illustration_v3.png)
+![Iterative Funding](./output/illustrations/iterative_funding.png)
 
 ### Supports:
 [Feedback Loops](./feedback_loops.html)
@@ -37,4 +37,4 @@ Iterative Funding should be implemented as a core financial governance mechanism
 ### Supported By:
 [Seasons](./seasons.html), [Feedback Integration Teams](./feedback_integration_teams.html)
 
-![Iterative Funding](./output/iterative_funding_specific_graph_v3.png)
+![Iterative Funding](./output/iterative_funding_specific_graph.png)

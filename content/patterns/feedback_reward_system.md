@@ -1,6 +1,6 @@
 ## FRS - Feedback Reward System
 
-![Feedback Reward System](./output/illustration/feedback_reward_system_illustration_v3.png)
+![Feedback Reward System](./output/illustrations/feedback_reward_system.png)
 
 ### Supports:
 
@@ -38,4 +38,4 @@ Incorporate a balanced feedback reward system in the DAO that motivates a broade
 
 [Token-Based Rewards](./token_based_rewards.html)
 
-![Feedback Reward System](./output/feedback_reward_system_specific_graph_v3.png)
+![Feedback Reward System](./output/feedback_reward_system_specific_graph.png)

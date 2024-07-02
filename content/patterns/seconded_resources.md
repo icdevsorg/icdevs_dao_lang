@@ -1,6 +1,6 @@
 ## SR - Seconded Resources
 
-![Seconded Resources](./output/illustration/seconded_resources_illustration_v3.png)
+![Seconded Resources](./output/illustrations/seconded_resources.png)
 
 ### Supports:
 
@@ -32,4 +32,4 @@ Implement a system of seconded resources where personnel or assets are temporari
 
 Adopt and formalize the practice of seconding resources within the DAO to enhance flexibility, efficiency, and collaborative synergy across projects, enabling more dynamic allocation of specialized assets and expertise.
 
-![Seconded Resources](./output/seconded_resources_specific_graph_v3.png)
+![Seconded Resources](./output/seconded_resources_specific_graph.png)

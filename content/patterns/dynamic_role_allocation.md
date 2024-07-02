@@ -1,6 +1,6 @@
 ## DRA - Dynamic Role Allocation
 
-![Dynamic Role Allocation](./output/illustration/dynamic_role_allocation_illustration_v3.png)
+![Dynamic Role Allocation](./output/illustrations/dynamic_role_allocation.png)
 
 ### Supports:
 
@@ -40,4 +40,4 @@ Embrace an automated Dynamic Role Allocation system to increase responsiveness a
 
 [Skill Inventory](./skill_inventory.html)
 
-![Dynamic Role Allocation](./output/dynamic_role_allocation_specific_graph_v3.png)
+![Dynamic Role Allocation](./output/dynamic_role_allocation_specific_graph.png)

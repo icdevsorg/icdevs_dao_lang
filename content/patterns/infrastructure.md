@@ -1,6 +1,6 @@
 ## INF - Infrastructure
 
-![Infrastructure](./output/illustration/infrastructure_illustration_v3.png)
+![Infrastructure](./output/illustrations/infrastructure.png)
 
 ### Supports:
 
@@ -38,4 +38,4 @@ Invest in and nurture the development of shared public infrastructure within the
 
 [Grants](./grants.html), [Bounties](./bounties.html), [Innovation Labs](./innovation_labs.html)
 
-![Infrastructure](./output/infrastructure_specific_graph_v3.png)
+![Infrastructure](./output/infrastructure_specific_graph.png)

@@ -1,6 +1,6 @@
 ## SUB - Subtraction
 
-![Subtraction](./output/illustration/subtraction_illustration_v3.png)
+![Subtraction](./output/illustrations/subtraction.png)
 
 ### Supports:
 
@@ -36,4 +36,4 @@ Notably, entities like the Ethereum Foundation exemplify Subtraction by delibera
 Embrace strategies that continuously evaluate and remove centralized control mechanisms within the DAO. This proactive subtraction will enhance community trust, engagement, and ensure the long-term decentralization and resilience of the DAO.
 
 
-![Subtraction](./output/subtraction_specific_graph_v3.png)
+![Subtraction](./output/subtraction_specific_graph.png)

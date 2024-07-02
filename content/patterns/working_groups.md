@@ -1,6 +1,6 @@
 ## WG - Working Groups
 
-![Working Groups](./output/illustration/working_groups_illustration_v3.png)
+![Working Groups](./output/illustrations/working_groups.png)
 
 ### Supports:
 
@@ -43,4 +43,4 @@ Establish working groups when the DAO faces complex, multifaceted tasks requirin
 
 [Dunbar's Number](./dunbars_number.html), [Role Rotation](./role_rotation.html), [Job Boundaries](./job_boundaries.html), [Stakeholder Synthesis](stakeholder_synthesis.html)
 
-![Working Groups](./output/working_groups_specific_graph_v3.png)
+![Working Groups](./output/working_groups_specific_graph.png)

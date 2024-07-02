@@ -1,6 +1,6 @@
 ## BOU - Bounties
 
-![Bounties](./output/illustration/bounties_illustration_v3.png)
+![Bounties](./output/illustrations/bounties.png)
 
 ### Supports:
 
@@ -41,4 +41,4 @@ Establish a well-defined bounty program within the DAO that motivates and reward
 
 [Evergreen](./evergreen.html)
 
-![Bounties](./output/bounties_specific_graph_v3.png)
+![Bounties](./output/bounties_specific_graph.png)

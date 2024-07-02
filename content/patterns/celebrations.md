@@ -1,6 +1,6 @@
 ## CEL - Celebrations
 
-![Celebrations](./output/illustration/celebrations_illustration_v3.png)
+![Celebrations](./output/illustrations/celebrations.png)
 
 ### Supports:
 
@@ -36,4 +36,4 @@ Integrate regular, meaningful celebrations into the DAO’s operational calendar
 [Showcase](./showcase.md)
 [Frivolity](./frivolity.md)
 
-![Celebrations](./output/celebrations_specific_graph_v3.png)
+![Celebrations](./output/celebrations_specific_graph.png)

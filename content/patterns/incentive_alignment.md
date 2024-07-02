@@ -1,6 +1,6 @@
 ## IAL - Incentive Alignment
 
-![Incentive Alignment](./output/illustration/incentive_alignment_illustration_v3.png)
+![Incentive Alignment](./output/illustrations/incentive_alignment.png)
 
 ### Supports:
 
@@ -46,4 +46,4 @@ Implement a multi-faceted incentive system within a DAO that rewards both the pa
 
 [Skill and Role Development Incentives](./skill_and_role_development_incentives.html)
 
-![Incentive Alignment](./output/incentive_alignment_specific_graph_v3.png)
+![Incentive Alignment](./output/incentive_alignment_specific_graph.png)

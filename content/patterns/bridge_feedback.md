@@ -1,6 +1,6 @@
 ## BFB - Bridge Feedback
 
-![Bridge Feedback](./output/illustration/bridge_feedback_illustration_v3.png)
+![Bridge Feedback](./output/illustrations/bridge_feedback.png)
 
 ### Supports:
 [Grants](./grants.html)
@@ -30,4 +30,4 @@ Applicants should be encouraged to view rejection not as a failure, but as a ste
 
 
 
-![Bridge Feedback](./output/bridge_feedback_specific_graph_v3.png)
+![Bridge Feedback](./output/bridge_feedback_specific_graph.png)

@@ -1,6 +1,6 @@
 ## RGS - Right Size
 
-![Right Size](./output/illustration/right_size_illustration_v3.png)
+![Right Size](./output/illustrations/right_size.png)
 
 ### Supports:
 [Grants](./grants.html)  
@@ -25,4 +25,4 @@ Implement a "Right Size" approach in grant and bounty programs focusing on fundi
 ### Therefore:
 Adopt a "Right Size" strategy in capital distribution by supporting projects that align optimally with administrative capacities and have the potential to deliver disproportionate impact relative to their size, thereby maximizing the efficacy and reach of the grant or bounty programs.
 
-![Right Size](./output/right_size_specific_graph_v3.png)
+![Right Size](./output/right_size_specific_graph.png)

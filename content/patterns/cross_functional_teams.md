@@ -1,6 +1,6 @@
 ## CFT - Cross-functional Teams
 
-![Cross-functional Teams](./output/illustration/cross_functional_teams_illustration_v3.png)
+![Cross-functional Teams](./output/illustrations/cross_functional_teams.png)
 
 ### Supports:
 
@@ -35,4 +35,4 @@ Create teams that integrate various functional expertise, align them with specif
 
 [Role Rotation](./role_rotation.html), [Communication Channels](./communication_channels.html), [Job Boundaries](./job_boundaries.html)
 
-![Cross-functional Teams](./output/cross_functional_teams_specific_graph_v3.png)
+![Cross-functional Teams](./output/cross_functional_teams_specific_graph.png)

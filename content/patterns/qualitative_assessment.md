@@ -1,6 +1,6 @@
 ## QUL - Qualitative Assessment
 
-![Qualitative Assessment](./output/illustration/qualitative_assessment_illustration_v3.png)
+![Qualitative Assessment](./output/illustrations/qualitative_assessment.png)
 
 ### Supports:
 [Impact Measurement](./impact_measurement.html)
@@ -28,4 +28,4 @@ Integrate qualitative assessment methods into the DAO's project evaluation proce
 ### Supported By:
 [Dynamic Surveys](./dynamic_surveys.html), [Outcome Visualization](./outcome_visualization.html), [Impact Storytelling](./impact_storytelling.html)
 
-![Qualitative Assessment](./output/qualitative_assessment_specific_graph_v3.png)
+![Qualitative Assessment](./output/qualitative_assessment_specific_graph.png)

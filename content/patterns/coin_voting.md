@@ -1,9 +1,9 @@
 ## CIN - Coin Voting
 
-![Coin Voting](./output/illustration/coin_voting_illustration_v3.png)
+![Coin Voting](./output/illustrations/coin_voting.png)
 
 ### Supports:
-[Multi-factorial Consensus](./multi-factorial_consensus.html)
+[Multi-factorial Consensus](./multi_factorial_consensus.html)
 
 ### Context:
 In DAOs, governance and decision-making are central challenges, with the need to distribute power fairly while ensuring efficient and effective management. Traditional models either centralize decision-making or struggle to scale as participant numbers increase.
@@ -32,4 +32,4 @@ Use Coin Voting to align voting power with financial stake and commitment within
 [Staking Mechanisms](./staking_mechanisms.html),
 [CDP Voting](./cdp_voting.html)
 
-![Coin Voting](./output/coin_voting_specific_graph_v3.png)
+![Coin Voting](./output/coin_voting_specific_graph.png)

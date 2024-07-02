@@ -1,6 +1,6 @@
 ## SCH - Showcase
 
-![Showcase](./output/illustration/showcase_illustration_v3.png)
+![Showcase](./output/illustrations/showcase.png)
 
 ### Supports:
 [Grants](./grants.html)
@@ -30,4 +30,4 @@ Create a mandatory "Showcase" mechanism as part of the concluding phase of any p
 ### Therefore:
 Implement Showcase with defined guidelines and rewards to ensure comprehensive and engaging display of project outcomes, thereby strengthening community ties and fostering a transparent culture of accountability and celebration of achievements.
 
-![Showcase](./output/showcase_specific_graph_v3.png)
+![Showcase](./output/showcase_specific_graph.png)

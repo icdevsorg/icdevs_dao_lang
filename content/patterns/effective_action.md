@@ -1,6 +1,6 @@
 ## EFA - Effective Action
 
-![Effective Action](./output/illustration/effective_action_illustration_v3.png)
+![Effective Action](./output/illustrations/effective_action.png)
 
 ### Supports:
 [Resource Optimization](./resource_optimization.html)
@@ -28,5 +28,5 @@ Develop a flexible yet robust framework combining predefined protocols, cross-fu
 ### Supported By:
 [Legitimacy](./legitimacy.html), [Credible Neutrality](./credible_neutrality.html), [Democratic Participation Incentives](./democratic_participation_incentives.html), [Scalable Decision-Making](./scalable_decision_making.html), [Cross-functional Teams](./cross_functional_teams.html)
 
-![Effective Action](./output/effective_action_specific_graph_v3.png)
+![Effective Action](./output/effective_action_specific_graph.png)
 

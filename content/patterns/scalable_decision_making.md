@@ -1,6 +1,6 @@
 ## SDM - Scalable Decision-Making
 
-![Scalable Decision-Making](./output/illustration/scalable_decision_making_illustration_v3.png)
+![Scalable Decision-Making](./output/illustrations/scalable_decision_making.png)
 
 ### Supports:
 [Effective Action](./effective_action.html)
@@ -32,4 +32,4 @@ Create a flexible decision-making structure that can adapt to the growing and ev
 ### Supported By:
 [Predefined Action Protocols](./predefined_action_protocols.html)
 
-![Scalable Decision-Making](./output/scalable_decision_making_specific_graph_v3.png)
+![Scalable Decision-Making](./output/scalable_decision_making_specific_graph.png)

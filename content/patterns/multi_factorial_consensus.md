@@ -1,6 +1,6 @@
 ## MFC - Multi-factorial Consensus
 
-![Multi-factorial Consensus](./output/illustration/multi_factorial_consensus_illustration_v3.png)
+![Multi-factorial Consensus](./output/illustrations/multi_factorial_consensus.png)
 
 ### Supports:
 
@@ -42,7 +42,7 @@ Adopt a Multi-factorial Consensus approach that employs various voting methodolo
 ### Supported By:
 [Coin Voting](./coin_voting.html)  
 [Citizen Voting](./citizen_voting.html)  
-[Commitment Voting](./commitment_voting.html)  
+[Conviction Voting](./conviction_voting.html)  
 [Quadratic Voting](./quadratic_voting.html)
 
-![Multi-factorial Consensus](./output/multi_factorial_consensus_specific_graph_v3.png)
+![Multi-factorial Consensus](./output/multi_factorial_consensus_specific_graph.png)

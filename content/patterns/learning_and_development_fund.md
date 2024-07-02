@@ -1,10 +1,10 @@
 ## LDF - Learning and Development Fund
 
-![Learning and Development Fund](./output/illustration/learning_and_development_fund_illustration_v3.png)
+![Learning and Development Fund](./output/illustrations/learning_and_development_fund.png)
 
 ### Supports:
 
-[Resource Development](./resource_development.html), [Educational Outreach](education_outreach.md)
+[Resource Development](./resource_development.html), [Educational Outreach](educational_outreach.md)
 
 ### Context:
 
@@ -43,5 +43,5 @@ Many organizations, both within and outside the sphere of DAOs, have successfull
 
 To ensure continual growth and the capability to adopt emerging technologies and methodologies, integrate a Learning and Development Fund into the DAO’s structure. This fund will empower members to pursue learning opportunities actively, thus maintaining the cutting edge required for the DAO's success.
 
-![Learning and Development Fund](./output/learning_and_development_fund_specific_graph_v3.png)
+![Learning and Development Fund](./output/learning_and_development_fund_specific_graph.png)
 

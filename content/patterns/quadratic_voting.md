@@ -1,6 +1,6 @@
 ## QDV - Quadratic Voting
 
-![Quadratic Voting](./output/illustration/quadratic_voting_illustration_v3.png)
+![Quadratic Voting](./output/illustrations/quadratic_voting.png)
 
 ### Supports:
 [Multi-factorial Consensus](./multi_factorial_consensus.html)
@@ -23,4 +23,4 @@ Implement Quadratic Voting within the DAO where each additional vote costs quadr
 ### Therefore:
 Utilize Quadratic Voting to enhance democratic participation within DAOs, ensuring that all community members have their preferences adequately represented, especially in decisions about resource deployment.
 
-![Quadratic Voting](./output/quadratic_voting_specific_graph_v3.png)
+![Quadratic Voting](./output/quadratic_voting_specific_graph.png)

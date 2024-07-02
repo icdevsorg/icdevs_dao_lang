@@ -1,6 +1,6 @@
 ## DPI - Democratic Participation Incentives
 
-![Democratic Participation Incentives](./output/illustration/democratic_participation_incentives_illustration_v3.png)
+![Democratic Participation Incentives](./output/illustrations/democratic_participation_incentives.png)
 
 ### Supports:
 [Incentive Alignment](./incentive_alignment.html)
@@ -30,4 +30,4 @@ Real-world examples include MakerDAO, where voting on changes to the protocol ca
 ### Therefore:
 Adopt Democratic Participation Incentives to ensure active and sustained member involvement in the DAO’s governance processes, enriching the decision-making with diverse inputs and maintaining high engagement levels.
 
-![Democratic Participation Incentives](./output/democratic_participation_incentives_specific_graph_v3.png)
+![Democratic Participation Incentives](./output/democratic_participation_incentives_specific_graph.png)

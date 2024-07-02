@@ -1,6 +1,6 @@
 ## DAU - Decentralized Autonomy
 
-![Decentralized Autonomy](./output/illustration/decentralized_autonomy_illustration_v3.png)
+![Decentralized Autonomy](./output/illustrations/decentralized_autonomy.png)
 
 ### Supports:
 [Community Involvement](./community_involvement.html), [Resource Development](./resource_development.html)
@@ -29,4 +29,4 @@ Embrace decentralized autonomy to enhance scalability, responsiveness, and commu
 ### Supported By:
 [Control as a Liability](./control_as_a_liability.html), [Job Boundaries](./job_boundaries.html)
 
-![Decentralized Autonomy](./output/decentralized_autonomy_specific_graph_v3.png)
+![Decentralized Autonomy](./output/decentralized_autonomy_specific_graph.png)

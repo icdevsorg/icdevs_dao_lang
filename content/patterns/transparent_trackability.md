@@ -1,6 +1,6 @@
 ## TTT - Transparent Trackability
 
-![Transparent Trackability](./output/illustration/transparent_trackability_illustration_v3.png)
+![Transparent Trackability](./output/illustrations/transparent_trackability.png)
 
 ### Supports:
 
@@ -40,4 +40,4 @@ Always ensure that all DAO-related transactions and decisions are tracked transp
 
 [Open Data](./open_data.html), [Immutable Records](./immutable_records.html)
 
-![Transparent Trackability](./output/transparent_trackability_specific_graph_v3.png)
+![Transparent Trackability](./output/transparent_trackability_specific_graph.png)

@@ -1,6 +1,6 @@
 ## LOI - Levels of Intensity
 
-![Levels of Intensity](./output/illustration/levels_of_intensity_illustration_v3.png)
+![Levels of Intensity](./output/illustrations/levels_of_intensity.png)
 
 ### Supports:
 [Well Being](./well_being.html)
@@ -30,4 +30,4 @@ This tiered approach streamlines decision-making, ensuring that members are not 
 Adopt a structured "Levels of Intensity" framework to align the decision-making process with the significance of the issue at hand, enhancing efficiency and promoting sustainable engagement within the DAO.
 
 
-![Levels of Intensity](./output/levels_of_intensity_specific_graph_v3.png)
+![Levels of Intensity](./output/levels_of_intensity_specific_graph.png)

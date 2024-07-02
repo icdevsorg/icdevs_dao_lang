@@ -1,6 +1,6 @@
 ## SNS - Seasons
 
-![Seasons](./output/illustrations/Seasons.webp)
+![Seasons](./output/illustrations/Seasons.png)
 
 ### Supports:
 - Iterative Funding
@@ -29,4 +29,4 @@ Implementing a human-centric operational calendar can help:
 ### Therefore:
 DAOs should incorporate traditional seasonal patterns into their operational calendar to respect and leverage human rhythms and cultural cycles, enhancing member engagement and alignment with human-centric timelines.
 
-![Seasons](./output/Seasons_specific_graph_v3.png)
+![Seasons](./output/Seasons_specific_graph.png)

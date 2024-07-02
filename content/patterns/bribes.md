@@ -1,6 +1,6 @@
 ## BRB - Bribes
 
-![Bribes](./output/illustration/bribes_illustration_v3.png)
+![Bribes](./output/illustrations/bribes.png)
 
 ### Supports:
 [Transparent Governance](./transparent_governance.html)
@@ -25,4 +25,4 @@ Make transparency and accountability foundational to the DAO’s operations, ens
 ### Supported By:
 [Mica Secret Voting](./mica_secret_voting.html)
 
-![Bribes](./output/bribes_specific_graph_v3.png)
+![Bribes](./output/bribes_specific_graph.png)

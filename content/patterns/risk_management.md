@@ -1,6 +1,6 @@
 ## RSK - Risk Management
 
-![Risk Management](./output/illustration/risk_management_illustration_v3.png)
+![Risk Management](./output/illustrations/risk_management.png)
 
 ### Supports:
 [Resource Optimization](./resource_optimization.html)
@@ -24,6 +24,6 @@ To manage risk effectively in a DAO, diversify investment across a spectrum of p
 Adopt a structured and systematic approach to risk management by diversifying investments, utilizing financial hedges, maintaining strategic reserves, and incorporating community-driven decision-making processes to enhance risk assessment and mitigation.
 
 ### Supported By:
-[Portfolio Approach](./portfolio_approach.html), [Financial Reserves](./financial_reserves.html), [Decentralized Decision-Making](./decentralized_decision_making.html), [Architectural Decentralization](./architectural_decentralization.html), [Inability to Fork External Assets](./inability_to_fork_external_assets.html)
+[Portfolio Approach](./portfolio_approach.html), [Financial Reserves](./financial_reserves.html), [Decentralized Decision-Making](./decentralized_decision_making.html), [Inability to Fork External Assets](./inability_to_fork_external_assets.html)
 
-![Risk Management](./output/risk_management_specific_graph_v3.png)
+![Risk Management](./output/risk_management_specific_graph.png)

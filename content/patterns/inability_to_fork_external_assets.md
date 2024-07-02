@@ -1,9 +1,9 @@
 ## ITF - Inability to Fork External Assets
 
-![Inability to Fork External Assets](./output/illustration/inability_to_fork_external_assets_illustration_v3.png)
+![Inability to Fork External Assets](./output/illustrations/inability_to_fork_external_assets.png)
 
 ### Supports:
-[Control as Liability](./control_as_liability.html)
+[Control as Liability](./control_as_a_liability.html)
 [Rage Quit](./rage_quit.html)
 
 ### Context:
@@ -25,4 +25,4 @@ When constructing DAO operations and governance structures, consider mechanisms 
 To prevent the detrimental impact of the inability to fork external assets, DAOs should explore structuring their tokens to separate governance from operations. This can safeguard against the loss of network cohesion and asset value, ensuring that even if a community feels the need to fork the protocol, the foundational economic activities remain stable and secure.
 
 
-![Inability to Fork External Assets](./output/inability_to_fork_external_assets_specific_graph_v3.png)
+![Inability to Fork External Assets](./output/inability_to_fork_external_assets_specific_graph.png)

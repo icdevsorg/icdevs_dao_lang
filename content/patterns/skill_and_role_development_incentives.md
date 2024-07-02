@@ -1,6 +1,6 @@
 ## SRD - Skill and Role Development Incentives
 
-![Skill and Role Development Incentives](./output/illustration/skill_and_role_development_incentives_illustration_v3.png)
+![Skill and Role Development Incentives](./output/illustrations/skill_and_role_development_incentives.png)
 
 ### Supports:
 
@@ -38,5 +38,5 @@ Create structured incentive schemes that reward learning and role development, w
 
 [Contribution Tracking](./contribution_tracking.html)
 
-![Skill and Role Development Incentives](./output/skill_and_role_development_incentives_specific_graph_v3.png)
+![Skill and Role Development Incentives](./output/skill_and_role_development_incentives_specific_graph.png)
 

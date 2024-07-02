@@ -1,6 +1,6 @@
 ## CVA - Community Value Alignment
 
-![Community Value Alignment](./output/illustration/community_value_alignment_illustration_v3.png)
+![Community Value Alignment](./output/illustrations/community_value_alignment.png)
 
 ### Supports:
 [Feedback Loops](./feedback_loops.html), [RFPs](./rfps.html)
@@ -30,4 +30,4 @@ Regularly integrate community input to ensure alignment with core values, and ad
 ### Supported By:
 [Regular Community Check-Ins](./regular_community_check_ins.html)
 
-![Community Value Alignment](./output/community_value_alignment_specific_graph_v3.png)
+![Community Value Alignment](./output/community_value_alignment_specific_graph.png)

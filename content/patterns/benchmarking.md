@@ -1,6 +1,6 @@
 ## BKM - Benchmarking
 
-![Benchmarking](./output/illustration/benchmarking_illustration_v3.png)
+![Benchmarking](./output/illustrations/benchmarking.png)
 
 ### Supports:
 
@@ -45,6 +45,6 @@ Implement benchmark systems that not only track progress and efficiency but are 
 
 [Goodhart's Law](./goodharts_law.html)
 
-![Benchmarking](./output/benchmarking_specific_graph_v3.png)
+![Benchmarking](./output/benchmarking_specific_graph.png)
 
 

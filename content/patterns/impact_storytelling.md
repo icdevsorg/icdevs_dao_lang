@@ -1,6 +1,6 @@
 ## ITS - Impact Storytelling
 
-![Impact Storytelling](./output/illustration/impact_storytelling_illustration_v3.png)
+![Impact Storytelling](./output/illustrations/impact_storytelling.png)
 
 ### Supports:
 
@@ -36,4 +36,4 @@ Implement a structured approach to collecting impactful narratives related to th
 Use Impact Storytelling to enrich quantitative metrics with narratives that capture the human and community impact of DAO projects, ensuring broader and deeper engagement from the community.
 
 
-![Impact Storytelling](./output/impact_storytelling_specific_graph_v3.png)
+![Impact Storytelling](./output/impact_storytelling_specific_graph.png)

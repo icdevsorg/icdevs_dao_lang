@@ -1,6 +1,6 @@
 ## ILB - Innovation Labs
 
-![Innovation Labs](./output/illustration/innovation_labs_illustration_v3.png)
+![Innovation Labs](./output/illustrations/innovation_labs.png)
 
 ### Supports:
 [Resource Optimization](./resource_optimization.html)
@@ -32,4 +32,4 @@ Establish community-driven innovation labs within the DAO designed to explore, p
 Implement Innovation Labs focused on generating community-driven solutions to maintain relevance and responsiveness to changing demands within the DAO's target ecosystem, promoting a culture of continuous innovation and adaptability.
 
 
-![Innovation Labs](./output/innovation_labs_specific_graph_v3.png)
+![Innovation Labs](./output/innovation_labs_specific_graph.png)

@@ -1,6 +1,6 @@
 ## RO - Resource Optimization
 
-![Resource Optimization](./output/illustration/resource_optimization_illustration_v3.png)
+![Resource Optimization](./output/illustrations/resource_optimization.png)
 
 
 ### Context:
@@ -30,5 +30,5 @@ Adopt and refine resource optimization strategies consistently, involving the en
 ### Supported By:
 [Community Involvement](./community_involvement.html), [Impact Measurement](./impact_measurement.html), [Resource Development](./resource_development.html), [Incentive Alignment](./incentive_alignment.html), [Risk Management](./risk_management.html), [Effective Action](./effective_action.html)
 
-![Resource Optimization](./output/resource_optimization_specific_graph_v3.png)
+![Resource Optimization](./output/resource_optimization_specific_graph.png)
 

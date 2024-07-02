@@ -1,6 +1,6 @@
 ## GLW - Goodhart's Law
 
-![Goodhart's Law](./output/illustration/goodharts_law_illustration_v3.png)
+![Goodhart's Law](./output/illustrations/goodharts_law.png)
 
 ### Supports:
 
@@ -32,4 +32,4 @@ DAOs should design and periodically recalibrate their metrics system to reflect 
 
 [Adaptive Metrics](./adaptive_metrics.html)
 
-![Goodhart's Law](./output/goodharts_law_specific_graph_v3.png)
+![Goodhart's Law](./output/goodhart's_law_specific_graph.png)

@@ -1,6 +1,6 @@
 ## GUI - Good UI
 
-![Good UI](./output/illustration/good_ui_illustration_v3.png)
+![Good UI](./output/illustrations/good_ui.png)
 
 ### Supports:
 [Predefined Action Protocols](./predefined_action_protocols.html)
@@ -33,4 +33,4 @@ Adopt a comprehensive approach to UI design that emphasizes ease of use, clarity
 
 
 
-![Good UI](./output/good_ui_specific_graph_v3.png)
+![Good UI](./output/good_ui_specific_graph.png)

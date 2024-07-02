@@ -1,6 +1,6 @@
 # CAL - Control as a Liability
 
-![Control as a Liability](./output/illustration/control_as_a_liability_illustration_v3.png)
+![Control as a Liability](./output/illustrations/control_as_a_liability.png)
 
 ### Supports:
 [Decentralized Autonomy](./decentralized_autonomy.html)
@@ -36,4 +36,4 @@ Avoid centralizing excessive control within a few hands in DAOs. Implement struc
 ### Supported By:
 [Subtraction](./subtraction.html)
 
-![Control as a Liability](./output/control_as_a_liability_specific_graph_v3.png)
+![Control as a Liability](./output/control_as_a_liability_specific_graph.png)

@@ -1,6 +1,6 @@
 ## CNL - Credible Neutrality
 
-![Credible Neutrality](./output/illustration/credible_neutrality_illustration_v3.png)
+![Credible Neutrality](./output/illustrations/credible_neutrality.png)
 
 ### Supports:
 [Effective Action](./effective_action.html)
@@ -30,4 +30,4 @@ Implement decision-making mechanisms that are transparent, inclusive, and struct
 ### Supported By:
 [Quadratic Voting](./quadratic_voting.html), [Citizen Voting](./citizen_voting.html), [Multi-factorial Consensus](./multi_factorial_consensus.html), [Mica Secret Voting](./mica_secret_voting.html)
 
-![Credible Neutrality](./output/credible_neutrality_specific_graph_v3.png)
+![Credible Neutrality](./output/credible_neutrality_specific_graph.png)

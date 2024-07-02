@@ -1,6 +1,6 @@
 ## OD - Open Data
 
-![Open Data](./output/illustration/open_data_illustration_v3.png)
+![Open Data](./output/illustrations/open_data.png)
 
 ### Supports:
 [Transparent Trackability](./transparent_trackability.html)
@@ -30,4 +30,4 @@ Case studies such as the DAOstack's Alchemy platform and Aragon show successful 
 Adopt and maintain an open data policy that not only reinforces transparency but also builds trust and ensures accountability within the DAO by making all critical data freely available and verifiable.
 
 
-![Open Data](./output/open_data_specific_graph_v3.png)
+![Open Data](./output/open_data_specific_graph.png)

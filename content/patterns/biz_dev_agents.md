@@ -1,6 +1,6 @@
 ## BDA - Biz Dev Agents
 
-![Biz Dev Agents](./output/illustration/biz_dev_agents_illustration_v3.png)
+![Biz Dev Agents](./output/illustrations/biz_dev_agents.png)
 
 ### Supports:
 
@@ -36,4 +36,4 @@ Real-world examples exist in traditional and decentralized organizations where d
 Implement Biz Dev Agent roles to enhance the management of relationships, the effectiveness of funded projects, and strategic alignment with the DAO’s goals, ensuring a cohesive and supportive environment for capital deployment.
 
 
-![Biz Dev Agents](./output/biz_dev_agents_specific_graph_v3.png)
+![Biz Dev Agents](./output/biz_dev_agents_specific_graph.png)

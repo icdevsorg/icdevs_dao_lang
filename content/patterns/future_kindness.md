@@ -1,6 +1,6 @@
 ## FKD - Future Kindness
 
-![Future Kindness](./output/illustration/future_kindness_illustration_v3.png)
+![Future Kindness](./output/illustrations/future_kindness.png)
 
 ### Supports:
 [Staking Mechanisms](./staking_mechanisms.html), [Well Being](./well_being.html)
@@ -27,4 +27,4 @@ Implement 'Future Kindness' strategies that include protective measures for memb
 Implement structures within DAOs that allow for adjusted commitments while ensuring that these mechanisms do not undermine the overall stability and long-term goals of the organization. This includes providing clear, accessible options for members to safely and responsibly modify their involvement according to changes in their personal circumstances or in market conditions.
 
 
-![Future Kindness](./output/future_kindness_specific_graph_v3.png)
+![Future Kindness](./output/future_kindness_specific_graph.png)

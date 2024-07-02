@@ -1,6 +1,6 @@
 ## CDP - CDP Voting
 
-![CDP Voting](./output/illustration/cdp_voting_illustration_v3.png)
+![CDP Voting](./output/illustrations/cdp_voting.png)
 
 ### Supports:
 
@@ -29,4 +29,4 @@ Implementing a mechanism within DAOs that mandates a lock-up period for tokens u
 
 To maintain integrity and stability in DAO governance, a time-lock mechanism should be integrated for any CDP used in voting processes ensuring participants' interests are aligned with the long-term goals and health of the DAO.
 
-![CDP Voting](./output/cdp_voting_specific_graph_v3.png)
+![CDP Voting](./output/cdp_voting_specific_graph.png)

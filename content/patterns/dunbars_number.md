@@ -1,6 +1,6 @@
 ## DNB - Dunbar's Number
 
-![Dunbar's Number](./output/illustration/dunbars_number_illustration_v3.png)
+![Dunbar's Number](./output/illustrations/dunbars_number.png)
 
 ### Supports:
 
@@ -36,4 +36,4 @@ Keep team sizes within the DAO around or below 150 to optimize collaboration, tr
 [Communication Channels](./communication_channels.html)
 [Frivolity](./frivolity.html)
 
-![Dunbar's Number](./output/dunbars_number_specific_graph_v3.png)
+![Dunbar's Number](./output/dunbar's_number_specific_graph.png)

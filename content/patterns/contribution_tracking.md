@@ -1,6 +1,6 @@
 ## CTR - Contribution Tracking
 
-![Contribution Tracking](./output/illustration/contribution_tracking_illustration_v3.png)
+![Contribution Tracking](./output/illustrations/contribution_tracking.png)
 
 ### Supports:
 [Reputation Systems](./reputation_systems.html), [Performance-Based Bonuses](./performance_based_bonuses.html), [Skill and Role Development Incentives](./skill_and_role_development_incentives.html), [Shares for Sweat](./shares_for_sweat.html)
@@ -26,4 +26,4 @@ The DAO should utilize smart contracts to automate the validation, tallying, and
 Integrate comprehensive contribution tracking tools and mechanisms leveraging blockchain's immutability for transparency and smart contract capabilities for automation, ensuring that all contributions are acknowledged and fairly rewarded.
 
 
-![Contribution Tracking](./output/contribution_tracking_specific_graph_v3.png)
+![Contribution Tracking](./output/contribution_tracking_specific_graph.png)

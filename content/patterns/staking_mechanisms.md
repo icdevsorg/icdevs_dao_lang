@@ -1,6 +1,6 @@
 ## STM - Staking Mechanisms
 
-![Staking Mechanisms](./output/illustration/staking_mechanisms_illustration_v3.png)
+![Staking Mechanisms](./output/illustrations/staking_mechanisms.png)
 
 ### Supports:
 [Token-Based Rewards](./token_based_rewards.html), [Coin Voting](./coin_voting.html)
@@ -29,4 +29,4 @@ Integrate staking mechanisms within DAO operations to ensure that voting power a
 ### Supported By:
 [Future Kindness](./future_kindness.html), [CDP Voting](./cdp_voting.html)
 
-![Staking Mechanisms](./output/staking_mechanisms_specific_graph_v3.png)
+![Staking Mechanisms](./output/staking_mechanisms_specific_graph.png)

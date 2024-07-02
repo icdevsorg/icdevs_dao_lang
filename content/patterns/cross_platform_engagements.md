@@ -1,6 +1,6 @@
-## CPE - Cross-Platform Engagement
+## CPE - Cross-Platform Engagements
 
-![Cross-Platform Engagement](./output/illustration/cross_platform_engagement_illustration_v3.png)
+![Cross-Platform Engagemenst](./output/illustrations/cross_platform_engagements.png)
 
 ### Supports:
 [Portfolio Approach](./portfolio_approach.html)
@@ -36,4 +36,4 @@ Engage with multiple blockchain and technology platforms to diversify dependenci
 Leverage a cross-platform approach to engage and integrate multiple communities and technologies, reducing reliance on any single platform and broadening exposure to innovations, thereby enhancing the resilience and resourcefulness of the DAO.
 
 
-![Cross-Platform Engagement](./output/cross_platform_engagement_specific_graph_v3.png)
+![Cross-Platform Engagement](./output/cross_platform_engagements_specific_graph.png)

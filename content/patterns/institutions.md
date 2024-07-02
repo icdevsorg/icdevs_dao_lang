@@ -1,6 +1,6 @@
 ## INS - Institutions
 
-![Institutions](./output/illustration/institutions_illustration_v3.png)
+![Institutions](./output/illustrations/institutions.png)
 
 ### Supports:
 [Resource Development](./resource_development.html), [Community Involvement](./community_involvement.html)
@@ -47,4 +47,4 @@ Establish and continually evolve institutions within the DAO to ensure they prov
 ### Supported By:
 [Grants](./grants.html), [Biz Dev Agents](./biz_dev_agents.html), [Seconded Resources](./seconded_resources.html), [Educational Outreach](./educational_outreach.html)
 
-![Institutions](./output/institutions_specific_graph_v3.png)
+![Institutions](./output/institutions_specific_graph.png)

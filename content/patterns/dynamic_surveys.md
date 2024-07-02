@@ -1,11 +1,11 @@
 ## DYS - Dynamic Surveys
 
-![Dynamic Surveys](./output/illustration/dynamic_surveys_illustration_v3.png)
+![Dynamic Surveys](./output/illustrations/dynamic_surveys.png)
 
 ### Supports:
 
 [Regular Community Check-Ins](./regular_community_check_ins.html)   
-[Quantitative Assessment](./quantitative_assessment.html)   
+[Quantitative Analysis](./quantitative_analysis.html)   
 [Qualitative Assessment](./qualitative_assessment.html)   
 [Feedback Integration Teams](./feedback_integration_teams.html)  
 
@@ -34,4 +34,4 @@ Implement dynamic surveys within DAOs that update and evolve over time based on 
 
 Utilize dynamic surveys to frequently and accurately gauge community sentiment, ensuring that the DAO remains closely aligned with its members' evolving perspectives and priorities. Implement adaptive and transparent mechanisms that allow for real-time feedback analysis and responsiveness to community input.
 
-![Dynamic Surveys](./output/dynamic_surveys_specific_graph_v3.png)
+![Dynamic Surveys](./output/dynamic_surveys_specific_graph.png)

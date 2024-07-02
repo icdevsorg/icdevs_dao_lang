@@ -1,6 +1,6 @@
 ## SKI - Skill Inventory
 
-![Skill Inventory](./output/illustration/skill_inventory_illustration_v3.png)
+![Skill Inventory](./output/illustrations/skill_inventory.png)
 
 ### Supports:
 
@@ -36,4 +36,4 @@ Develop a "Skill Inventory" system within the DAO that maintains a dynamic and u
 
 Implement a Skill Inventory to maximize the strategic deployment of skills within the DAO, thereby increasing efficiency, member engagement, and project success.
 
-![Skill Inventory](./output/skill_inventory_specific_graph_v3.png)
+![Skill Inventory](./output/skill_inventory_specific_graph.png)

@@ -1,9 +1,9 @@
 ## CCN - Communication Channels
 
-![Communication Channels](./output/illustration/communication_channels_illustration_v3.png)
+![Communication Channels](./output/illustrations/communication_channels.png)
 
 ### Supports:
-[Cross-functional Teams](./cross-functional_teams.html), [Feedback Integration Teams](./feedback_integration_teams.html), [Dunbar's Number](./dunbars_number.html)
+[Cross-functional Teams](./cross_functional_teams.html), [Feedback Integration Teams](./feedback_integration_teams.html), [Dunbar's Number](./dunbars_number.html)
 
 ### Context:
 In a decentralized autonomous organization (DAO), distributed and often remote members necessitate robust channels for effective communication to synchronize actions, disseminate information, and make collaborative decisions.
@@ -25,4 +25,4 @@ Real-world DAOs, such as MakerDAO and Aragon, leverage multiple communication pl
 ### Therefore:
 Adopt a multi-channel communication strategy that matches the diverse needs and preferences within the DAO to ensure that information flows efficiently and all members can engage constructively according to their availability and preferred interaction style.
 
-![Communication Channels](./output/communication_channels_specific_graph_v3.png)
+![Communication Channels](./output/communication_channels_specific_graph.png)

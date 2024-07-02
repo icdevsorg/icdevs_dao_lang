@@ -1,6 +1,6 @@
 ## TBR - Token-Based Rewards
 
-![Token-Based Rewards](./output/illustration/token_based_rewards_illustration_v3.png)
+![Token-Based Rewards](./output/illustrations/token_based_rewards.png)
 
 ### Supports:
 [Incentive Alignment](./incentive_alignment.html)
@@ -26,4 +26,4 @@ Structure the distribution of tokens to balance immediate rewards with long-term
 ### Supported By:
 [Staking Mechanisms](./staking_mechanisms.html), [Shares for Sweat](./shares_for_sweat.html), [Coin Voting](./coin_voting.html), [Conviction Voting](./conviction_voting.html)
 
-![Token-Based Rewards](./output/token_based_rewards_specific_graph_v3.png)
+![Token-Based Rewards](./output/token_based_rewards_specific_graph.png)

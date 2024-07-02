@@ -1,6 +1,6 @@
 ## TPR - Target Professionals
 
-![Target Professionals](./output/illustration/target_professionals_illustration_v3.png)
+![Target Professionals](./output/illustrations/target_professionals.png)
 
 ### Supports:
 
@@ -39,6 +39,6 @@ Adopt a strategy to actively seek out, recruit, and prioritize professionals wit
 
 [Skill Inventory](./skill_inventory.html)
 
-![Target Professionals](./output/target_professionals_specific_graph_v3.png)
+![Target Professionals](./output/target_professionals_specific_graph.png)
 
 

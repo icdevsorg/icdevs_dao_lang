@@ -1,6 +1,6 @@
 ## MP - Mentorship Programs
 
-![Mentorship Programs](./output/illustration/mentorship_programs_illustration_v3.png)
+![Mentorship Programs](./output/illustrations/mentorship_programs.png)
 
 ### Supports:
 
@@ -36,6 +36,6 @@ Structure mentorship programs in DAOs to facilitate effective knowledge sharing 
 
 ### Supported By:
 
-[Dunbar’s Number](./dunbar's_number.html)
+[Dunbar’s Number](./dunbars_number.html)
 
-![Mentorship Programs](./output/mentorship_programs_specific_graph_v3.png)
+![Mentorship Programs](./output/mentorship_programs_specific_graph.png)

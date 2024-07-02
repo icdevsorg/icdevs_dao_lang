@@ -1,6 +1,6 @@
 ## OVT - Outcome Visualization
 
-![Outcome Visualization](./output/illustration/outcome_visualization_illustration_v3.png)
+![Outcome Visualization](./output/illustrations/outcome_visualization.png)
 
 ### Supports:
 
@@ -34,4 +34,4 @@ Implement a comprehensive outcome visualization system within the DAO that utili
 
 Integrate diverse, user-friendly visualization tools tailored to different stakeholder needs to effectively communicate project outcomes and impacts within the DAO, thereby maintaining stakeholder engagement and informed decision-making.
 
-![Outcome Visualization](./output/outcome_visualization_specific_graph_v3.png)
+![Outcome Visualization](./output/outcome_visualization_specific_graph.png)

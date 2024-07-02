@@ -1,6 +1,6 @@
 ## DDM - Decentralized Decision-Making
 
-![Decentralized Decision-Making](./output/illustration/decentralized_decision_making_illustration_v3.png)
+![Decentralized Decision-Making](./output/illustrations/decentralized_decision_making.png)
 
 ### Supports:
 [Effective Action](./effective_action.html)  
@@ -33,4 +33,4 @@ Integrate decentralized decision-making protocols that align with the democratic
 [Political Decentralization](./political_decentralization.html)  
 [Multi-factorial Consensus](./multi_factorial_consensus.html)
 
-![Decentralized Decision-Making](./output/decentralized_decision_making_specific_graph_v3.png)
+![Decentralized Decision-Making](./output/decentralized_decision_making_specific_graph.png)

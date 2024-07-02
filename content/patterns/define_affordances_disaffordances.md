@@ -1,6 +1,6 @@
 ## DAD - Define Affordances/Disaffordances
 
-![Define Affordances/Disaffordances](./output/illustration/define_affordances_disaffordances_illustration_v3.png)
+![Define Affordances/Disaffordances](./output/illustrations/define_affordances_disaffordances.png)
 
 ### Supports:
 [Predefined Action Protocols](./predefined_action_protocols.html)
@@ -30,4 +30,4 @@ In practice, examples like the DAOstack’s Alchemy platform show the utility of
 Adopt a systematic approach to defining what members can and cannot do within the DAO to streamline governance processes and reduce potential conflicts.
 
 
-![Define Affordances/Disaffordances](./output/define_affordances_disaffordances_specific_graph_v3.png)
+![Define Affordances/Disaffordances](./output/define_affordances_disaffordances_specific_graph.png)

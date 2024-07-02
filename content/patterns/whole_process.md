@@ -1,6 +1,6 @@
 ## WHP - Whole Process
 
-![Whole Process](./output/illustration/whole_process_illustration_v3.png)
+![Whole Process](./output/illustrations/whole_process.png)
 
 ### Supports:
 [Grants](./grants.html), [Bounties](./bounties.html)
@@ -27,4 +27,4 @@ Recognize and reward the full range of roles required in the lifecycle of DAO pr
 ### Supported By:
 [Job Boundaries](./job_boundaries.html)
 
-![Whole Process](./output/whole_process_specific_graph_v3.png)
+![Whole Process](./output/whole_process_specific_graph.png)

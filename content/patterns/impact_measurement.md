@@ -1,6 +1,6 @@
 ## IMI - Impact Measurement
 
-![Impact Measurement](./output/illustration/impact_measurement_illustration_v3.png)
+![Impact Measurement](./output/illustrations/impact_measurement.png)
 
 ### Supports:
 
@@ -38,4 +38,4 @@ Adopt and refine a comprehensive, transparent approach to measure the impact of 
 
 [Feedback Loops](./feedback_loops.html), [Immutable Records](./immutable_records.html), [Quantitative Analysis](./quantitative_analysis.html), [Qualitative Assessment](./qualitative_assessment.html)
 
-![Impact Measurement](./output/impact_measurement_specific_graph_v3.png)
+![Impact Measurement](./output/impact_measurement_specific_graph.png)

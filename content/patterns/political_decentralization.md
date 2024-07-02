@@ -1,6 +1,6 @@
 ## PDE - Political Decentralization
 
-![Political Decentralization](./output/illustration/political_decentralization_illustration_v3.png)
+![Political Decentralization](./output/illustrations/political_decentralization.png)
 
 ### Supports:
 [Decentralized Decision-Making](./decentralized_decision_making.html)
@@ -25,4 +25,4 @@ Emulate political decentralization by distributing decision-making power through
 ### Therefore:
 Decentralize the political structure of DAOs to enhance trust, engagement, and operational scalability across the organization. This approach promotes a more resilient and responsive governance model that aligns with the decentralized ethos of DAOs.
 
-![Political Decentralization](./output/political_decentralization_specific_graph_v3.png)
+![Political Decentralization](./output/political_decentralization_specific_graph.png)

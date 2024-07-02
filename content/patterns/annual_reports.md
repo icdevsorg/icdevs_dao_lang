@@ -1,6 +1,6 @@
 ## ARP - Annual Report
 
-![Annual Report](./output/illustration/annual_report_illustration_v3.png)
+![Annual Report](./output/illustrations/annual_reports.png)
 
 ### Supports:
 
@@ -34,4 +34,4 @@ Implement a comprehensive Annual Report that encapsulates all significant activi
 
 An Annual Report provides a structured approach for DAOs to encapsulate a year's worth of activities, offering transparency, fostering trust, and informing both strategic planning and community engagement efforts.
 
-![Annual Report](./output/annual_report_specific_graph_v3.png)
+![Annual Report](./output/annual_reports_specific_graph.png)

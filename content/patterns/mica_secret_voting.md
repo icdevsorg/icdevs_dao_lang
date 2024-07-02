@@ -1,6 +1,6 @@
 ## MSV - Mica Secret Voting
 
-![Mica Secret Voting](./output/illustration/mica_secret_voting_illustration_v3.png)
+![Mica Secret Voting](./output/illustrations/mica_secret_voting.png)
 
 ### Supports:
 [Credible Neutrality](./credible_neutrality.html)
@@ -26,4 +26,4 @@ Adopt Mica Secret Voting within DAOs to ensure that every voter can make decisio
 
 
 
-![Mica Secret Voting](./output/mica_secret_voting_specific_graph_v3.png)
+![Mica Secret Voting](./output/mica_secret_voting_specific_graph.png)

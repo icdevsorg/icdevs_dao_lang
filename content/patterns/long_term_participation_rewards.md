@@ -1,6 +1,6 @@
 ## LPR - Long-Term Participation Rewards
 
-![Long-Term Participation Rewards](./output/illustration/long_term_participation_rewards_illustration_v3.png)
+![Long-Term Participation Rewards](./output/illustrations/long_term_participation_rewards.png)
 
 ### Supports:
 [Performance-Based Bonuses](./performance_based_bonuses.html)
@@ -29,4 +29,4 @@ Design and integrate long-term participation rewards that provide incremental be
 ### Supported By:
 [Conviction Voting](./conviction_voting.html)
 
-![Long-Term Participation Rewards](./output/long_term_participation_rewards_specific_graph_v3.png)
+![Long-Term Participation Rewards](./output/long_term_participation_rewards_specific_graph.png)

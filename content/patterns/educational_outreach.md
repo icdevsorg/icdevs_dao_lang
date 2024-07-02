@@ -1,6 +1,6 @@
 ## EDO - Educational Outreach
 
-![Educational Outreach](./output/illustration/educational_outreach_illustration_v3.png)
+![Educational Outreach](./output/illustrations/educational_outreach.png)
 
 ### Supports:
 
@@ -35,4 +35,4 @@ Structure the delivery of educational material in a way that addresses the diver
 
 [Learning and Development Fund](./learning_and_development_fund.html)
 
-![Educational Outreach](./output/educational_outreach_specific_graph_v3.png)
+![Educational Outreach](./output/educational_outreach_specific_graph.png)

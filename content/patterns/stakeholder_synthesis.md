@@ -1,6 +1,6 @@
 ## SSS - Stakeholder Synthesis
 
-![Stakeholder Synthesis](./output/illustration/stakeholder_synthesis_illustration_v3.png)
+![Stakeholder Synthesis](./output/illustrations/stakeholder_synthesis.png)
 
 ### Supports:
 
@@ -38,7 +38,7 @@ Implement a structured "Stakeholder Synthesis" pattern within DAOs to effectivel
 
 Adopt the Stakeholder Synthesis pattern to ensure that decisions within the DAO are comprehensively informed, widely supported, and effectively implemented, boosting the DAO’s legitimacy and operational success.
 
-![Stakeholder Synthesis](./output/stakeholder_synthesis_specific_graph_v3.png)
+![Stakeholder Synthesis](./output/stakeholder_synthesis_specific_graph.png)
 
 
 

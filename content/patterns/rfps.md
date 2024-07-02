@@ -1,6 +1,6 @@
 ## RFP - Requests for Proposals
 
-![Requests for Proposals](./output/illustration/requests_for_proposals_illustration_v3.png)
+![Requests for Proposals](./output/illustrations/rfps.png)
 
 ### Supports:
 [Grants](./grants.html)
@@ -29,4 +29,4 @@ Configure a robust and transparent RFP process that ensures fair participation a
 ### Supported By:
 [Evergreen](./evergreen.html), [Community Value Alignment](./community_value_alignment.html)
 
-![Requests for Proposals](./output/requests_for_proposals_specific_graph_v3.png)
+![Requests for Proposals](./output/rfps_specific_graph.png)

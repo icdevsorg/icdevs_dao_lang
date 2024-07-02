@@ -1,6 +1,6 @@
 ## RQ - Rage Quit
 
-![Rage Quit](./output/illustration/rage_quit_illustration_v3.png)
+![Rage Quit](./output/illustrations/rage_quit.png)
 
 ### Supports:
 [Well Being](./well_being.html)
@@ -38,4 +38,4 @@ Members should feel assured that they can reclaim their vested assets and exit i
 ### Supported By:
 [Inability to Fork External Assets](./inability_to_fork_external_assets.html)  
 
-![Rage Quit](./output/rage_quit_specific_graph_v3.png)
+![Rage Quit](./output/rage_quit_specific_graph.png)

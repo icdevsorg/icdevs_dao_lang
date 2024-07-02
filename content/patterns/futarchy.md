@@ -1,6 +1,6 @@
 ## FUT - Futarchy
 
-![Futarchy](./output/illustration/futarchy_illustration_v3.png)
+![Futarchy](./output/illustrations/futarchy.png)
 
 ### Supports:
 - [Staking Mechanisms](./staking_mechanisms.html)
@@ -24,4 +24,4 @@ Implement a Futarchy model where decisions are made based on prediction markets 
 Adopt Futarchy to exploit collective intelligence in making complex and impactful decisions, leveraging markets' efficiency in aggregating diverse opinions and information, incentivizing informed participation, and predicting outcomes effectively.
 
 
-![Futarchy](./output/futarchy_specific_graph_v3.png)
+![Futarchy](./output/futarchy_specific_graph.png)

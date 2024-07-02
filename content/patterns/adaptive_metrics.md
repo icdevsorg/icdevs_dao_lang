@@ -1,6 +1,6 @@
 # AMT - Adaptive Metrics
 
-![Adaptive Metrics](./output/illustration/adaptive_metrics_illustration_v3.png)
+![Adaptive Metrics](./output/illustrations/adaptive_metrics.png)
 
 ### Supports:
 
@@ -33,4 +33,4 @@ Establish metrics that adapt and evolve with the conditions and demands of the D
 
 [Goodhart's Law](./goodharts_law.html)
 
-![Adaptive Metrics](./output/adaptive_metrics_specific_graph_v3.png)
+![Adaptive Metrics](./output/adaptive_metrics_specific_graph.png)

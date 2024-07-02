@@ -1,6 +1,6 @@
 ## CVT - Conviction Voting
 
-![Conviction Voting](./output/illustration/conviction_voting_illustration_v3.png)
+![Conviction Voting](./output/illustrations/conviction_voting.png)
 
 ### Supports:
 
@@ -30,4 +30,4 @@ Conviction Voting is a mechanism designed to enhance the credibility and long-te
 Implement a voting system where users lock their tokens for varying lengths of time to vote, aligning voting power with conviction and potentially reducing the noise in decision-making by prioritizing inputs from those with a committed, long-term perspective.
 
 
-![Commitment Voting](./output/commitment_voting_specific_graph_v3.png)
+![Conviction Voting](./output/conviction_voting_specific_graph.png)

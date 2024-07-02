@@ -1,6 +1,6 @@
 ## JBD - Job Boundaries
 
-![Job Boundaries](./output/illustration/job_boundaries_illustration_v3.png)
+![Job Boundaries](./output/illustrations/job_boundaries.png)
 
 ### Supports:
 [Decentralized Autonomy](./decentralized_autonomy.html), [Cross-functional Teams](./cross_functional_teams.html), [Working Groups](./working_groups.html)
@@ -27,4 +27,4 @@ Real-world examples include DAOs like MakerDAO, where roles are defined clearly 
 Define and regularly update job boundaries to ensure clarity and adaptability, facilitating effectiveness and harmony within the organization.
 
 
-![Job Boundaries](./output/job_boundaries_specific_graph_v3.png)
+![Job Boundaries](./output/job_boundaries_specific_graph.png)

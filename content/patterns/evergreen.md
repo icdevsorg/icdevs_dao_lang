@@ -1,9 +1,9 @@
 ## EVG - Evergreen
 
-![Evergreen](./output/illustration/evergreen_illustration_v3.png)
+![Evergreen](./output/illustrations/evergreen.png)
 
 ### Supports:
-[Predefined Action Proposals](./predefined_action_proposals.html), [Bounties](./bounties.html), [RFPs](./rfps.html),
+[Predefined Action Protocols](./predefined_action_protocols.html), [Bounties](./bounties.html), [RFPs](./rfps.html),
 
 ### Context:
 
@@ -30,4 +30,4 @@ Regularly update and refresh DAO initiatives to stay technologically relevant an
 ### Supported By:
 [Working Groups](./working_groups.html)
 
-![Evergreen](./output/evergreen_specific_graph_v3.png)
+![Evergreen](./output/evergreen_specific_graph.png)

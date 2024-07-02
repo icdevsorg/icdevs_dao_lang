@@ -1,6 +1,6 @@
 ## FIT - Feedback Integration Teams
 
-![Feedback Integration Teams](./output/illustration/feedback_integration_teams_illustration_v3.png)
+![Feedback Integration Teams](./output/illustrations/feedback_integration_teams.png)
 
 ### Supports:
 [Feedback Loops](./feedback_loops.html), [Iterative Funding](./iterative_funding.md)
@@ -26,6 +26,8 @@ Establish dedicated teams, known as Feedback Integration Teams (FIT), within the
 
 FITs should be equipped with tools for data analysis (qualitative and quantitative), project management, and effective communication. They act as bridges between the community and the project executors, ensuring that feedback directly influences project iterations and governance decisions.
 
+These teas should utilize an array of tools including real-time feedback tools such as real-time communication platforms (like Discord or Telegram) where community members can quickly and easily share their feedback. Ensure these platforms are moderated and constructive.
+
 //todo case studies
 
 ### Therefore:
@@ -33,7 +35,6 @@ Form Feedback Integration Teams to ensure systematic, structured, and impactful 
 
 ### Supported By:
 [Public Feedback Repositories](./public_feedback_repositories.html)
-[Real-Time Feedback Channels](./real_time_feedback_channels.html)
 [Qualitative Assessment](./qualitative_assessment.html)
 
-![Feedback Integration Teams](./output/feedback_integration_teams_specific_graph_v3.png)
+![Feedback Integration Teams](./output/feedback_integration_teams_specific_graph.png)

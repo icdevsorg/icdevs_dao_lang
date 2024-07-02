@@ -1,6 +1,6 @@
 ## HTM - Harvest Teams
 
-![Harvest Teams](./output/illustration/harvest_teams_illustration_v3.png)
+![Harvest Teams](./output/illustrations/harvest_teams.png)
 
 ### Supports:
 [Grants](./grants.html)
@@ -25,4 +25,4 @@ Real-world examples include retrospective teams in software development, where l
 ### Therefore:
 Create Harvest Teams to systematically capture, analyze, and integrate project insights into the DAO’s knowledge management systems, enhancing strategic decision-making and resource allocation.
 
-![Harvest Teams](./output/harvest_teams_specific_graph_v3.png)
+![Harvest Teams](./output/harvest_teams_specific_graph.png)

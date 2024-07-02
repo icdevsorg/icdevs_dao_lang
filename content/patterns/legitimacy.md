@@ -1,6 +1,6 @@
 ## LGM - Legitimacy
 
-![Legitimacy](./output/illustration/legitimacy_illustration_v3.png)
+![Legitimacy](./output/illustrations/legitimacy.png)
 
 ### Supports:
 
@@ -39,4 +39,4 @@ Emphasize processes that build and reinforce legitimacy to enhance community eng
 
 [Financial Reserves](./financial_reserves.html), [Transparent Governance](./transparent_governance.html), [Multi-factorial Consensus](./multi_factorial_consensus.html)
 
-![Legitimacy](./output/legitimacy_specific_graph_v3.png)
+![Legitimacy](./output/legitimacy_specific_graph.png)

@@ -1,6 +1,6 @@
 ## RTR - Right to Resignation
 
-![Right to Resignation](./output/illustration/right_to_resignation_illustration_v3.png)
+![Right to Resignation](./output/illustrations/right_to_resignation.png)
 
 ### Supports:
 [Well Being](./well_being.html)
@@ -28,4 +28,4 @@ The process should be automated as much as possible, utilizing smart contracts t
 ### Therefore:
 Implement the Right to Resignation to ensure that DAO members can leave the organization at their discretion, fostering a culture of respect for personal and professional boundaries and contributing to overall member wellbeing.
 
-![Right to Resignation](./output/right_to_resignation_specific_graph_v3.png) 
+![Right to Resignation](./output/right_to_resignation_specific_graph.png) 

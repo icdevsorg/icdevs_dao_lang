@@ -1,6 +1,6 @@
 ## RDS - Resource Development
 
-![Resource Development](./output/illustration/resource_development_illustration_v3.png)
+![Resource Development](./output/illustrations/resource_development.png)
 
 ### Supports:
 [Resource Optimization](./resource_optimization.html)
@@ -31,4 +31,4 @@ Emphasize strategies that build a diverse and scalable resource pool through com
 ### Supported By:
 [Cross-functional Teams](./cross_functional_teams.html), [Community Champions](./community_champions.html), [Skill Inventory](./skill_inventory.html), [Mentorship Programs](./mentorship_programs.html), [Learning and Development Fund](./learning_and_development_fund.html), [Institutions](./institutions.html), [Infrastructure](./infrastructure.html)
 
-![Resource Development](./output/resource_development_specific_graph_v3.png)
+![Resource Development](./output/resource_development_specific_graph.png)

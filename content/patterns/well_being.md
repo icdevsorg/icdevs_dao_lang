@@ -1,6 +1,6 @@
 ## WLB - Well Being
 
-![Well Being](./output/illustration/well_being_illustration_v3.png)
+![Well Being](./output/illustrations/well_being.png)
 
 ### Supports:
 
@@ -39,4 +39,4 @@ Adopt policies and technologies that safeguard contributor well-being, harmonizi
 
 [Levels Of Intensity](./levels_of_intensity.html), [Right to Resignation](./right_to_resignation.html), [Future Kindness](./future_kindness.html)
 
-![Well Being](./output/well_being_specific_graph_v3.png)
+![Well Being](./output/well_being_specific_graph.png)

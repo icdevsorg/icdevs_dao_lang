@@ -1,6 +1,6 @@
 ## SFS - Shares for Sweat
 
-![Shares for Sweat](./output/illustration/shares_for_sweat_illustration_v3.png)
+![Shares for Sweat](./output/illustrations/shares_for_sweat.png)
 
 ### Supports:
 
@@ -35,4 +35,4 @@ Instituting a 'Shares for Sweat' system helps align the interests of individual 
 ### Supported By:
 [Contribution Tracking](./contribution_tracking.html)
 
-![Shares for Sweat](./output/shares_for_sweat_specific_graph_v3.png)
+![Shares for Sweat](./output/shares_for_sweat_specific_graph.png)
