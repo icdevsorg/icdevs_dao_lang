@@ -11,6 +11,8 @@ digraph "" {
 	Seasons -> Celebrations;
 	Frivolity	[label="Frivolity\nDAO governance can be boring. Have fun.\n"];
 	Frivolity -> Celebrations;
+	Showcase	[label="Showcase\nRegularly display the work and success of the DAO.\n"];
+	Showcase -> Celebrations;
 	"Annual Reports"	[label="Annual Reports\nReview effectiveness of feedback mechanisms annually"];
 	"Annual Reports" -> Seasons;
 }

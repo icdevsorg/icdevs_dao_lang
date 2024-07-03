@@ -142,6 +142,9 @@ digraph "" {
 	"Iterative Funding" -> Grants;
 	RFPs	[label="RFPs\nIssue RFPs to focus grant proposals"];
 	RFPs -> Grants;
+	"Harvest Teams"	[label="Harvest Teams\nSpecial teams or committees that focus on extracting and implementing\n actionable insights from completed projects \
+or phases"];
+	"Harvest Teams" -> Grants;
 	"Right Size"	[label="Right Size\nIssuing little grants can take as much time as issuing large grants.\n"];
 	"Right Size" -> Grants;
 	"Bridge Feedback"	[label="Bridge Feedback\nProvide only positive feedback that point rejected teams toward success.\n"];
@@ -189,8 +192,6 @@ power"];
 	"Goodhart's Law"	[label="Goodhart's Law\nWhen a metric is used as a target it can no longer be used as an effective measure.\n"];
 	"Adaptive Metrics" -> "Goodhart's Law";
 	"Goodhart's Law" -> "Quantitative Analysis";
-	"Iterative Decision Framework"	[label="Iterative Decision Framework\nRevising and evolving decisions through iterative feedback"];
-	"Iterative Decision Framework" -> "Feedback Loops";
 	"Transparent Governance"	[label="Transparent Governance\nClear and open governance structures"];
 	"Transparent Governance" -> "Community Involvement";
 	Celebrations	[label="Celebrations\nTake time to celebrate as a community.\n It builds trust and common experience"];

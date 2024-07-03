@@ -36,8 +36,6 @@ digraph "" {
 	"Feedback Integration Teams" -> "Feedback Loops";
 	"Feedback Reward System"	[label="Feedback Reward System\nRewards for providing feedback"];
 	"Feedback Reward System" -> "Feedback Loops";
-	"Iterative Decision Framework"	[label="Iterative Decision Framework\nRevising and evolving decisions through iterative feedback"];
-	"Iterative Decision Framework" -> "Feedback Loops";
 	"Community Value Alignment"	[label="Community Value Alignment\nEnsure alignment with core values and vision"];
 	"Community Value Alignment" -> "Feedback Loops";
 	"Regular Community Check-Ins"	[label="Regular Community Check-Ins\nScheduled meetings for community discussion"];

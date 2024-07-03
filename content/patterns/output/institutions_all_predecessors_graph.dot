@@ -21,6 +21,9 @@ digraph "" {
 	RFPs -> Grants;
 	"Whole Process"	[label="Whole Process\nEncourages understanding and involvement in the entire workflow or lifecycle of a bounty and grant."];
 	"Whole Process" -> Grants;
+	"Harvest Teams"	[label="Harvest Teams\nSpecial teams or committees that focus on extracting and implementing\n actionable insights from completed projects \
+or phases"];
+	"Harvest Teams" -> Grants;
 	"Right Size"	[label="Right Size\nIssuing little grants can take as much time as issuing large grants.\n"];
 	"Right Size" -> Grants;
 	"Bridge Feedback"	[label="Bridge Feedback\nProvide only positive feedback that point rejected teams toward success.\n"];
