@@ -5,7 +5,7 @@
 ### Supports:
 
 * [Resource Development](./resource_development.html)
-* [Educational Outreach](./educational_outreach.md)
+* [Educational Outreach](./educational_outreach.html)
 
 ### Context:
 

@@ -26,6 +26,6 @@ Adopt Mica Secret Voting within DAOs to ensure that every voter can make decisio
 
 ### Supported By:
 
-* [Contingent Bribes](./contingent_bribes.md)
+* [Contingent Bribes](./contingent_bribes.html)
 
 ![Mica Secret Voting](./output/mica_secret_voting_specific_graph.png)

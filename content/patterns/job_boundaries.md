@@ -6,7 +6,7 @@
 * [Decentralized Autonomy](./decentralized_autonomy.html)
 * [Cross-functional Teams](./cross_functional_teams.html)
 * [Working Groups](./working_groups.html)
-* [Whole Process](./whole_process.md)
+* [Whole Process](./whole_process.html)
 
 ### Context:
 In a DAO’s dynamically structured environment where various tasks and projects are managed across decentralized and often remote teams, defining clear roles and responsibilities can significantly streamline process and improve operational efficiency.

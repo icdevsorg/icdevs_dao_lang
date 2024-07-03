@@ -40,6 +40,6 @@ Adopt and refine a comprehensive, transparent approach to measure the impact of 
 * [Immutable Records](./immutable_records.html)
 * [Quantitative Analysis](./quantitative_analysis.html)
 * [Qualitative Assessment](./qualitative_assessment.html)
-* [Annual Reports](./annual_reports.md)
+* [Annual Reports](./annual_reports.html)
 
 ![Impact Measurement](./output/impact_measurement_specific_graph.png)

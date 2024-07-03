@@ -35,6 +35,6 @@ Adopt quantitative analysis with clear, consistent metrics and automated data co
 * [Benchmarking](./benchmarking.html)
 * [Adaptive Metrics](./adaptive_metrics.html)
 * [Dynamic Surveys](./dynamic_surveys.html)
-* [Goodhart's Law](./goodharts_law.md)
+* [Goodhart's Law](./goodharts_law.html)
 
 ![Quantitative Analysis](./output/quantitative_analysis_specific_graph.png)

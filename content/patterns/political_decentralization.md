@@ -27,7 +27,7 @@ Decentralize the political structure of DAOs to enhance trust, engagement, and o
 
 ### Supported By:
 
-* [Multi-factorial Consensus](./multi_factorial_consensus.md)
-* [Bribes](./bribes.md)
+* [Multi-factorial Consensus](./multi_factorial_consensus.html)
+* [Bribes](./bribes.html)
 
 ![Political Decentralization](./output/political_decentralization_specific_graph.png)

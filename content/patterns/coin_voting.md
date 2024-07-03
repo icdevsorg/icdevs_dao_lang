@@ -4,7 +4,7 @@
 
 ### Supports:
 * [Multi-factorial Consensus](./multi_factorial_consensus.html)
-* [Token-Based Rewards](./token_based_rewards.md)
+* [Token-Based Rewards](./token_based_rewards.html)
 
 ### Context:
 In DAOs, governance and decision-making are central challenges, with the need to distribute power fairly while ensuring efficient and effective management. Traditional models either centralize decision-making or struggle to scale as participant numbers increase.

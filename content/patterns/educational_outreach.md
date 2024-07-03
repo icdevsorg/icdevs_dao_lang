@@ -6,7 +6,7 @@
 
 * [Community Involvement](./community_involvement.html)
 * [Resource Development](./resource_development.html)
-* [Institutions](./institutions.md)
+* [Institutions](./institutions.html)
 
 ### Context:
 

@@ -5,8 +5,8 @@
 ### Supports:
 
 * [Multi-factorial Consensus](./multi_factorial_consensus.html)
-* [Long-Term Participation Rewards](./conviction_voting.md.md)
-* [Token-Based Rewards](./conviction_voting.md.md)
+* [Long-Term Participation Rewards](./long_term_participation_rewards.html)
+* [Token-Based Rewards](./token_based_rewards.html)
 
 ### Context:
 

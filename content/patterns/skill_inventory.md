@@ -6,9 +6,9 @@
 
 * [Resource Development](./resource_development.html)
 * [Mentorship Programs](./mentorship_programs.html)
-* [Role Rotation](./role_rotation.md)
-* [Target Professionals](./target_professionals.md)
-* [Dynamic Role Allocation](./dynamic_role_allocation.md)
+* [Role Rotation](./role_rotation.html)
+* [Target Professionals](./target_professionals.html)
+* [Dynamic Role Allocation](./dynamic_role_allocation.html)
 
 ### Context:
 

@@ -5,7 +5,7 @@
 ### Supports:
 
 * [Quantitative Analysis](./quantitative_analysis.html)
-* [Benchmarking](./benchmarking.md)
+* [Benchmarking](./benchmarking.html)
 
 ### Context:
 

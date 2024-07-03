@@ -30,6 +30,6 @@ Integrate staking mechanisms within DAO operations to ensure that voting power a
 ### Supported By:
 * [Future Kindness](./future_kindness.html)
 * [CDP Voting](./cdp_voting.html)
-* [Futarchy](./futarchy.md)
+* [Futarchy](./futarchy.html)
 
 ![Staking Mechanisms](./output/staking_mechanisms_specific_graph.png)

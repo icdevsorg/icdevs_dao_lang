@@ -6,7 +6,7 @@
 
 * [Portfolio Approach](./portfolio_approach.html)
 * [Incentive Alignment](./incentive_alignment.html)
-* [Cross-functional Teams](./cross_functional_teams.md)
+* [Cross-functional Teams](./cross_functional_teams.html)
 
 ### Context:
 

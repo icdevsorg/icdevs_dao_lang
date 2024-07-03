@@ -4,8 +4,8 @@
 
 ### Supports:
 * [Resource Development](./resource_development.html)
-* [Cross-functional Teams](./cross_functional_teams.md)
-* [Working Groups](./working_groups.md)
+* [Cross-functional Teams](./cross_functional_teams.html)
+* [Working Groups](./working_groups.html)
 
 ### Context:
 In a DAO, members often work remotely and asynchronously, contributing to various projects with differing scopes and requirements. Over time, this can lead to skill atrophy or stagnation if individuals remain in static roles without exposure to new challenges or opportunities.
@@ -28,6 +28,6 @@ Enable members to develop diverse skills and perspectives by systematically rota
 
 ### Supported By:
 
- * [Skill Inventory](./skill_inventory.md)
+ * [Skill Inventory](./skill_inventory.html)
 
 ![Role Rotation](./output/role_rotation_specific_graph.png)

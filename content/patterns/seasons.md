@@ -32,6 +32,6 @@ DAOs should incorporate traditional seasonal patterns into their operational cal
 
 ### Supported By:
 
-* [Annual Reports](./annual_reports.md)
+* [Annual Reports](./annual_reports.html)
 
 ![Seasons](./output/Seasons_specific_graph.png)

@@ -4,7 +4,7 @@
 
 ### Supports:
 * [Multi-factorial Consensus](./multi_factorial_consensus.html)
-* [Credible Neutrality](./citizen_voting.md.md)
+* [Credible Neutrality](./credible_neutrality.html)
 
 ### Context:
 In the DAO landscape, governance and decision-making processes often need to reflect the ethos of decentralization fully. One person, one vote is a democratic principle that supports an equal say for all participants, regardless of their wealth or stake in the system.

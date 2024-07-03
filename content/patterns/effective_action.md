@@ -31,6 +31,6 @@ Develop a flexible yet robust framework combining predefined protocols, cross-fu
 * [Democratic Participation Incentives](./democratic_participation_incentives.html)
 * [Scalable Decision-Making](./scalable_decision_making.html)
 * [Cross-functional Teams](./cross_functional_teams.html)
-* [Decentralized Decision-Making](./decentralized_decision_making.md)
+* [Decentralized Decision-Making](./decentralized_decision_making.html)
 
 ![Effective Action](./output/effective_action_specific_graph.png)

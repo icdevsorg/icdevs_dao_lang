@@ -42,6 +42,6 @@ Establish a well-defined bounty program within the DAO that motivates and reward
 ### Supported By:
 
 * [Evergreen](./evergreen.html)
-* [Whole Process](./whole_process.md)
+* [Whole Process](./whole_process.html)
 
 ![Bounties](./output/bounties_specific_graph.png)

@@ -61,7 +61,7 @@ digraph G {
 "Dynamic Role Allocation" [label="Dynamic Role Allocation\nFlexible role definitions based on needs"];
 "Transparent Trackability" [label="Transparent Trackability\nAll transactions and decisions are transparent and accessible"];
 "Stakeholder Synthesis" [label="Stakeholder Synthesis\nIncorporates various stakeholder perspectives into decision-making"];
-"Iterative Decision Framework" [label="Iterative Decision Framework\nRevising and evolving decisions through iterative feedback"];
+
 "Community Value Alignment" [label="Community Value Alignment\nEnsure alignment with core values and vision"];
 "Futarchy" [label="Futarchy\nGovernance through prediction markets"];
 "Rage Quit" [label="Rage Quit\nAllow members to withdraw their investments if they disagree"];
@@ -109,7 +109,7 @@ digraph G {
 "Bridge Feedback" [label="Bridge Feedback\nProvide only positive feedback that point rejected teams toward success.\n"];
 "Target Professionals" [label="Target Professionals\nPrioritize funding professionals over new starters as they have more success.\n"];
 "Grant Shopping" [label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
-"Convertible Grants" [label="Convertible Grants\nGrants that can be converted to tokens at a later date to benefit the DAO.\n"];
+
 "Frivolity" [label="Frivolity\nDAO governance can be boring. Have fun.\n"];
 "Showcase" [label="Showcase\nRegularly display the work and success of the DAO.\n"];
 
@@ -194,7 +194,7 @@ digraph G {
 "Impact Storytelling" -> "Qualitative Assessment";
 "Target Professionals" -> "Grants";
 "Grant Shopping" -> "Grants";
-"Showcase" -> {"Grants", "Celebration"};
+"Showcase" -> {"Grants", "Celebrations"};
 "Frivolity" -> {"Celebrations", "Dunbar's Number"}
 
 
@@ -215,7 +215,6 @@ digraph G {
 "Transparent Trackability" -> {"Transparent Governance"};
 
 "Stakeholder Synthesis" -> "Working Groups";
-"Iterative Decision Framework" -> "Feedback Loops";
 "Community Value Alignment" -> {"Feedback Loops", "RFPs"};
 
 "Political Decentralization" -> {"Decentralized Decision-Making"};
@@ -252,7 +251,7 @@ digraph G {
 
 "Job Boundaries" -> {"Decentralized Autonomy", "Cross-functional Teams", "Working Groups","Whole Process"};
 
-"Harvest Teams" -> {"Convertible Grants"};
+"Harvest Teams" -> {"Grants"};
 "Levels of Intensity" -> {"Well Being"};
 "Well Being" -> "Incentive Alignment";
 "Futarchy" -> "Staking Mechanisms";

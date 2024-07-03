@@ -28,6 +28,6 @@ Adopt a structured and systematic approach to risk management by diversifying in
 * [Financial Reserves](./financial_reserves.html)
 * [Decentralized Decision-Making](./decentralized_decision_making.html)
 * [Inability to Fork External Assets](./inability_to_fork_external_assets.html)
-* [Bounties](./bounties.md)
+* [Bounties](./bounties.html)
 
 ![Risk Management](./output/risk_management_specific_graph.png)

@@ -4,7 +4,7 @@
 
 ### Supports:
 * [Transparent Governance](./transparent_governance.html)
-* [Political Decentralization](./political_decentralization.md)
+* [Political Decentralization](./political_decentralization.html)
 
 ### Context:
 In DAOs, the allocation and optimization of capital through voting mechanisms often face challenges when external incentives (bribes) influence voter behavior, resulting in potentially skewed or unfair decision-making processes.
@@ -25,6 +25,6 @@ Make transparency and accountability foundational to the DAO’s operations, ens
 
 ### Supported By:
 * [Mica Secret Voting](./mica_secret_voting.html)
-* [Contingent Bribes](./contingent_bribes.md)
+* [Contingent Bribes](./contingent_bribes.html)
 
 ![Bribes](./output/bribes_specific_graph.png)
