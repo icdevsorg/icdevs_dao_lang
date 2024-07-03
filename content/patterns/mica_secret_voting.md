@@ -24,6 +24,8 @@ The technical implementation could use secure multi-party computation (SMPC) or 
 ### Therefore:
 Adopt Mica Secret Voting within DAOs to ensure that every voter can make decisions privately and securely, enhancing the integrity and credibility of the electoral process within decentralized governance frameworks.
 
+### Supported By:
 
+* [Contingent Bribes](./contingent_bribes.md)
 
 ![Mica Secret Voting](./output/mica_secret_voting_specific_graph.png)

@@ -6,7 +6,8 @@
 
 * [Resource Optimization](./resource_optimization.html)
 * [Effective Action](./effective_action.html)
-# [Portfolio Approach](./portfolio_approach.html)
+* [Portfolio Approach](./portfolio_approach.html)
+* [Resource Development](./resource_development.md)
 
 ### Context:
 
@@ -37,6 +38,7 @@ Create teams that integrate various functional expertise, align them with specif
 
 * [Role Rotation](./role_rotation.html)
 * [Communication Channels](./communication_channels.html)
-# [Job Boundaries](./job_boundaries.html)
+* [Job Boundaries](./job_boundaries.html)
+* [Skill and Role Development Incentives](./skill_and_role_development_incentives.md)
 
 ![Cross-functional Teams](./output/cross_functional_teams_specific_graph.png)

@@ -30,4 +30,8 @@ Implementing a human-centric operational calendar can help:
 ### Therefore:
 DAOs should incorporate traditional seasonal patterns into their operational calendar to respect and leverage human rhythms and cultural cycles, enhancing member engagement and alignment with human-centric timelines.
 
+### Supported By:
+
+* [Annual Reports](./annual_reports.md)
+
 ![Seasons](./output/Seasons_specific_graph.png)

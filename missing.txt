@@ -2,3 +2,17 @@ Missing files in ./content/patterns/feedback_integration_teams.md:
   - ./real_time_feedback_channels.html
 Missing files in ./content/patterns/risk_management.md:
   - ./architectural_decentralization.html
+Missing files in ./content/patterns/citizen_voting.md:
+  - ./citizen_voting.md.md
+Missing files in ./content/patterns/well_being.md:
+  - ./well_being.md.md
+  - ./well_being.md.md
+Missing files in ./content/patterns/conviction_voting.md:
+  - ./conviction_voting.md.md
+  - ./conviction_voting.md.md
+Missing files in ./content/patterns/right_size.md:
+  - ./right_size.md.md
+Missing files in ./content/patterns/harvest_teams.md:
+  - ./convertible_grants.md
+Missing files in ./content/patterns/feedback_loops.md:
+  - ./iterative_decision_framework.md

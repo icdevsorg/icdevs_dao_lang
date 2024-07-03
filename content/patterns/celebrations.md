@@ -4,7 +4,7 @@
 
 ### Supports:
 
-* Community Involvement
+* [Community Involvement](./community_involvement.md)
 
 ### Context:
 

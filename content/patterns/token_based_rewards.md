@@ -4,6 +4,7 @@
 
 ### Supports:
 * [Incentive Alignment](./incentive_alignment.html)
+* [Feedback Reward System](./feedback_reward_system.md)
 
 ### Context:
 In the DAO ecosystem, ensuring ongoing participation and contribution to organizational goals is critical. Traditional organizations may rely on salary or equity-based systems, but DAOs require mechanisms that reflect their decentralized, digital-first nature.
@@ -28,5 +29,6 @@ Structure the distribution of tokens to balance immediate rewards with long-term
 * [Shares for Sweat](./shares_for_sweat.html)
 * [Coin Voting](./coin_voting.html)
 * [Conviction Voting](./conviction_voting.html)
+
 
 ![Token-Based Rewards](./output/token_based_rewards_specific_graph.png)

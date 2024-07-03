@@ -37,5 +37,7 @@ Form Feedback Integration Teams to ensure systematic, structured, and impactful 
 ### Supported By:
 * [Public Feedback Repositories](./public_feedback_repositories.html)
 * [Qualitative Assessment](./qualitative_assessment.html)
+* [Dynamic Surveys](./dynamic_surveys.md)
+* [Communication Channels](./communication_channels.md)
 
 ![Feedback Integration Teams](./output/feedback_integration_teams_specific_graph.png)

@@ -4,6 +4,7 @@
 
 ### Supports:
 * [Multi-factorial Consensus](./multi_factorial_consensus.html)
+* [Credible Neutrality](./credible_neutrality.md)
 
 ### Context:
 In DAOs, the mechanism of voting plays a critical role in decision-making processes, particularly in scenarios requiring collective input on resource distribution such as capital deployment in code bounties, grants, and hybrid investments.

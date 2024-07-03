@@ -4,7 +4,7 @@
 
 ### Supports:
 * [Token-Based Rewards](./token_based_rewards.html)
-# [Coin Voting](./coin_voting.html)
+* [Coin Voting](./coin_voting.html)
 
 ### Context:
 In DAOs, ensuring committed and responsible participation is crucial, particularly when decisions impact the allocation and management of substantial capital. Staking mechanisms serve to align participant incentives with the long-term success and health of the ecosystem.
@@ -28,6 +28,8 @@ Real-world examples include:
 Integrate staking mechanisms within DAO operations to ensure that voting power and participation rights are aligned with long-term incentive structures, fostering greater responsibility and reducing speculative behavior.
 
 ### Supported By:
-* [Future Kindness](./future_kindness.html), [CDP Voting](./cdp_voting.html)
+* [Future Kindness](./future_kindness.html)
+* [CDP Voting](./cdp_voting.html)
+* [Futarchy](./futarchy.md)
 
 ![Staking Mechanisms](./output/staking_mechanisms_specific_graph.png)

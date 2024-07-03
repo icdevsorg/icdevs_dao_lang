@@ -40,5 +40,7 @@ Adopt policies and technologies that safeguard contributor well-being, harmonizi
 * [Levels Of Intensity](./levels_of_intensity.html)
 * [Right to Resignation](./right_to_resignation.html)
 * [Future Kindness](./future_kindness.html)
+* [Levels of Intensity](./well_being.md.md)
+* [Rage Quit](./well_being.md.md)
 
 ![Well Being](./output/well_being_specific_graph.png)

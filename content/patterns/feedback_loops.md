@@ -40,5 +40,8 @@ Implement structured and transparent feedback loops that enable continuous impro
 * [Regular Community Check-Ins](./regular_community_check_ins.html)
 * [Feedback Integration Team](./feedback_integration_teams.html)
 * [Feedback Reward System](./feedback_reward_system.html)
+* [Feedback Integration Teams](./feedback_integration_teams.md)
+* [Community Value Alignment](./community_value_alignment.md)
+* [Iterative Decision Framework](./iterative_decision_framework.md)
 
 ![Feedback Loops](./output/feedback_loops_specific_graph.png)

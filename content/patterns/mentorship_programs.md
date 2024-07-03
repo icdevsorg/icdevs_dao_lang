@@ -37,5 +37,6 @@ Structure mentorship programs in DAOs to facilitate effective knowledge sharing 
 ### Supported By:
 
 * [Dunbar’s Number](./dunbars_number.html)
+* [Skill Inventory](./skill_inventory.md)
 
 ![Mentorship Programs](./output/mentorship_programs_specific_graph.png)

@@ -41,5 +41,7 @@ Implement a multi-faceted incentive system within a DAO that rewards both the pa
 * [Performance-Based Bonuses](./performance_based_bonuses.html)
 * [Democratic Participation Incentives](./democratic_participation_incentives.html)
 * [Skill and Role Development Incentives](./skill_and_role_development_incentives.html)
+* [Feedback Reward System](./feedback_reward_system.md)
+* [Well Being](./well_being.md)
 
 ![Incentive Alignment](./output/incentive_alignment_specific_graph.png)

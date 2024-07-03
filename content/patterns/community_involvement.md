@@ -37,5 +37,6 @@ Embrace structures that promote active, informed, and significant community invo
 * [Dunbar's Number](./dunbars_number.html)
 * [Working Groups](./working_groups.html)
 * [Institutions](./institutions.html)
+* [Right Size](./right_size.md)
 
 ![Community Involvement](./output/community_involvement_specific_graph.png)

@@ -36,5 +36,7 @@ Emphasize strategies that build a diverse and scalable resource pool through com
 * [Learning and Development Fund](./learning_and_development_fund.html)
 * [Institutions](./institutions.html)
 * [Infrastructure](./infrastructure.html)
+* [Decentralized Autonomy](./decentralized_autonomy.md)
+* [Role Rotation](./role_rotation.md)
 
 ![Resource Development](./output/resource_development_specific_graph.png)

@@ -6,6 +6,7 @@
 * [Grants](./grants.html)
 * [Community Involvement](./community_involvement.html)
 * [Scalable Decision Making](./scalable_decision_making.html)
+* [Scalable Decision-Making](./right_size.md.md)
 
 ### Context:
 In the ecosystem of DAOs, particularly those focusing on distributing capital through grants and bounties, efficient resource allocation is paramount. Managing a vast number of small-scale projects often does not correspond effectively with the effort and resources invested in their oversight.

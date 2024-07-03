@@ -56,9 +56,8 @@ digraph "" {
 	"Target Professionals" -> Grants;
 	"Grant Shopping"	[label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
 	"Grant Shopping" -> Grants;
-	"Grand Shopping"	[label=""];
-	"Grand Shopping" -> Grants;
-	Showcase	[label=""];
+	"Grant Shopping" -> Grants;
+	Showcase	[label="Showcase\nRegularly display the work and success of the DAO.\n"];
 	Showcase -> Grants;
 	"Community Value Alignment"	[label="Community Value Alignment\nEnsure alignment with core values and vision"];
 	"Community Value Alignment" -> RFPs;

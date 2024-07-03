@@ -111,6 +111,7 @@ digraph G {
 "Grant Shopping" [label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
 "Convertible Grants" [label="Convertible Grants\nGrants that can be converted to tokens at a later date to benefit the DAO.\n"];
 "Frivolity" [label="Frivolity\nDAO governance can be boring. Have fun.\n"];
+"Showcase" [label="Showcase\nRegularly display the work and success of the DAO.\n"];
 
 
 
@@ -192,7 +193,7 @@ digraph G {
 "Outcome Visualization" -> "Qualitative Assessment";
 "Impact Storytelling" -> "Qualitative Assessment";
 "Target Professionals" -> "Grants";
-"Grand Shopping" -> "Grants";
+"Grant Shopping" -> "Grants";
 "Showcase" -> {"Grants", "Celebration"};
 "Frivolity" -> {"Celebrations", "Dunbar's Number"}
 
@@ -235,7 +236,7 @@ digraph G {
 "Infrastructure" -> "Resource Development";
 "Grants" -> {"Infrastructure", "Institutions"};
 "Bounties" -> {"Infrastructure", "Risk Management", "Performance-Based Bonuses"};
-"Innovation Lab" -> {"Infrastructure"};
+"Innovation Labs" -> {"Infrastructure"};
 
 "Institutions" -> {"Resource Development", "Community Involvement"};
 

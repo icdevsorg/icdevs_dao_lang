@@ -51,9 +51,8 @@ digraph "" {
 	"Target Professionals" -> Grants;
 	"Grant Shopping"	[label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
 	"Grant Shopping" -> Grants;
-	"Grand Shopping"	[label=""];
-	"Grand Shopping" -> Grants;
-	Showcase	[label=""];
+	"Grant Shopping" -> Grants;
+	Showcase	[label="Showcase\nRegularly display the work and success of the DAO.\n"];
 	Showcase -> Grants;
 	"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
 	"Job Boundaries" -> "Whole Process";
@@ -82,10 +81,10 @@ digraph "" {
 	"Feedback Integration Teams" -> "Iterative Funding";
 	"Public Feedback Repositories"	[label="Public Feedback Repositories\nLog of feedback and actions taken"];
 	"Public Feedback Repositories" -> "Feedback Integration Teams";
+	"Innovation Labs"	[label="Innovation Labs\nLabs for creativity and skill application"];
+	"Innovation Labs" -> Infrastructure;
 	Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
 	Bounties -> Infrastructure;
-	"Innovation Lab"	[label=""];
-	"Innovation Lab" -> Infrastructure;
 	"Skill and Role Development Incentives"	[label="Skill and Role Development Incentives\nIncentives for developing new skills"];
 	"Skill and Role Development Incentives" -> "Cross-functional Teams";
 	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];

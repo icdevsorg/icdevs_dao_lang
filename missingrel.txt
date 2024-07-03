@@ -1,0 +1,111 @@
+patterns: {'Effective Action': {'supports': {'Resource Optimization'}, 'supported_by': {'Cross-functional Teams', 'Credible Neutrality', 'Democratic Participation Incentives', 'Legitimacy', 'Scalable Decision-Making', 'Decentralized Decision-Making'}}, 'Resource Optimization': {'supports': set(), 'supported_by': {'Effective Action', 'Resource Development', 'Community Involvement', 'Risk Management', 'Impact Measurement', 'Incentive Alignment'}}, 'Community Involvement': {'supports': {'Resource Optimization'}, 'supported_by': {'Right Size', 'Working Groups', 'Community Champions', 'Transparent Governance', 'Decentralized Autonomy', "Dunbar's Number", 'Celebrations', 'Educational Outreach', 'Institutions'}}, 'Feedback Loops': {'supports': {'Impact Measurement'}, 'supported_by': {'Iterative Decision Framework', 'Feedback Reward System', 'Iterative Funding', 'Feedback Integration Teams', 'Community Value Alignment'}}, 'Impact Measurement': {'supports': {'Resource Optimization'}, 'supported_by': {'Feedback Loops', 'Annual Reports', 'Quantitative Analysis', 'Qualitative Assessment', 'Immutable Records'}}, 'Iterative Funding': {'supports': {'Feedback Loops', 'Grants'}, 'supported_by': {'Feedback Integration Teams', 'Seasons'}}, 'Grants': {'supports': {'Institutions', 'Infrastructure'}, 'supported_by': {'Right Size', 'Bridge Feedback', 'Biz Dev Agents', 'Showcase', 'RFPs', 'Whole Process', 'Grant Shopping', 'Target Professionals', 'Iterative Funding', 'Seconded Resources'}}, 'Resource Development': {'supports': {'Resource Optimization'}, 'supported_by': {'Cross-functional Teams', 'Skill Inventory', 'Mentorship Programs', 'Community Champions', 'Decentralized Autonomy', 'Learning and Development Fund', 'Infrastructure', 'Institutions', 'Role Rotation'}}, 'Incentive Alignment': {'supports': {'Resource Optimization'}, 'supported_by': {'Well Being', 'Reputation Systems', 'Democratic Participation Incentives', 'Feedback Reward System', 'Performance-Based Bonuses', 'Token-Based Rewards'}}, 'Risk Management': {'supports': {'Resource Optimization'}, 'supported_by': {'Decentralized Decision-Making', 'Bounties', 'Financial Reserves', 'Portfolio Approach'}}, 'Transparent Governance': {'supports': {'Community Involvement', 'Legitimacy'}, 'supported_by': {'Transparent Trackability'}}, 'Legitimacy': {'supports': {'Effective Action'}, 'supported_by': {'Multi-factorial Consensus', 'Transparent Governance', 'Financial Reserves'}}, 'Open Data': {'supports': {'Transparent Trackability'}, 'supported_by': set()}, 'Transparent Trackability': {'supports': {'Transparent Governance'}, 'supported_by': {'Open Data', 'Immutable Records'}}, 'Immutable Records': {'supports': {'Commitment Pooling', 'Honour', 'Impact Measurement', 'Transparent Trackability'}, 'supported_by': set()}, 'Honour': {'supports': {'Reputation Systems'}, 'supported_by': {'Immutable Records'}}, 'Commitment Pooling': {'supports': {'Reputation Systems'}, 'supported_by': {'Immutable Records'}}, 'Educational Outreach': {'supports': {'Community Involvement', 'Institutions'}, 'supported_by': {'Learning and Development Fund'}}, 'Institutions': {'supports': {'Resource Development', 'Community Involvement'}, 'supported_by': {'Biz Dev Agents', 'Seconded Resources', 'Educational Outreach', 'Grants'}}, 'Community Champions': {'supports': {'Resource Development', 'Community Involvement'}, 'supported_by': {'Working Groups'}}, 'Decentralized Autonomy': {'supports': {'Resource Development', 'Community Involvement'}, 'supported_by': {'Job Boundaries', 'Control as a Liability'}}, 'Credible Neutrality': {'supports': {'Effective Action'}, 'supported_by': {'Quadratic Voting', 'Multi-factorial Consensus', 'Mica Secret Voting', 'Citizen Voting'}}, 'Quantitative Analysis': {'supports': {'Impact Measurement'}, 'supported_by': {'Benchmarking', "Goodhart's Law", 'Dynamic Surveys', 'Adaptive Metrics'}}, 'Qualitative Assessment': {'supports': {'Impact Measurement'}, 'supported_by': {'Dynamic Surveys', 'Impact Storytelling', 'Outcome Visualization'}}, 'Benchmarking': {'supports': {'Quantitative Analysis'}, 'supported_by': {"Goodhart's Law"}}, 'Outcome Visualization': {'supports': {'Qualitative Assessment'}, 'supported_by': set()}, 'Impact Storytelling': {'supports': {'Qualitative Assessment'}, 'supported_by': set()}, 'Adaptive Metrics': {'supports': {"Goodhart's Law", 'Quantitative Analysis'}, 'supported_by': set()}, "Goodhart's Law": {'supports': {'Benchmarking', 'Quantitative Analysis'}, 'supported_by': {'Adaptive Metrics'}}, 'Regular Community Check-Ins': {'supports': {'Community Value Alignment'}, 'supported_by': {'Dynamic Surveys', 'Seasons'}}, 'Community Value Alignment': {'supports': {'Feedback Loops', 'RFPs'}, 'supported_by': {'Regular Community Check-Ins'}}, 'Dynamic Surveys': {'supports': {'Feedback Integration Teams', 'Qualitative Assessment', 'Regular Community Check-Ins', 'Quantitative Analysis'}, 'supported_by': set()}, 'Feedback Integration Teams': {'supports': {'Iterative Funding', 'Feedback Loops'}, 'supported_by': {'Communication Channels', 'Dynamic Surveys', 'Public Feedback Repositories'}}, 'Public Feedback Repositories': {'supports': {'Feedback Integration Teams'}, 'supported_by': {'Annual Reports'}}, 'Feedback Reward System': {'supports': {'Incentive Alignment', 'Feedback Loops'}, 'supported_by': {'Token-Based Rewards'}}, 'Annual Reports': {'supports': {'Impact Measurement', 'Public Feedback Repositories', 'Seasons'}, 'supported_by': set()}, 'Seasons': {'supports': {'Iterative Funding', 'Celebrations', 'Regular Community Check-Ins'}, 'supported_by': {'Annual Reports'}}, 'Skill Inventory': {'supports': {'Resource Development', 'Mentorship Programs', 'Dynamic Role Allocation', 'Target Professionals', 'Role Rotation'}, 'supported_by': set()}, 'Mentorship Programs': {'supports': {'Resource Development'}, 'supported_by': {"Dunbar's Number", 'Skill Inventory'}}, 'Role Rotation': {'supports': {'Resource Development', 'Cross-functional Teams', 'Working Groups'}, 'supported_by': {'Skill Inventory'}}, 'Dynamic Role Allocation': {'supports': {'Predefined Action Protocols'}, 'supported_by': {'Skill Inventory'}}, 'Target Professionals': {'supports': {'Grants'}, 'supported_by': {'Skill Inventory'}}, 'Cross-functional Teams': {'supports': {'Effective Action', 'Resource Development', 'Portfolio Approach'}, 'supported_by': {'Role Rotation', 'Communication Channels', 'Job Boundaries', 'Skill and Role Development Incentives'}}, 'Working Groups': {'supports': {'Evergreen', 'Community Involvement', 'Community Champions', 'RFPs'}, 'supported_by': {'Role Rotation', "Dunbar's Number", 'Stakeholder Synthesis', 'Job Boundaries'}}, 'Portfolio Approach': {'supports': {'Risk Management'}, 'supported_by': {'Cross-functional Teams', 'Cross-Platform Engagements', 'Innovation Labs', 'Community Diversification', 'Logical Decentralization'}}, 'Learning and Development Fund': {'supports': {'Resource Development', 'Educational Outreach'}, 'supported_by': set()}, 'Innovation Labs': {'supports': {'Portfolio Approach', 'Infrastructure'}, 'supported_by': set()}, 'Infrastructure': {'supports': {'Resource Development'}, 'supported_by': {'Bounties', 'Grants', 'Innovation Labs'}}, 'Token-Based Rewards': {'supports': {'Incentive Alignment', 'Feedback Reward System'}, 'supported_by': {'Shares for Sweat', 'Conviction Voting', 'Coin Voting', 'Staking Mechanisms'}}, 'Reputation Systems': {'supports': {'Incentive Alignment'}, 'supported_by': {'Commitment Pooling', 'Honour', 'Contribution Tracking'}}, 'Staking Mechanisms': {'supports': {'Token-Based Rewards', 'Coin Voting'}, 'supported_by': {'Future Kindness', 'CDP Voting', 'Futarchy'}}, 'Coin Voting': {'supports': {'Multi-factorial Consensus', 'Token-Based Rewards'}, 'supported_by': {'CDP Voting', 'Staking Mechanisms'}}, 'Contribution Tracking': {'supports': {'Shares for Sweat', 'Skill and Role Development Incentives', 'Performance-Based Bonuses', 'Reputation Systems'}, 'supported_by': set()}, 'Performance-Based Bonuses': {'supports': {'Incentive Alignment'}, 'supported_by': {'Long-Term Participation Rewards', 'Bounties', 'Escrow and Milestone Payments', 'Contribution Tracking'}}, 'Skill and Role Development Incentives': {'supports': {'Cross-functional Teams'}, 'supported_by': {'Contribution Tracking'}}, 'Shares for Sweat': {'supports': {'Token-Based Rewards'}, 'supported_by': {'Contribution Tracking'}}, 'Escrow and Milestone Payments': {'supports': {'Performance-Based Bonuses'}, 'supported_by': set()}, 'Democratic Participation Incentives': {'supports': {'Effective Action', 'Incentive Alignment'}, 'supported_by': set()}, 'Long-Term Participation Rewards': {'supports': {'Performance-Based Bonuses'}, 'supported_by': {'Conviction Voting'}}, 'Cross-Platform Engagements': {'supports': {'Portfolio Approach'}, 'supported_by': set()}, 'Community Diversification': {'supports': {'Portfolio Approach'}, 'supported_by': {"Dunbar's Number"}}, 'Financial Reserves': {'supports': {'Legitimacy', 'Risk Management'}, 'supported_by': set()}, 'Decentralized Decision-Making': {'supports': {'Effective Action', 'Risk Management'}, 'supported_by': {'Multi-factorial Consensus', 'Political Decentralization'}}, 'Scalable Decision-Making': {'supports': {'Effective Action'}, 'supported_by': {'Multi-factorial Consensus', 'Right Size', 'Predefined Action Protocols'}}, 'Predefined Action Protocols': {'supports': {'Scalable Decision-Making'}, 'supported_by': {'Dynamic Role Allocation', 'Define Affordances/Disaffordances', 'Evergreen', 'Good UI'}}, 'Communication Channels': {'supports': {"Dunbar's Number", 'Feedback Integration Teams', 'Cross-functional Teams'}, 'supported_by': set()}, "Dunbar's Number": {'supports': {'Community Diversification', 'Working Groups', 'Community Involvement', 'Mentorship Programs'}, 'supported_by': {'Frivolity', 'Communication Channels'}}, 'Stakeholder Synthesis': {'supports': {'Working Groups'}, 'supported_by': set()}, 'Iterative Decision Framework': {'supports': {'Feedback Loops'}, 'supported_by': set()}, 'RFPs': {'supports': {'Grants'}, 'supported_by': {'Evergreen', 'Working Groups', 'Community Value Alignment'}}, 'Futarchy': {'supports': {'Staking Mechanisms'}, 'supported_by': set()}, 'Rage Quit': {'supports': {'Well Being'}, 'supported_by': {'Inability to Fork External Assets'}}, 'Well Being': {'supports': {'Incentive Alignment'}, 'supported_by': {'Levels of Intensity', 'Future Kindness', 'Right to Resignation', 'Rage Quit'}}, 'Political Decentralization': {'supports': {'Decentralized Decision-Making'}, 'supported_by': {'Multi-factorial Consensus', 'Bribes'}}, 'Logical Decentralization': {'supports': {'Portfolio Approach'}, 'supported_by': set()}, 'Multi-factorial Consensus': {'supports': {'Credible Neutrality', 'Political Decentralization', 'Legitimacy', 'Scalable Decision-Making', 'Decentralized Decision-Making'}, 'supported_by': {'Quadratic Voting', 'Citizen Voting', 'Coin Voting', 'Conviction Voting'}}, 'Citizen Voting': {'supports': {'Multi-factorial Consensus', 'Credible Neutrality'}, 'supported_by': set()}, 'Conviction Voting': {'supports': {'Long-Term Participation Rewards', 'Multi-factorial Consensus', 'Token-Based Rewards'}, 'supported_by': set()}, 'Quadratic Voting': {'supports': {'Multi-factorial Consensus', 'Credible Neutrality'}, 'supported_by': set()}, 'Mica Secret Voting': {'supports': {'Credible Neutrality'}, 'supported_by': {'Contingent Bribes'}}, 'Control as a Liability': {'supports': {'Decentralized Autonomy'}, 'supported_by': {'Subtraction'}}, 'CDP Voting': {'supports': {'Coin Voting', 'Staking Mechanisms'}, 'supported_by': set()}, 'Inability to Fork External Assets': {'supports': {'Control as Liability', 'Rage Quit'}, 'supported_by': set()}, 'Control as Liability': {'supports': set(), 'supported_by': {'Inability to Fork External Assets'}}, 'Celebrations': {'supports': {'Community Involvement'}, 'supported_by': {'Frivolity', 'Seasons'}}, 'Future Kindness': {'supports': {'Well Being', 'Staking Mechanisms'}, 'supported_by': set()}, 'Evergreen': {'supports': {'Bounties', 'RFPs', 'Predefined Action Protocols'}, 'supported_by': {'Working Groups'}}, 'Bounties': {'supports': {'Risk Management', 'Performance-Based Bonuses', 'Infrastructure'}, 'supported_by': {'Evergreen', 'Whole Process'}}, 'Biz Dev Agents': {'supports': {'Grants', 'Institutions'}, 'supported_by': set()}, 'Seconded Resources': {'supports': {'Grants', 'Institutions'}, 'supported_by': set()}, 'Good UI': {'supports': {'Predefined Action Protocols'}, 'supported_by': set()}, 'Define Affordances/Disaffordances': {'supports': {'Predefined Action Protocols'}, 'supported_by': set()}, 'Whole Process': {'supports': {'Bounties', 'Grants'}, 'supported_by': {'Job Boundaries'}}, 'Job Boundaries': {'supports': {'Whole Process', 'Cross-functional Teams', 'Decentralized Autonomy', 'Working Groups'}, 'supported_by': set()}, 'Harvest Teams': {'supports': {'Convertible Grants'}, 'supported_by': set()}, 'Convertible Grants': {'supports': set(), 'supported_by': {'Harvest Teams'}}, 'Levels of Intensity': {'supports': {'Well Being'}, 'supported_by': set()}, 'Bribes': {'supports': {'Political Decentralization'}, 'supported_by': {'Contingent Bribes'}}, 'Contingent Bribes': {'supports': {'Bribes', 'Mica Secret Voting'}, 'supported_by': set()}, 'Subtraction': {'supports': {'Control as a Liability'}, 'supported_by': set()}, 'Right to Resignation': {'supports': {'Well Being', 'Levels Of Intensity'}, 'supported_by': set()}, 'Levels Of Intensity': {'supports': set(), 'supported_by': {'Right to Resignation'}}, 'Right Size': {'supports': {'Community Involvement', 'Grants', 'Scalable Decision-Making'}, 'supported_by': set()}, 'Bridge Feedback': {'supports': {'Grants'}, 'supported_by': set()}, 'Grant Shopping': {'supports': {'Grants'}, 'supported_by': set()}, 'Frivolity': {'supports': {'Celebrations', "Dunbar's Number"}, 'supported_by': set()}, 'Showcase': {'supports': {'Grants', 'Celebration'}, 'supported_by': set()}, 'Celebration': {'supports': set(), 'supported_by': {'Showcase'}}}
+Citizen Voting:
+Dunbar's Number:
+Well Being:
+Conviction Voting:
+Transparent Governance:
+Right Size:
+Cross-functional Teams:
+Annual Report:
+Bridge Feedback:
+Resource Optimization:
+Portfolio Approach:
+Long-Term Participation Rewards:
+Contingent Bribes:
+Democratic Participation Incentives:
+Mica Secret Voting:
+Levels of Intensity:
+Honour:
+Skill and Role Development Incentives:
+Good UI:
+Decentralized Autonomy:
+Political Decentralization:
+Transparent Trackability:
+Skill Inventory:
+Evergreen:
+Immutable Records:
+Mentorship Programs:
+Supported By Missing: mentorship_programs.md:
+* [Dunbar's Number](./dunbar's_number.md)
+Resource Development:
+Communication Channels:
+Harvest Teams:
+Stakeholder Synthesis:
+Scalable Decision-Making:
+Escrow and Milestone Payments:
+Showcase:
+Supports Missing: showcase.md:
+* [Celebration](./celebration.md)
+Predefined Action Protocols:
+Right to Resignation:
+control_as_a_liability:
+Quadratic Voting:
+Rage Quit:
+Decentralized Decision-Making:
+Benchmarking:
+Impact Measurement:
+Legitimacy:
+Institutions:
+adaptive_metrics:
+Job Boundaries:
+Impact Storytelling:
+Subtraction:
+CDP Voting:
+Seconded Resources:
+Multi-factorial Consensus:
+Contribution Tracking:
+Grant Shopping:
+Coin Voting:
+Biz Dev Agents:
+Logical Decentralization:
+Open Data:
+Iterative Funding:
+Celebrations:
+Cross-Platform Engagements:
+Frivolity:
+Feedback Loops:
+Educational Outreach:
+Dynamic Surveys:
+Role Rotation:
+Qualitative Assessment:
+Feedback Reward System:
+Learning and Development Fund:
+Reputation Systems:
+toc:
+Whole Process:
+Shares for Sweat:
+Regular Community Check-Ins:
+Feedback Integration Teams:
+Community Value Alignment:
+Innovation Labs:
+Supports Missing: innovation_labs.md:
+* [Infrastructure](./infrastructure.md)
+Community Involvement:
+Staking Mechanisms:
+Target Professionals:
+Risk Management:
+Inability to Fork External Assets:
+Outcome Visualization:
+Effective Action:
+Incentive Alignment:
+Define Affordances/Disaffordances:
+Public Feedback Repositories:
+Community Champions:
+Grants:
+Quantitative Analysis:
+Bribes:
+Goodhart's Law:
+Infrastructure:
+Working Groups:
+Credible Neutrality:
+Future Kindness:
+Community Diversification:
+Requests for Proposals:
+Seasons:
+Performance-Based Bonuses:
+Futarchy:
+Token-Based Rewards:
+Commitment Pooling:
+Bounties:
+Financial Reserves:
+Dynamic Role Allocation:

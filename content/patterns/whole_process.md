@@ -27,4 +27,5 @@ Recognize and reward the full range of roles required in the lifecycle of DAO pr
 ### Supported By:
 * [Job Boundaries](./job_boundaries.html)
 
+
 ![Whole Process](./output/whole_process_specific_graph.png)

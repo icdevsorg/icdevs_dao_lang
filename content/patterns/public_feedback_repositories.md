@@ -23,6 +23,6 @@ Implement a structured system called Public Feedback Repositories where all comm
 Create and maintain transparent and immutable public feedback repositories to enhance community trust and ensure accountability in how feedback is processed and acted upon.
 
 ### Supported By:
-* [Annual Report](./annual_reports.html)
+* [Annual Reports](./annual_reports.html)
 
 ![Public Feedback Repositories](./output/public_feedback_repositories_specific_graph.png)

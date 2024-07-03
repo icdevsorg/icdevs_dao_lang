@@ -25,4 +25,9 @@ Emulate political decentralization by distributing decision-making power through
 ### Therefore:
 Decentralize the political structure of DAOs to enhance trust, engagement, and operational scalability across the organization. This approach promotes a more resilient and responsive governance model that aligns with the decentralized ethos of DAOs.
 
+### Supported By:
+
+* [Multi-factorial Consensus](./multi_factorial_consensus.md)
+* [Bribes](./bribes.md)
+
 ![Political Decentralization](./output/political_decentralization_specific_graph.png)

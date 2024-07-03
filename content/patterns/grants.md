@@ -38,5 +38,11 @@ Create structured, transparent, and accountable processes for grant applications
 * [RFPs](./rfps.html)
 * [Seconded Resources](./seconded_resources.html)
 * [Biz Dev Agents](./biz_dev_agents.html)
+* [Grant Shopping](./grant_shopping.md)
+* [Target Professionals](./target_professionals.md)
+* [Bridge Feedback](./bridge_feedback.md)
+* [Showcase](./showcase.md)
+* [Whole Process](./whole_process.md)
+* [Right Size](./right_size.md)
 
 ![Grants](./output/grants_specific_graph.png)

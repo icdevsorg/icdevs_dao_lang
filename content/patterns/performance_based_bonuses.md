@@ -37,5 +37,6 @@ Adopt Performance-Based Bonuses to enhance contributor motivation, align their i
 * [Contribution Tracking](./contribution_tracking.html)
 * [Escrow and Milestone Payments](./escrow_and_milestone_payments.html)
 * [Long-Term Participation Rewards](./long_term_participation_rewards.html)
+* [Bounties](./bounties.md)
 
 ![Performance-Based Bonuses](./output/performance_based_bonuses_specific_graph.png)

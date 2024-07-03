@@ -4,6 +4,7 @@
 
 ### Supports:
 * [Feedback Loops](./feedback_loops.html)
+* [Grants](./grants.md)
 
 ### Context:
 In a DAO ecosystem where capital allocation and project funding are critical, a mechanism is needed to ensure efficient use of resources, prevent capital drainage, and motivate perpetual project progress.

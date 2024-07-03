@@ -4,6 +4,7 @@
 
 ### Supports:
 * [Grants](./grants.html)
+* [Convertible Grants](./convertible_grants.md)
 
 ### Context:
 In the decentralized framework of DAOs which focus on distributing capital through grants, bounties, and hybrid investments, often a project concludes with residual insights and uncapitalized data that can significantly benefit the ecosystem if adequately harvested and utilized.

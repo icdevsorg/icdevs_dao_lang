@@ -31,5 +31,7 @@ Create a flexible decision-making structure that can adapt to the growing and ev
 
 ### Supported By:
 * [Predefined Action Protocols](./predefined_action_protocols.html)
+* [Multi-factorial Consensus](./multi_factorial_consensus.md)
+* [Right Size](./right_size.md)
 
 ![Scalable Decision-Making](./output/scalable_decision_making_specific_graph.png)

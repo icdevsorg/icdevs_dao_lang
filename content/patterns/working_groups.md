@@ -4,10 +4,10 @@
 
 ### Supports:
 
-* [Community Involvement](community_involvement.html),
-* [Evergreen](evergreen.html)
-* [RFPs](rfps.html)
-* [Community Champions](community_champions.html)
+* [Community Involvement](./community_involvement.html),
+* [Evergreen](./evergreen.html)
+* [RFPs](./rfps.html)
+* [Community Champions](./community_champions.html)
 
 ### Context:
 
@@ -47,6 +47,6 @@ Establish working groups when the DAO faces complex, multifaceted tasks requirin
 * [Dunbar's Number](./dunbars_number.html)
 * [Role Rotation](./role_rotation.html)
 * [Job Boundaries](./job_boundaries.html)
-* [Stakeholder Synthesis](stakeholder_synthesis.html)
+* [Stakeholder Synthesis](./stakeholder_synthesis.html)
 
 ![Working Groups](./output/working_groups_specific_graph.png)

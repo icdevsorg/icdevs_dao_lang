@@ -7,12 +7,12 @@ digraph "" {
 		shape=box
 	];
 	Infrastructure	[label="Infrastructure\nDevelop software and continually useable tools"];
+	"Innovation Labs"	[label="Innovation Labs\nLabs for creativity and skill application"];
+	"Innovation Labs" -> Infrastructure;
 	Bounties	[label="Bounties\nFund public goods code by issuing bounties to overcome known infrastructure needs."];
 	Bounties -> Infrastructure;
 	Grants	[label="Grants\nDeploy resources to developers and companies that can help an organization achieve goals"];
 	Grants -> Infrastructure;
-	"Innovation Lab"	[label=""];
-	"Innovation Lab" -> Infrastructure;
 	"Iterative Funding"	[label="Iterative Funding\nPhased funding approach based on milestone achievements"];
 	"Iterative Funding" -> Grants;
 	RFPs	[label="RFPs\nIssue RFPs to focus grant proposals"];
@@ -31,9 +31,8 @@ digraph "" {
 	"Target Professionals" -> Grants;
 	"Grant Shopping"	[label="Grant Shopping\nLearn to recognize teams seeking funding without a commitment to the ecosystem.\n"];
 	"Grant Shopping" -> Grants;
-	"Grand Shopping"	[label=""];
-	"Grand Shopping" -> Grants;
-	Showcase	[label=""];
+	"Grant Shopping" -> Grants;
+	Showcase	[label="Showcase\nRegularly display the work and success of the DAO.\n"];
 	Showcase -> Grants;
 	"Skill Inventory"	[label="Skill Inventory\nEncourage development of diverse skills"];
 	"Skill Inventory" -> "Target Professionals";

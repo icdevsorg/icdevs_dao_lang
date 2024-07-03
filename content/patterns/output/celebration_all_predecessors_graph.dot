@@ -7,6 +7,6 @@ digraph "" {
 		shape=box
 	];
 	Celebration	[label=""];
-	Showcase	[label=""];
+	Showcase	[label="Showcase\nRegularly display the work and success of the DAO.\n"];
 	Showcase -> Celebration;
 }

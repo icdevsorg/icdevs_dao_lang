@@ -4,6 +4,8 @@
 
 ### Supports:
 * [Resource Optimization](./resource_optimization.html)
+* [Portfolio Approach](./portfolio_approach.md)
+* [Infrastructure](./infrastructure.md)
 
 ### Context:
 DAOs centrally aim to optimize and deploy capital efficiently through innovative means to ensure maximum impact on their target arenas, such as public goods, community projects, or hybrid investments. However, continuously discovering and employing innovative solutions that reflect the community’s needs and aspirations can be challenging within the rigid frameworks of established operational processes.
