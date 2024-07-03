@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Transparent Governance](./transparent_governance.html)
+* [Transparent Governance](./transparent_governance.html)
 
 ### Context:
 
@@ -38,6 +38,7 @@ Always ensure that all DAO-related transactions and decisions are tracked transp
 
 ### Supported By:
 
-[Open Data](./open_data.html), [Immutable Records](./immutable_records.html)
+* [Open Data](./open_data.html)
+* [Immutable Records](./immutable_records.html)
 
 ![Transparent Trackability](./output/transparent_trackability_specific_graph.png)

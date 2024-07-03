@@ -73,6 +73,7 @@ exclude:
   - package.json
   - patterns.dot
   - readme.md
+  - '*.py'
   
 
 

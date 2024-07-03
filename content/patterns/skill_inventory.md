@@ -4,7 +4,9 @@
 
 ### Supports:
 
-[Resource Development](./resource_development.html),[Mentorship Programs](mentorship_programs.html), [Role Rotation](role_rotation.md)
+* [Resource Development](./resource_development.html)
+* [Mentorship Programs](mentorship_programs.html)
+* [Role Rotation](role_rotation.md)
 
 ### Context:
 

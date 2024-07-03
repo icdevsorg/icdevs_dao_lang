@@ -3,7 +3,7 @@
 ![Scalable Decision-Making](./output/illustrations/scalable_decision_making.png)
 
 ### Supports:
-[Effective Action](./effective_action.html)
+* [Effective Action](./effective_action.html)
 
 ### Context:
 In DAOs, the process by which decisions are made can significantly influence their agility, effectiveness, and the satisfaction of their members. As DAOs scale, the decision-making process must adapt to accommodate a larger number of stakeholders and an increased complexity in the decisions to be made.
@@ -30,6 +30,6 @@ Technological supports such as smart contracts and blockchain-based voting syste
 Create a flexible decision-making structure that can adapt to the growing and evolving needs of the DAO, utilizing technology to enforce governance rules, simplify processes, and maintain member engagement and trust.
 
 ### Supported By:
-[Predefined Action Protocols](./predefined_action_protocols.html)
+* [Predefined Action Protocols](./predefined_action_protocols.html)
 
 ![Scalable Decision-Making](./output/scalable_decision_making_specific_graph.png)

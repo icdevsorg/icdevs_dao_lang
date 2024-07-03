@@ -3,7 +3,7 @@
 ![Long-Term Participation Rewards](./output/illustrations/long_term_participation_rewards.png)
 
 ### Supports:
-[Performance-Based Bonuses](./performance_based_bonuses.html)
+* [Performance-Based Bonuses](./performance_based_bonuses.html)
 
 ### Context:
 In DAO ecosystems, sustaining member engagement and loyalty over the long term is critical for maintaining a robust and active community. Retaining experienced members not only preserves institutional knowledge but also incentivizes continuous contribution and leadership development within the DAO.
@@ -27,6 +27,6 @@ Real-world examples such as MakerDAO have adopted similar approaches where gover
 Design and integrate long-term participation rewards that provide incremental benefits to members, fostering sustained engagement and rewarding loyalty within the DAO ecosystem.
 
 ### Supported By:
-[Conviction Voting](./conviction_voting.html)
+* [Conviction Voting](./conviction_voting.html)
 
 ![Long-Term Participation Rewards](./output/long_term_participation_rewards_specific_graph.png)

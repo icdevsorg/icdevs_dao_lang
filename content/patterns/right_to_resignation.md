@@ -3,8 +3,8 @@
 ![Right to Resignation](./output/illustrations/right_to_resignation.png)
 
 ### Supports:
-[Well Being](./well_being.html)
-[Levels Of Intensity](./levels_of_intensity.html)
+* [Well Being](./well_being.html)
+* [Levels Of Intensity](./levels_of_intensity.html)
 
 ### Context:
 In decentralized autonomous organizations (DAOs), where governance and operations are largely distributed and managed through code, the commitment of individual contributors is often variable. Members may join or engage with a DAO based on personal interest, professional alignment, or ideological support, and over time, these alignments or interests may change.

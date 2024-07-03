@@ -4,8 +4,8 @@
 
 ### Supports:
 
-[Portfolio Approach](./portfolio_approach.html)
-[Incentive Alignment](./incentive_alignment.html)
+* [Portfolio Approach](./portfolio_approach.html)
+* [Incentive Alignment](./incentive_alignment.html)
 
 ### Context:
 
@@ -36,7 +36,6 @@ Create structured incentive schemes that reward learning and role development, w
 
 ### Supported By:
 
-[Contribution Tracking](./contribution_tracking.html)
+* [Contribution Tracking](./contribution_tracking.html)
 
 ![Skill and Role Development Incentives](./output/skill_and_role_development_incentives_specific_graph.png)
-

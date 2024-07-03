@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Predefined Action Protocols](./predefined_action_protocols.html)
+* [Predefined Action Protocols](./predefined_action_protocols.html)
 
 ### Context:
 
@@ -38,6 +38,6 @@ Embrace an automated Dynamic Role Allocation system to increase responsiveness a
 
 ### Supported By:
 
-[Skill Inventory](./skill_inventory.html)
+* [Skill Inventory](./skill_inventory.html)
 
 ![Dynamic Role Allocation](./output/dynamic_role_allocation_specific_graph.png)

@@ -4,11 +4,10 @@
 
 ### Supports:
 
-[Regular Community Check-Ins](./regular_community_check_ins.html)   
-[Quantitative Analysis](./quantitative_analysis.html)   
-[Qualitative Assessment](./qualitative_assessment.html)   
-[Feedback Integration Teams](./feedback_integration_teams.html)  
-
+* [Regular Community Check-Ins](./regular_community_check_ins.html)
+* [Quantitative Analysis](./quantitative_analysis.html)
+* [Qualitative Assessment](./qualitative_assessment.html)
+* [Feedback Integration Teams](./feedback_integration_teams.html)
 
 ### Context:
 

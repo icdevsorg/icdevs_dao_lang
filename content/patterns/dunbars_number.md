@@ -4,10 +4,10 @@
 
 ### Supports:
 
-[Community Involvement](./community_involvement.html)
-[Mentorship Programs](./mentorship_programs.html)
-[Community Diversification](./community_diversification.html)
-[Working Groups](./working_groups.html)
+* [Community Involvement](./community_involvement.html)
+* [Mentorship Programs](./mentorship_programs.html)
+* [Community Diversification](./community_diversification.html)
+* [Working Groups](./working_groups.html)
 
 ### Context:
 
@@ -32,8 +32,7 @@ Implement a structure within the DAO where the number of active participants in 
 Keep team sizes within the DAO around or below 150 to optimize collaboration, trust, and communication. Empower smaller groups to make decisions quickly and effectively, reporting back to the larger community to maintain alignment and coherence with the overall DAO objectives.
 
 ### Supported By:
-
-[Communication Channels](./communication_channels.html)
-[Frivolity](./frivolity.html)
+* [Communication Channels](./communication_channels.html)
+* [Frivolity](./frivolity.html)
 
 ![Dunbar's Number](./output/dunbar's_number_specific_graph.png)

@@ -3,7 +3,7 @@
 ![Futarchy](./output/illustrations/futarchy.png)
 
 ### Supports:
-- [Staking Mechanisms](./staking_mechanisms.html)
+* - [Staking Mechanisms](./staking_mechanisms.html)
 
 ### Context:
 In decentralized autonomous organizations (DAOs), the challenge is to make effective governance decisions in a way that is both rapid and reflects the collective wisdom and preference of the community.

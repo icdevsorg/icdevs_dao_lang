@@ -3,7 +3,7 @@
 ![Good UI](./output/illustrations/good_ui.png)
 
 ### Supports:
-[Predefined Action Protocols](./predefined_action_protocols.html)
+* [Predefined Action Protocols](./predefined_action_protocols.html)
 
 ### Context:
 In the decentralized and often complex ecosystem of a DAO, the interface through which participants interact plays a crucial role in facilitating effective and transparent interactions. The UI must reduce complexity and make information and actions accessible and clear.

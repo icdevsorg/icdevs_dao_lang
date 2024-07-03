@@ -3,7 +3,7 @@
 ![Bribes](./output/illustrations/bribes.png)
 
 ### Supports:
-[Transparent Governance](./transparent_governance.html)
+* [Transparent Governance](./transparent_governance.html)
 
 ### Context:
 In DAOs, the allocation and optimization of capital through voting mechanisms often face challenges when external incentives (bribes) influence voter behavior, resulting in potentially skewed or unfair decision-making processes.
@@ -23,6 +23,6 @@ To mitigate the risks associated with bribes in a DAO, it is crucial to implemen
 Make transparency and accountability foundational to the DAO’s operations, ensuring that all members can access complete and unalterable records of decisions and financial transactions. Enforce ethical standards through both technical solutions and community governance practices to safeguard against bribery.
 
 ### Supported By:
-[Mica Secret Voting](./mica_secret_voting.html)
+* [Mica Secret Voting](./mica_secret_voting.html)
 
 ![Bribes](./output/bribes_specific_graph.png)

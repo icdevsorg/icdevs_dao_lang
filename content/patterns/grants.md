@@ -4,7 +4,8 @@
 
 ### Supports:
 
-[Infrastructure](./infrastructure.html), [Institutions](./institutions.html)
+* [Infrastructure](./infrastructure.html)
+* [Institutions](./institutions.html)
 
 ### Context:
 
@@ -33,6 +34,9 @@ Create structured, transparent, and accountable processes for grant applications
 
 ### Supported By:
 
-[Iterative Funding](./iterative_funding.html), [RFPs](./rfps.html), [Seconded Resources](./seconded_resources.html), [Biz Dev Agents](./biz_dev_agents.html)
+* [Iterative Funding](./iterative_funding.html)
+* [RFPs](./rfps.html)
+* [Seconded Resources](./seconded_resources.html)
+* [Biz Dev Agents](./biz_dev_agents.html)
 
 ![Grants](./output/grants_specific_graph.png)

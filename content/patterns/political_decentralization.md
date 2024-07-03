@@ -3,7 +3,7 @@
 ![Political Decentralization](./output/illustrations/political_decentralization.png)
 
 ### Supports:
-[Decentralized Decision-Making](./decentralized_decision_making.html)
+* [Decentralized Decision-Making](./decentralized_decision_making.html)
 
 ### Context:
 In the landscape of DAOs, decision-making processes and authority are often concentrated within a small group of individuals or centralized in a single node. This concentration can lead to issues of power imbalance, inefficiency in decision execution, and potential risks of corruption or bias.

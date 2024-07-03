@@ -4,7 +4,8 @@
 
 ### Supports:
 
-[Resource Development](./resource_development.html), [Educational Outreach](educational_outreach.md)
+* [Resource Development](./resource_development.html)
+* [Educational Outreach](educational_outreach.md)
 
 ### Context:
 

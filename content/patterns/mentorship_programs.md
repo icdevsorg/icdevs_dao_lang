@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Resource Development](./resource_development.html)
+* [Resource Development](./resource_development.html)
 
 ### Context:
 
@@ -36,6 +36,6 @@ Structure mentorship programs in DAOs to facilitate effective knowledge sharing 
 
 ### Supported By:
 
-[Dunbar’s Number](./dunbars_number.html)
+* [Dunbar’s Number](./dunbars_number.html)
 
 ![Mentorship Programs](./output/mentorship_programs_specific_graph.png)

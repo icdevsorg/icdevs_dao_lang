@@ -3,7 +3,7 @@
 ![Resource Development](./output/illustrations/resource_development.png)
 
 ### Supports:
-[Resource Optimization](./resource_optimization.html)
+* [Resource Optimization](./resource_optimization.html)
 
 ### Context:
 In DAO ecosystems, efficiently developing and leveraging resources is critical for sustainability and growth. This involves not just financial capital but also human capital, technological tools, and organizational frameworks.
@@ -29,6 +29,12 @@ Implement strategic practices for organic resource development within DAOs:
 Emphasize strategies that build a diverse and scalable resource pool through community empowerment, strategic infrastructure development, and smart investment, ensuring the DAO remains robust and adaptive.
 
 ### Supported By:
-[Cross-functional Teams](./cross_functional_teams.html), [Community Champions](./community_champions.html), [Skill Inventory](./skill_inventory.html), [Mentorship Programs](./mentorship_programs.html), [Learning and Development Fund](./learning_and_development_fund.html), [Institutions](./institutions.html), [Infrastructure](./infrastructure.html)
+* [Cross-functional Teams](./cross_functional_teams.html)
+* [Community Champions](./community_champions.html)
+* [Skill Inventory](./skill_inventory.html)
+* [Mentorship Programs](./mentorship_programs.html)
+* [Learning and Development Fund](./learning_and_development_fund.html)
+* [Institutions](./institutions.html)
+* [Infrastructure](./infrastructure.html)
 
 ![Resource Development](./output/resource_development_specific_graph.png)

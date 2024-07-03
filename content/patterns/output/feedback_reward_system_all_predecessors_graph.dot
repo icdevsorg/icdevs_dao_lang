@@ -16,7 +16,7 @@ digraph "" {
 	"Coin Voting" -> "Token-Based Rewards";
 	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
 	"Conviction Voting" -> "Token-Based Rewards";
-	"Shares for Sweat"	[label=""];
+	"Shares for Sweat"	[label="Shares for Sweat\nAligns incentives by compensating contributions with equity or tokens.\n"];
 	"Shares for Sweat" -> "Token-Based Rewards";
 	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
 	"Contribution Tracking" -> "Shares for Sweat";

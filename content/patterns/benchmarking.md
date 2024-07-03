@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Quantitative Analysis](./quantitative_analysis.html)
+* [Quantitative Analysis](./quantitative_analysis.html)
 
 ### Context:
 
@@ -43,8 +43,7 @@ Implement benchmark systems that not only track progress and efficiency but are 
 
 ### Supported By:
 
-[Goodhart's Law](./goodharts_law.html)
+* [Goodhart's Law](./goodharts_law.html)
 
 ![Benchmarking](./output/benchmarking_specific_graph.png)
-
 

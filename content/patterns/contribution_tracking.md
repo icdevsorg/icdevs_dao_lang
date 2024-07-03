@@ -3,7 +3,10 @@
 ![Contribution Tracking](./output/illustrations/contribution_tracking.png)
 
 ### Supports:
-[Reputation Systems](./reputation_systems.html), [Performance-Based Bonuses](./performance_based_bonuses.html), [Skill and Role Development Incentives](./skill_and_role_development_incentives.html), [Shares for Sweat](./shares_for_sweat.html)
+* [Reputation Systems](./reputation_systems.html)
+* [Performance-Based Bonuses](./performance_based_bonuses.html)
+* [Skill and Role Development Incentives](./skill_and_role_development_incentives.html)
+* [Shares for Sweat](./shares_for_sweat.html)
 
 ### Context:
 In DAOs, individual contributions often vary vastly in terms of type, time commitment, and impact. Transparent and equitable tracking and rewarding of these contributions are crucial to encourage continued participation and to ensure fairness.

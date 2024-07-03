@@ -4,7 +4,9 @@
 
 ### Supports:
 
-[Resource Optimization](./resource_optimization.html), [Effective Action](./effective_action.html), [Portfolio Approach](./portfolio_approach.html)
+* [Resource Optimization](./resource_optimization.html)
+* [Effective Action](./effective_action.html)
+# [Portfolio Approach](./portfolio_approach.html)
 
 ### Context:
 
@@ -33,6 +35,8 @@ Create teams that integrate various functional expertise, align them with specif
 
 ### Supported By:
 
-[Role Rotation](./role_rotation.html), [Communication Channels](./communication_channels.html), [Job Boundaries](./job_boundaries.html)
+* [Role Rotation](./role_rotation.html)
+* [Communication Channels](./communication_channels.html)
+# [Job Boundaries](./job_boundaries.html)
 
 ![Cross-functional Teams](./output/cross_functional_teams_specific_graph.png)

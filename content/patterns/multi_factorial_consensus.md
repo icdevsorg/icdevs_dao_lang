@@ -4,11 +4,11 @@
 
 ### Supports:
 
-[Scalable Decision-Making](./scalable_decision_making.html)  
-[Credible Neutrality](./credible_neutrality.html)  
-[Legitimacy](./legitimacy.html)  
-[Decentralized Decision-Making](./decentralized_decision_making.html)  
-[Political Decentralization](./political_decentralization.html)
+* [Scalable Decision-Making](./scalable_decision_making.html)
+* [Credible Neutrality](./credible_neutrality.html)
+* [Legitimacy](./legitimacy.html)
+* [Decentralized Decision-Making](./decentralized_decision_making.html)
+* [Political Decentralization](./political_decentralization.html)
 
 ### Context:
 
@@ -40,9 +40,9 @@ These real-world implementations show that blending multiple decision mechanisms
 Adopt a Multi-factorial Consensus approach that employs various voting methodologies tailored to specific types of decisions, promoting a balanced and comprehensive governance model.
 
 ### Supported By:
-[Coin Voting](./coin_voting.html)  
-[Citizen Voting](./citizen_voting.html)  
-[Conviction Voting](./conviction_voting.html)  
-[Quadratic Voting](./quadratic_voting.html)
+* [Coin Voting](./coin_voting.html)
+* [Citizen Voting](./citizen_voting.html)
+* [Conviction Voting](./conviction_voting.html)
+* [Quadratic Voting](./quadratic_voting.html)
 
 ![Multi-factorial Consensus](./output/multi_factorial_consensus_specific_graph.png)

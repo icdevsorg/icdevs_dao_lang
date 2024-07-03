@@ -4,7 +4,7 @@
 
 ### Supports:
 
-Community Involvement
+* Community Involvement
 
 ### Context:
 
@@ -32,8 +32,8 @@ Integrate regular, meaningful celebrations into the DAO’s operational calendar
 
 ### Supported By:
 
-[Seasons](./seasons.md)
-[Showcase](./showcase.md)
-[Frivolity](./frivolity.md)
+* [Seasons](./seasons.md)
+* [Showcase](./showcase.md)
+* [Frivolity](./frivolity.md)
 
 ![Celebrations](./output/celebrations_specific_graph.png)

@@ -4,8 +4,8 @@
 
 ### Supports:
 
-[Coin Voting](./coin_voting.html)
-[Staking Mechanisms](./staking_mechanisms.html)
+* [Coin Voting](./coin_voting.html)
+* [Staking Mechanisms](./staking_mechanisms.html)
 
 ### Context:
 

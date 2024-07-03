@@ -3,8 +3,8 @@
 ![Inability to Fork External Assets](./output/illustrations/inability_to_fork_external_assets.png)
 
 ### Supports:
-[Control as Liability](./control_as_a_liability.html)
-[Rage Quit](./rage_quit.html)
+* [Control as Liability](./control_as_a_liability.html)
+* [Rage Quit](./rage_quit.html)
 
 ### Context:
 In the decentralized ecosystem, forking is commonly used to address disputes or divergent visions within a community by copying the protocol’s code and creating a new, independent version. However, significant limitations arise with decentralized networks, especially concerning external assets which are not as easily duplicated.

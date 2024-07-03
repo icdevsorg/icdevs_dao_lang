@@ -11,10 +11,8 @@ digraph "" {
 	"Dynamic Surveys" -> "Feedback Integration Teams";
 	"Public Feedback Repositories"	[label="Public Feedback Repositories\nLog of feedback and actions taken"];
 	"Public Feedback Repositories" -> "Feedback Integration Teams";
-	"Real-Time Feedback Channels"	[label="Real-Time Feedback Channels\nReal-time platforms for feedback"];
-	"Real-Time Feedback Channels" -> "Feedback Integration Teams";
 	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
 	"Communication Channels" -> "Feedback Integration Teams";
-	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
-	"Annual Report" -> "Public Feedback Repositories";
+	"Annual Reports"	[label="Annual Reports\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Reports" -> "Public Feedback Repositories";
 }

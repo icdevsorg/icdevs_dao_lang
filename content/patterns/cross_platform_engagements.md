@@ -3,7 +3,7 @@
 ![Cross-Platform Engagemenst](./output/illustrations/cross_platform_engagements.png)
 
 ### Supports:
-[Portfolio Approach](./portfolio_approach.html)
+* [Portfolio Approach](./portfolio_approach.html)
 
 ### Context:
 DAOs often focus on optimizing resource allocation within a single platform or ecosystem, potentially leading to dependency and reduced exposure to diversified technological advancements and community insights.

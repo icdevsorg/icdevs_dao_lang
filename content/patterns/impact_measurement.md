@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Resource Optimization](./resource_optimization.html)
+* [Resource Optimization](./resource_optimization.html)
 
 ### Context:
 
@@ -36,6 +36,9 @@ Adopt and refine a comprehensive, transparent approach to measure the impact of 
 
 ### Supported By:
 
-[Feedback Loops](./feedback_loops.html), [Immutable Records](./immutable_records.html), [Quantitative Analysis](./quantitative_analysis.html), [Qualitative Assessment](./qualitative_assessment.html)
+* [Feedback Loops](./feedback_loops.html)
+* [Immutable Records](./immutable_records.html)
+* [Quantitative Analysis](./quantitative_analysis.html)
+* [Qualitative Assessment](./qualitative_assessment.html)
 
 ![Impact Measurement](./output/impact_measurement_specific_graph.png)

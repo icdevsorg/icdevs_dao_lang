@@ -3,7 +3,7 @@
 ![Risk Management](./output/illustrations/risk_management.png)
 
 ### Supports:
-[Resource Optimization](./resource_optimization.html)
+* [Resource Optimization](./resource_optimization.html)
 
 ### Context:
 In the DAO environment, the deployment and management of capital in code bounties, grants, and hybrid investments necessitate a prudent approach to managing financial and operational risks. DAOs inherently operate in a highly dynamic and decentralized digital landscape, where volatility in cryptocurrency markets and the mutable nature of technology projects add layers of complexity to risk management.
@@ -24,6 +24,9 @@ To manage risk effectively in a DAO, diversify investment across a spectrum of p
 Adopt a structured and systematic approach to risk management by diversifying investments, utilizing financial hedges, maintaining strategic reserves, and incorporating community-driven decision-making processes to enhance risk assessment and mitigation.
 
 ### Supported By:
-[Portfolio Approach](./portfolio_approach.html), [Financial Reserves](./financial_reserves.html), [Decentralized Decision-Making](./decentralized_decision_making.html), [Inability to Fork External Assets](./inability_to_fork_external_assets.html)
+* [Portfolio Approach](./portfolio_approach.html)
+* [Financial Reserves](./financial_reserves.html)
+* [Decentralized Decision-Making](./decentralized_decision_making.html)
+* [Inability to Fork External Assets](./inability_to_fork_external_assets.html)
 
 ![Risk Management](./output/risk_management_specific_graph.png)

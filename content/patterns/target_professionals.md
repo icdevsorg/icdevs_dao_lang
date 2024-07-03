@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Grants](./grants.html)
+* [Grants](./grants.html)
 
 ### Context:
 
@@ -37,8 +37,7 @@ Adopt a strategy to actively seek out, recruit, and prioritize professionals wit
 
 ### Supported By:
 
-[Skill Inventory](./skill_inventory.html)
+* [Skill Inventory](./skill_inventory.html)
 
 ![Target Professionals](./output/target_professionals_specific_graph.png)
-
 

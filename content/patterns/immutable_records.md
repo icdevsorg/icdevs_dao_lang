@@ -3,8 +3,8 @@
 ![Immutable Records](./output/illustrations/immutable_records.png)
 
 ### Supports:
-[Transparent Trackability](./transparent_trackability.html)  
-[Impact Measurement](./impact_measurement.html)
+* [Transparent Trackability](./transparent_trackability.html)
+* [Impact Measurement](./impact_measurement.html)
 
 ### Context:
 In the ecosystem of DAOs, the integrity and reliability of record-keeping are paramount, not just for operational transparency but also for fostering trust among community members and external stakeholders. The challenge is ensuring that this data is secure, unalterable, and openly verifiable.

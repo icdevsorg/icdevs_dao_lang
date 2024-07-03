@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Reputation Systems](./reputation_systems.html)
+* [Reputation Systems](./reputation_systems.html)
 
 ### Context:
 
@@ -32,6 +32,6 @@ This system uses blockchain technology to ensure transparency and enforce the ru
 Adopt and integrate the Commitment Pooling protocol into DAO operations to foster equitable resource sharing, reinforce trust, and optimize collaborative commitment, ultimately enhancing community sustainability and resilience.
 
 ### Supported By:
-[Immutable Records](./immutable_records.html)
+* [Immutable Records](./immutable_records.html)
 
 ![Commitment Pooling](./output/commitment_pooling_specific_graph.png)

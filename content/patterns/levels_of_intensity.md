@@ -3,7 +3,7 @@
 ![Levels of Intensity](./output/illustrations/levels_of_intensity.png)
 
 ### Supports:
-[Well Being](./well_being.html)
+* [Well Being](./well_being.html)
 
 ### Context:
 In the dynamic landscape of DAOs, the scale and significance of decisions vary extensively, from trivial to transformative. This diversity calls for a structured approach in participation and decision-making that correlates with the criticality of decisions being made.

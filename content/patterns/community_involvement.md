@@ -3,7 +3,7 @@
 ![Community Involvement](./output/illustrations/community_involvement.png)
 
 ### Supports:
-[Resource Optimization](./resource_optimization.html)
+* [Resource Optimization](./resource_optimization.html)
 
 ### Context:
 In DAOs, the distribution of capital through grants, investments, and bounties relies heavily on community trust and active participation. The traditional centralized models of decision-making often do not suffice in these decentralized settings where transparency, inclusivity, and engagement are vital.
@@ -29,6 +29,13 @@ Real-world examples include:
 Embrace structures that promote active, informed, and significant community involvement to ensure that resource allocation mirrors the collective intelligence and diverse values of the DAO.
 
 ### Supported By:
-[Transparent Governance](./transparent_governance.html), [Educational Outreach](./educational_outreach.html), [Community Champions](./community_champions.html), [Decentralized Autonomy](./decentralized_autonomy.html), [Celebrations](./celebrations.html), [Dunbar's Number](./dunbars_number.html), [Working Groups](./working_groups.html), [Institutions](./institutions.html)
+* [Transparent Governance](./transparent_governance.html)
+* [Educational Outreach](./educational_outreach.html)
+* [Community Champions](./community_champions.html)
+* [Decentralized Autonomy](./decentralized_autonomy.html)
+* [Celebrations](./celebrations.html)
+* [Dunbar's Number](./dunbars_number.html)
+* [Working Groups](./working_groups.html)
+* [Institutions](./institutions.html)
 
 ![Community Involvement](./output/community_involvement_specific_graph.png)

@@ -3,7 +3,7 @@
 ![Control as a Liability](./output/illustrations/control_as_a_liability.png)
 
 ### Supports:
-[Decentralized Autonomy](./decentralized_autonomy.html)
+* [Decentralized Autonomy](./decentralized_autonomy.html)
 
 ### Context:
 In DAOs, power concentration can lead to inefficiencies and a lack of participation from members. Where one or a few individuals hold significant control, it can create dependencies and stifle the proactive contributions of other members.
@@ -34,6 +34,6 @@ Real-world examples include:
 Avoid centralizing excessive control within a few hands in DAOs. Implement structures and systems that ensure power is a shared and rotating responsibility, promoting greater member engagement and responsiveness while aligning with the ethos of decentralized management.
 
 ### Supported By:
-[Subtraction](./subtraction.html)
+* [Subtraction](./subtraction.html)
 
 ![Control as a Liability](./output/control_as_a_liability_specific_graph.png)

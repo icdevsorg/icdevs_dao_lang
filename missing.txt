@@ -1,0 +1,4 @@
+Missing files in ./content/patterns/feedback_integration_teams.md:
+  - ./real_time_feedback_channels.html
+Missing files in ./content/patterns/risk_management.md:
+  - ./architectural_decentralization.html

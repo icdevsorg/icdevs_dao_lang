@@ -3,7 +3,8 @@
 ![Institutions](./output/illustrations/institutions.png)
 
 ### Supports:
-[Resource Development](./resource_development.html), [Community Involvement](./community_involvement.html)
+* [Resource Development](./resource_development.html)
+* [Community Involvement](./community_involvement.html)
 
 ### Context:
 Decentralized Autonomous Organizations (DAOs) often operate in fluid and dynamic environments that require not just innovative technology but also strong, adaptive governance structures. Institutions within a DAO refer to the foundational systems and frameworks that sustain governance, operational effectiveness, and long-term strategic achievement.
@@ -45,6 +46,9 @@ Instituting such meta governance practices not only enhances the social fabric o
 Establish and continually evolve institutions within the DAO to ensure they provide a stable yet flexible framework to support governance and operational effectiveness, balancing decentralization with the need for effective coordination and management.
 
 ### Supported By:
-[Grants](./grants.html), [Biz Dev Agents](./biz_dev_agents.html), [Seconded Resources](./seconded_resources.html), [Educational Outreach](./educational_outreach.html)
+* [Grants](./grants.html)
+* [Biz Dev Agents](./biz_dev_agents.html)
+* [Seconded Resources](./seconded_resources.html)
+* [Educational Outreach](./educational_outreach.html)
 
 ![Institutions](./output/institutions_specific_graph.png)

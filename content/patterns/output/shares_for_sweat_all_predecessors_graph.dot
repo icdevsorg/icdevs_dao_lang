@@ -6,7 +6,7 @@ digraph "" {
 	node [label="\N",
 		shape=box
 	];
-	"Shares for Sweat"	[label=""];
+	"Shares for Sweat"	[label="Shares for Sweat\nAligns incentives by compensating contributions with equity or tokens.\n"];
 	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
 	"Contribution Tracking" -> "Shares for Sweat";
 }

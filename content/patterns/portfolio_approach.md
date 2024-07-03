@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Risk Management](./risk_management.html)
+* [Risk Management](./risk_management.html)
 
 ### Context:
 
@@ -34,6 +34,10 @@ Implement a portfolio approach to manage investments and projects. This involves
 Adopt a portfolio management approach, categorizing projects and investments to balance risk and focus resources effectively. Regularly review and adjust the portfolio based on performance and strategic shifts.
 
 ### Supported By:
-[Cross-functional Teams](./cross_functional_teams.html), [Innovation Labs](./innovation_labs.html), [Community Diversification](./community_diversification.html), [Cross-Platform Engagements](./cross_platform_engagements.html), [Logical Decentralization](./logical_decentralization.html)
+* [Cross-functional Teams](./cross_functional_teams.html)
+* [Innovation Labs](./innovation_labs.html)
+* [Community Diversification](./community_diversification.html)
+* [Cross-Platform Engagements](./cross_platform_engagements.html)
+* [Logical Decentralization](./logical_decentralization.html)
 
 ![Portfolio Approach](./output/portfolio_approach_specific_graph.png)

@@ -3,7 +3,7 @@
 ![Whole Process](./output/illustrations/whole_process.png)
 
 ### Supports:
-[Grants](./grants.html), [Bounties](./bounties.html)
+* [Grants](./grants.html), [Bounties](./bounties.html)
 
 ### Context:
 In DAOs, particularly those distributing resources through bounties and grants, there is often a heavy focus on attracting developers and creators who can directly contribute to the core technological or project-based tasks. However, this focus can neglect the importance of supporting roles that are critical for the overall lifecycle and success of projects.
@@ -25,6 +25,6 @@ Real-world DAO examples like the Ethereum Foundation and Gitcoin have shown succ
 Recognize and reward the full range of roles required in the lifecycle of DAO projects, ensuring a more holistic and effective project execution.
 
 ### Supported By:
-[Job Boundaries](./job_boundaries.html)
+* [Job Boundaries](./job_boundaries.html)
 
 ![Whole Process](./output/whole_process_specific_graph.png)

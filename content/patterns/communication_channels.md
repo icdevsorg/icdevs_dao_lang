@@ -3,7 +3,9 @@
 ![Communication Channels](./output/illustrations/communication_channels.png)
 
 ### Supports:
-[Cross-functional Teams](./cross_functional_teams.html), [Feedback Integration Teams](./feedback_integration_teams.html), [Dunbar's Number](./dunbars_number.html)
+* [Cross-functional Teams](./cross_functional_teams.html)
+* [Feedback Integration Teams](./feedback_integration_teams.html)
+* [Dunbar's Number](./dunbars_number.html)
 
 ### Context:
 In a decentralized autonomous organization (DAO), distributed and often remote members necessitate robust channels for effective communication to synchronize actions, disseminate information, and make collaborative decisions.

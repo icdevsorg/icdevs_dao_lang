@@ -3,7 +3,7 @@
 ![Mica Secret Voting](./output/illustrations/mica_secret_voting.png)
 
 ### Supports:
-[Credible Neutrality](./credible_neutrality.html)
+* [Credible Neutrality](./credible_neutrality.html)
 
 ### Context:
 In DAO operations, voting mechanisms are central to decision-making. However, transparency in voting can sometimes lead to unwanted consequences such as vote buying, retaliation, or peer pressure, which can skew the honesty of votes and ultimately affect the neutrality and fairness of decisions.

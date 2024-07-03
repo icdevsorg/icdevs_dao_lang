@@ -3,7 +3,7 @@
 ![Public Feedback Repositories](./output/illustrations/public_feedback_repositories.png)
 
 ### Supports:
-[Feedback Integration Teams](./feedback_integration_teams.html)
+* [Feedback Integration Teams](./feedback_integration_teams.html)
 
 ### Context:
 In DAOs, transparency and accountability are paramount. Engaging and listening to the community feedback ensures that decision-making aligns with the broader goals and values of the organization.
@@ -23,6 +23,6 @@ Implement a structured system called Public Feedback Repositories where all comm
 Create and maintain transparent and immutable public feedback repositories to enhance community trust and ensure accountability in how feedback is processed and acted upon.
 
 ### Supported By:
-[Annual Report](./annual_reports.html)
+* [Annual Report](./annual_reports.html)
 
 ![Public Feedback Repositories](./output/public_feedback_repositories_specific_graph.png)

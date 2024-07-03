@@ -3,7 +3,8 @@
 ![Community Value Alignment](./output/illustrations/community_value_alignment.png)
 
 ### Supports:
-[Feedback Loops](./feedback_loops.html), [RFPs](./rfps.html)
+* [Feedback Loops](./feedback_loops.html)
+* [RFPs](./rfps.html)
 
 ### Context:
 DAOs operate in dynamic ecosystems where ensuring that projects and investments mirror community ethos and strategic goals is crucial for maintaining trust, participation, and relevance.
@@ -28,6 +29,6 @@ Establish frameworks and operational models that ensure all internal projects an
 Regularly integrate community input to ensure alignment with core values, and adjust strategies and projects to reflect evolving community sentiments and ethical standards.
 
 ### Supported By:
-[Regular Community Check-Ins](./regular_community_check_ins.html)
+* [Regular Community Check-Ins](./regular_community_check_ins.html)
 
 ![Community Value Alignment](./output/community_value_alignment_specific_graph.png)

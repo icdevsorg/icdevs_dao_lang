@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Token-Based Rewards](./token_based_rewards.html)
+* [Token-Based Rewards](./token_based_rewards.html)
 
 ### Context:
 
@@ -33,6 +33,6 @@ To ensure fairness and transparency, contributions should be logged and verified
 Instituting a 'Shares for Sweat' system helps align the interests of individual contributors with the long-term health of the DAO by providing a tangible stake in the organization's success.
 
 ### Supported By:
-[Contribution Tracking](./contribution_tracking.html)
+* [Contribution Tracking](./contribution_tracking.html)
 
 ![Shares for Sweat](./output/shares_for_sweat_specific_graph.png)

@@ -3,7 +3,7 @@
 ![Harvest Teams](./output/illustrations/harvest_teams.png)
 
 ### Supports:
-[Grants](./grants.html)
+* [Grants](./grants.html)
 
 ### Context:
 In the decentralized framework of DAOs which focus on distributing capital through grants, bounties, and hybrid investments, often a project concludes with residual insights and uncapitalized data that can significantly benefit the ecosystem if adequately harvested and utilized.

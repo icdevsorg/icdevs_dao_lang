@@ -3,7 +3,8 @@
 ![Future Kindness](./output/illustrations/future_kindness.png)
 
 ### Supports:
-[Staking Mechanisms](./staking_mechanisms.html), [Well Being](./well_being.html)
+* [Staking Mechanisms](./staking_mechanisms.html)
+* [Well Being](./well_being.html)
 
 ### Context:
 In DAO operations, the decisions made today have lingering effects on the future health and functionality of the organization. When DAO members make commitments, especially those involving finances or reputation, the implications often extend far into the future.

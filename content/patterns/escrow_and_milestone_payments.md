@@ -3,7 +3,7 @@
 ![Escrow and Milestone Payments](./output/illustrations/escrow_and_milestone_payments.png)
 
 ### Supports:
-[Performance-Based Bonuses](./performance_based_bonuses.html)
+* [Performance-Based Bonuses](./performance_based_bonuses.html)
 
 ### Context:
 In DAO operations, particularly those related to project funding and capital deployment through code bounties, grants, and investments, ensuring that funds are used effectively and that projects meet their objectives is paramount. There is a growing need for mechanisms that boost accountability and enhance the predictability of investment returns.

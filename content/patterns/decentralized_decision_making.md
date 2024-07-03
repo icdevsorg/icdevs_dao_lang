@@ -3,8 +3,8 @@
 ![Decentralized Decision-Making](./output/illustrations/decentralized_decision_making.png)
 
 ### Supports:
-[Effective Action](./effective_action.html)  
-[Risk Management](./risk_management.html)
+* [Effective Action](./effective_action.html)
+* [Risk Management](./risk_management.html)
 
 ### Context:
 In a decentralized autonomous organization (DAO), distributing decision-making power is crucial to preventing bottlenecks and fostering an inclusive atmosphere where members feel they truly contribute to and influence the organization's trajectory. Centralized decision-making often results in slow responses to changes and may neglect diverse member insights that could improve project outcomes.
@@ -30,7 +30,7 @@ Implement structures and mechanisms that spread decision-making across a broader
 Integrate decentralized decision-making protocols that align with the democratic ethos of DAOs, enhancing member involvement, satisfaction, and organizational agility.
 
 ### Supported By:
-[Political Decentralization](./political_decentralization.html)  
-[Multi-factorial Consensus](./multi_factorial_consensus.html)
+* [Political Decentralization](./political_decentralization.html)
+* [Multi-factorial Consensus](./multi_factorial_consensus.html)
 
 ![Decentralized Decision-Making](./output/decentralized_decision_making_specific_graph.png)

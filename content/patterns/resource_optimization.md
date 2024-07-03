@@ -28,7 +28,11 @@ Implement a structured, dynamic resource optimization framework within the DAO b
 Adopt and refine resource optimization strategies consistently, involving the entire DAO community to ensure resources are efficiently and effectively deployed, thereby maximizing the impact and sustainability of all initiatives.
 
 ### Supported By:
-[Community Involvement](./community_involvement.html), [Impact Measurement](./impact_measurement.html), [Resource Development](./resource_development.html), [Incentive Alignment](./incentive_alignment.html), [Risk Management](./risk_management.html), [Effective Action](./effective_action.html)
+* [Community Involvement](./community_involvement.html)
+* [Impact Measurement](./impact_measurement.html)
+* [Resource Development](./resource_development.html)
+* [Incentive Alignment](./incentive_alignment.html)
+* [Risk Management](./risk_management.html)
+* [Effective Action](./effective_action.html)
 
 ![Resource Optimization](./output/resource_optimization_specific_graph.png)
-

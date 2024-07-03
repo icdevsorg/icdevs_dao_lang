@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Resource Development](./resource_development.html)
+* [Resource Development](./resource_development.html)
 
 ### Context:
 
@@ -36,6 +36,8 @@ Invest in and nurture the development of shared public infrastructure within the
 
 ### Supported By:
 
-[Grants](./grants.html), [Bounties](./bounties.html), [Innovation Labs](./innovation_labs.html)
+* [Grants](./grants.html)
+* [Bounties](./bounties.html)
+* [Innovation Labs](./innovation_labs.html)
 
 ![Infrastructure](./output/infrastructure_specific_graph.png)

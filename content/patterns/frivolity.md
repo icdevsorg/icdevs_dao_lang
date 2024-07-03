@@ -4,7 +4,8 @@
 
 ### Supports:
 
-[Celebrations](./celebrations.html), [Dunbar's Number](./dunbars_number.html)
+* [Celebrations](./celebrations.html)
+*[Dunbar's Number](./dunbars_number.html)
 
 ### Context:
 

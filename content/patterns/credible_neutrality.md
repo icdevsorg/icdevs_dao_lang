@@ -3,7 +3,7 @@
 ![Credible Neutrality](./output/illustrations/credible_neutrality.png)
 
 ### Supports:
-[Effective Action](./effective_action.html)
+* [Effective Action](./effective_action.html)
 
 ### Context:
 In DAOs, particularly those deploying capital through bounties, grants, or investments, the processes governing decision-making must foster trust and impartiality to ensure fairness and maintain community support.
@@ -28,6 +28,9 @@ Case studies in large-scale blockchain projects like Ethereum have shown that tr
 Implement decision-making mechanisms that are transparent, inclusive, and structured to minimize bias, thus upholding the principle of Credible Neutrality. Continuously review and iterate on these mechanisms to adapt to evolving community norms and technological advancements.
 
 ### Supported By:
-[Quadratic Voting](./quadratic_voting.html), [Citizen Voting](./citizen_voting.html), [Multi-factorial Consensus](./multi_factorial_consensus.html), [Mica Secret Voting](./mica_secret_voting.html)
+* [Quadratic Voting](./quadratic_voting.html)
+* [Citizen Voting](./citizen_voting.html)
+* [Multi-factorial Consensus](./multi_factorial_consensus.html)
+* [Mica Secret Voting](./mica_secret_voting.html)
 
 ![Credible Neutrality](./output/credible_neutrality_specific_graph.png)

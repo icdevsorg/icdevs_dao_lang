@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Multi-factorial Consensus](./multi_factorial_consensus.html)
+* [Multi-factorial Consensus](./multi_factorial_consensus.html)
 
 ### Context:
 

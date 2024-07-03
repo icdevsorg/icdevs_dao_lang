@@ -3,7 +3,7 @@
 ![Predefined Action Protocols](./output/illustrations/predefined_action_protocols.png)
 
 ### Supports:
-[Scalable Decision-Making](./scalable_decision_making.html)
+* [Scalable Decision-Making](./scalable_decision_making.html)
 
 ### Context:
 In the management of a DAO, flexibility and rapid response are valued. However, without structured protocols, decisions in times of urgency can become chaotic, leading to inefficiency and confusion.
@@ -26,8 +26,8 @@ For example, in the case of a rapid investment opportunity, a predefined protoco
 Establish and standardize protocols that guide members swiftly and effectively through routine and critical actions without sacrificing deliberative quality or principle adherence.
 
 ### Supported By:
-[Dynamic Role Allocation](./dynamic_role_allocation.html)  
-[Good UI](./good_ui.html)  
-[Define Affordances/Disaffordances](./define_affordances_disaffordances.html)
+* [Dynamic Role Allocation](./dynamic_role_allocation.html)
+* [Good UI](./good_ui.html)
+* [Define Affordances/Disaffordances](./define_affordances_disaffordances.html)
 
 ![Predefined Action Protocols](./output/predefined_action_protocols_specific_graph.png)

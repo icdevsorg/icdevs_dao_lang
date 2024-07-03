@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Control as a Liability](./control_as_a_liability.html)
+* [Control as a Liability](./control_as_a_liability.html)
 
 ### Context:
 

@@ -7,6 +7,6 @@ digraph "" {
 		shape=box
 	];
 	"Public Feedback Repositories"	[label="Public Feedback Repositories\nLog of feedback and actions taken"];
-	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
-	"Annual Report" -> "Public Feedback Repositories";
+	"Annual Reports"	[label="Annual Reports\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Reports" -> "Public Feedback Repositories";
 }

@@ -4,7 +4,8 @@
 
 ### Supports:
 
-[Risk Management](./risk_management.html), [Legitimacy](./legitimacy.html)
+* [Risk Management](./risk_management.html)
+* [Legitimacy](./legitimacy.html)
 
 ### Context:
 

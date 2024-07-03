@@ -4,7 +4,9 @@
 
 ### Supports:
 
-[Public Feedback Repositories](./public_feedback_repositories.html), [Impact Measurement](./impact_measurement.html), [Seasons](./seasons.html)
+* [Public Feedback Repositories](./public_feedback_repositories.html)
+* [Impact Measurement](./impact_measurement.html)
+* [Seasons](./seasons.html)
 
 ### Context:
 

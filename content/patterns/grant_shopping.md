@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Grants](./grants.html)
+* [Grants](./grants.html)
 
 ### Context:
 

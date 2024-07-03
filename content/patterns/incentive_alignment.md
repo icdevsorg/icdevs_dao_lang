@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Resource Optimization](./resource_optimization.html)
+* [Resource Optimization](./resource_optimization.html)
 
 ### Context:
 
@@ -36,14 +36,10 @@ Implement a multi-faceted incentive system within a DAO that rewards both the pa
 
 ### Supported By:
 
-[Token-Based Rewards](./token_based_rewards.html)
-
-[Reputation Systems](./reputation_systems.html)
-
-[Performance-Based Bonuses](./performance_based_bonuses.html)
-
-[Democratic Participation Incentives](./democratic_participation_incentives.html)
-
-[Skill and Role Development Incentives](./skill_and_role_development_incentives.html)
+* [Token-Based Rewards](./token_based_rewards.html)
+* [Reputation Systems](./reputation_systems.html)
+* [Performance-Based Bonuses](./performance_based_bonuses.html)
+* [Democratic Participation Incentives](./democratic_participation_incentives.html)
+* [Skill and Role Development Incentives](./skill_and_role_development_incentives.html)
 
 ![Incentive Alignment](./output/incentive_alignment_specific_graph.png)

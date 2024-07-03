@@ -7,6 +7,6 @@ digraph "" {
 		shape=box
 	];
 	Seasons	[label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
-	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
-	"Annual Report" -> Seasons;
+	"Annual Reports"	[label="Annual Reports\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Reports" -> Seasons;
 }

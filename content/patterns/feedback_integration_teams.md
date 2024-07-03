@@ -3,7 +3,8 @@
 ![Feedback Integration Teams](./output/illustrations/feedback_integration_teams.png)
 
 ### Supports:
-[Feedback Loops](./feedback_loops.html), [Iterative Funding](./iterative_funding.md)
+* [Feedback Loops](./feedback_loops.html)
+* [Iterative Funding](./iterative_funding.md)
 
 ### Context:
 In DAOs, effectively integrating community feedback into decision-making and project iteration cycles is crucial for adaptive and responsive governance and development. This ensures that the DAO stays aligned with the needs and aspirations of its community while adapting to changing circumstances and feedback in real-time.
@@ -34,7 +35,7 @@ These teas should utilize an array of tools including real-time feedback tools s
 Form Feedback Integration Teams to ensure systematic, structured, and impactful integration of community feedback into DAO operations and project management, enhancing responsiveness and community trust.
 
 ### Supported By:
-[Public Feedback Repositories](./public_feedback_repositories.html)
-[Qualitative Assessment](./qualitative_assessment.html)
+* [Public Feedback Repositories](./public_feedback_repositories.html)
+* [Qualitative Assessment](./qualitative_assessment.html)
 
 ![Feedback Integration Teams](./output/feedback_integration_teams_specific_graph.png)

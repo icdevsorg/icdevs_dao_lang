@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Incentive Alignment](./incentive_alignment.html)
+* [Incentive Alignment](./incentive_alignment.html)
 
 ### Context:
 
@@ -37,6 +37,8 @@ Adopt policies and technologies that safeguard contributor well-being, harmonizi
 
 ### Supported By:
 
-[Levels Of Intensity](./levels_of_intensity.html), [Right to Resignation](./right_to_resignation.html), [Future Kindness](./future_kindness.html)
+* [Levels Of Intensity](./levels_of_intensity.html)
+* [Right to Resignation](./right_to_resignation.html)
+* [Future Kindness](./future_kindness.html)
 
 ![Well Being](./output/well_being_specific_graph.png)

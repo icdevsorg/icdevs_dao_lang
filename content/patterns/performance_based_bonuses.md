@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Incentive Alignment](./incentive_alignment.html)
+* [Incentive Alignment](./incentive_alignment.html)
 
 ### Context:
 
@@ -34,6 +34,8 @@ Crucial to this system is the establishment of a fair, transparent, and thorough
 Adopt Performance-Based Bonuses to enhance contributor motivation, align their individual goals with the DAO’s objectives, and foster a culture of meritocracy and excellence.
 
 ### Supported By:
-[Contribution Tracking](./contribution_tracking.html), [Escrow and Milestone Payments](./escrow_and_milestone_payments.html), [Long-Term Participation Rewards](./long_term_participation_rewards.html)
+* [Contribution Tracking](./contribution_tracking.html)
+* [Escrow and Milestone Payments](./escrow_and_milestone_payments.html)
+* [Long-Term Participation Rewards](./long_term_participation_rewards.html)
 
 ![Performance-Based Bonuses](./output/performance_based_bonuses_specific_graph.png)

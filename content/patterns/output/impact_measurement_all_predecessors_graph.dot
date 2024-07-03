@@ -15,8 +15,8 @@ digraph "" {
 	"Quantitative Analysis" -> "Impact Measurement";
 	"Qualitative Assessment"	[label="Qualitative Assessment\nComplement quantitative data with qualitative insights"];
 	"Qualitative Assessment" -> "Impact Measurement";
-	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
-	"Annual Report" -> "Impact Measurement";
+	"Annual Reports"	[label="Annual Reports\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Reports" -> "Impact Measurement";
 	"Outcome Visualization"	[label="Outcome Visualization\nVisual tools to represent impact data"];
 	"Outcome Visualization" -> "Qualitative Assessment";
 	"Impact Storytelling"	[label="Impact Storytelling\nCreate narratives around impact data"];
@@ -53,7 +53,7 @@ digraph "" {
 	"Coin Voting" -> "Token-Based Rewards";
 	"Conviction Voting"	[label="Conviction Voting\nLock tokens to vote, influencing longevity and power"];
 	"Conviction Voting" -> "Token-Based Rewards";
-	"Shares for Sweat"	[label=""];
+	"Shares for Sweat"	[label="Shares for Sweat\nAligns incentives by compensating contributions with equity or tokens.\n"];
 	"Shares for Sweat" -> "Token-Based Rewards";
 	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
 	"Contribution Tracking" -> "Shares for Sweat";
@@ -65,8 +65,6 @@ digraph "" {
 	"Future Kindness" -> "Staking Mechanisms";
 	"Public Feedback Repositories"	[label="Public Feedback Repositories\nLog of feedback and actions taken"];
 	"Public Feedback Repositories" -> "Feedback Integration Teams";
-	"Real-Time Feedback Channels"	[label="Real-Time Feedback Channels\nReal-time platforms for feedback"];
-	"Real-Time Feedback Channels" -> "Feedback Integration Teams";
 	"Communication Channels"	[label="Communication Channels\nEfficient channels for rapid coordination"];
 	"Communication Channels" -> "Feedback Integration Teams";
 }

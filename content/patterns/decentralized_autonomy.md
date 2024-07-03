@@ -3,7 +3,8 @@
 ![Decentralized Autonomy](./output/illustrations/decentralized_autonomy.png)
 
 ### Supports:
-[Community Involvement](./community_involvement.html), [Resource Development](./resource_development.html)
+* [Community Involvement](./community_involvement.html)
+* [Resource Development](./resource_development.html)
 
 ### Context:
 In dynamic, decentralized organizations—particularly those deploying capital in various forms such as grants, bounties, and investments—the need for an adaptive and responsive governance structure is crucial. A centralized command often proves too rigid or slow to react to the fast-paced changes and distributed nature of these ecosystems.
@@ -27,6 +28,7 @@ Implement decentralized autonomy by structuring the DAO to have autonomous group
 Embrace decentralized autonomy to enhance scalability, responsiveness, and community engagement within the DAO by allowing autonomous groups to govern themselves within the larger ecosystem’s guidelines. This will lead to a more agile, involved, and efficient operational model.
 
 ### Supported By:
-[Control as a Liability](./control_as_a_liability.html), [Job Boundaries](./job_boundaries.html)
+* [Control as a Liability](./control_as_a_liability.html)
+* [Job Boundaries](./job_boundaries.html)
 
 ![Decentralized Autonomy](./output/decentralized_autonomy_specific_graph.png)

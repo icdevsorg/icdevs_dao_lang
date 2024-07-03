@@ -4,7 +4,8 @@
 
 ### Supports:
 
-[Community Involvement](./community_involvement.html), [Resource Development](./resource_development.html)
+* [Community Involvement](./community_involvement.html)
+* [Resource Development](./resource_development.html)
 
 ### Context:
 
@@ -33,6 +34,6 @@ Structure the delivery of educational material in a way that addresses the diver
 
 ### Supported By:
 
-[Learning and Development Fund](./learning_and_development_fund.html)
+* [Learning and Development Fund](./learning_and_development_fund.html)
 
 ![Educational Outreach](./output/educational_outreach_specific_graph.png)

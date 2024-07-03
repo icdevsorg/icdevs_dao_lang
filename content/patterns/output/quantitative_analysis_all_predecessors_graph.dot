@@ -13,5 +13,7 @@ digraph "" {
 	"Adaptive Metrics" -> "Quantitative Analysis";
 	"Goodhart's Law"	[label="Goodhart's Law\nWhen a metric is used as a target it can no longer be used as an effective measure.\n"];
 	"Adaptive Metrics" -> "Goodhart's Law";
+	"Dynamic Surveys"	[label="Dynamic Surveys\nRegularly updated surveys to gather feedback"];
+	"Dynamic Surveys" -> "Quantitative Analysis";
 	"Goodhart's Law" -> "Quantitative Analysis";
 }

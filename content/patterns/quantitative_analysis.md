@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Impact Measurement](./impact_measurement.html)
+* [Impact Measurement](./impact_measurement.html)
 
 ### Context:
 
@@ -32,6 +32,8 @@ For instance, MakerDAO uses metrics like Total Value Locked (TVL) and Collateral
 Adopt quantitative analysis with clear, consistent metrics and automated data collection tools to enhance decision-making in DAOs, ensuring capital is deployed efficiently and effectively based on empirical evidence.
 
 ### Supported By:
-[Benchmarking](./benchmarking.html), [Adaptive Metrics](./adaptive_metrics.html), [Dynamic Surveys](./dynamic_surveys.html)
+* [Benchmarking](./benchmarking.html)
+* [Adaptive Metrics](./adaptive_metrics.html)
+* [Dynamic Surveys](./dynamic_surveys.html)
 
 ![Quantitative Analysis](./output/quantitative_analysis_specific_graph.png)

@@ -3,7 +3,7 @@
 ![Honour](./output/illustrations/honour.png)
 
 ### Supports:
-[Reputation Systems](./reputation_systems.html)
+* [Reputation Systems](./reputation_systems.html)
 
 ### Context:
 In DAOs where trust and reputation are central to operations, there is a need for a robust mechanism to evaluate and visualize the trust worthiness and contribution of members, beyond traditional monetary transactions.
@@ -30,6 +30,6 @@ This system encourages members to engage continuously with each other, fulfillin
 Design DAO operations around community-centered credit systems that encourage ongoing engagement and mutual support, rather than accumulation of wealth. Use technological solutions to implement non-transferable tokens that represent social credits, embedding these values into the very fabric of the community's operations.
 
 ### Supported By:
-[Immutable Records](./immutable_records.html)
+* [Immutable Records](./immutable_records.html)
 
 ![Honour](./output/honour_specific_graph.png)

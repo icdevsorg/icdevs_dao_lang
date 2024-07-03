@@ -3,7 +3,9 @@
 ![Job Boundaries](./output/illustrations/job_boundaries.png)
 
 ### Supports:
-[Decentralized Autonomy](./decentralized_autonomy.html), [Cross-functional Teams](./cross_functional_teams.html), [Working Groups](./working_groups.html)
+* [Decentralized Autonomy](./decentralized_autonomy.html)
+* [Cross-functional Teams](./cross_functional_teams.html)
+* [Working Groups](./working_groups.html)
 
 ### Context:
 In a DAO’s dynamically structured environment where various tasks and projects are managed across decentralized and often remote teams, defining clear roles and responsibilities can significantly streamline process and improve operational efficiency.

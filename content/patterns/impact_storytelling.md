@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Qualitative Assessment](./qualitative_assessment.html)
+* [Qualitative Assessment](./qualitative_assessment.html)
 
 ### Context:
 

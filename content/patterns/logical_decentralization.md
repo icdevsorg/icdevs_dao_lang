@@ -3,7 +3,7 @@
 ![Logical Decentralization](./output/illustrations/logical_decentralization.png)
 
 ### Supports:
-[Portfolio Approach](./portfolio_approach.html)
+* [Portfolio Approach](./portfolio_approach.html)
 
 ### Context:
 In DAOs, decentralization is a fundamental principle not only for its structure but also for its processes. Ensuring that no single point of failure or control can overpower the system is crucial for maintaining integrity, reducing risks, and enhancing trust among participants.

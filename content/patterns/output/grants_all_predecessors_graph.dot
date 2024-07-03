@@ -55,12 +55,10 @@ digraph "" {
 	"Dynamic Surveys" -> "Regular Community Check-Ins";
 	Seasons	[label="Seasons\nAdhere to a reliable calendar that matches the human calendar.\n"];
 	Seasons -> "Regular Community Check-Ins";
-	"Annual Report"	[label="Annual Report\nReview effectiveness of feedback mechanisms annually"];
-	"Annual Report" -> Seasons;
+	"Annual Reports"	[label="Annual Reports\nReview effectiveness of feedback mechanisms annually"];
+	"Annual Reports" -> Seasons;
 	"Feedback Integration Teams"	[label="Feedback Integration Teams\nTeams to integrate feedback into planning"];
 	"Feedback Integration Teams" -> "Iterative Funding";
 	"Public Feedback Repositories"	[label="Public Feedback Repositories\nLog of feedback and actions taken"];
 	"Public Feedback Repositories" -> "Feedback Integration Teams";
-	"Real-Time Feedback Channels"	[label="Real-Time Feedback Channels\nReal-time platforms for feedback"];
-	"Real-Time Feedback Channels" -> "Feedback Integration Teams";
 }

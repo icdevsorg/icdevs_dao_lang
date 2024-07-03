@@ -3,7 +3,7 @@
 ![Bridge Feedback](./output/illustrations/bridge_feedback.png)
 
 ### Supports:
-[Grants](./grants.html)
+* [Grants](./grants.html)
 
 ### Context:
 In the DAO ecosystem, providing feedback on grant proposals and bounty submissions is crucial to fostering a culture of improvement and engagement. When submissions are rejected, applicants often feel disheartened or confused about the rationale, which can diminish trust and participation.

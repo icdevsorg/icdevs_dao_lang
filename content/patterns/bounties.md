@@ -4,7 +4,9 @@
 
 ### Supports:
 
-[Infrastructure](./infrastructure.html), [Risk Management](./risk_management.html), [Performance-Based Bonuses](./performance_based_bonuses.html)
+* [Infrastructure](./infrastructure.html)
+* [Risk Management](./risk_management.html)
+* [Performance-Based Bonuses](./performance_based_bonuses.html)
 
 ### Context:
 
@@ -39,6 +41,6 @@ Establish a well-defined bounty program within the DAO that motivates and reward
 
 ### Supported By:
 
-[Evergreen](./evergreen.html)
+* [Evergreen](./evergreen.html)
 
 ![Bounties](./output/bounties_specific_graph.png)

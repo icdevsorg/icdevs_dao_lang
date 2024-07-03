@@ -22,6 +22,7 @@ def inject_front_matter(src_folder, dest_folder):
                 
                 # Create the front matter
                 front_matter = f"---\nlayout: home\ntitle: {title}\n---\n\n"
+
                 
                 # Combine the front matter with the original content
                 new_content = front_matter + content
@@ -37,9 +38,10 @@ def inject_front_matter(src_folder, dest_folder):
                 with open(new_path, 'w') as new_file:
                     new_file.write(new_content)
                 print(f"Processed {new_path}")
-            else:
-                # Copy other file types as is
-                shutil.copy2(filepath, new_path)
+            else: 
+                if filepath.endswith("png"):
+                  # Copy other file types as is
+                  shutil.copy2(filepath, new_path)
 
 # Specify the source and destination directories
 src_folder = 'content'

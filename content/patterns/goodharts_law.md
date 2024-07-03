@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Quantitative Analysis](./quantitative_analysis.html)
+* [Quantitative Analysis](./quantitative_analysis.html)
 
 ### Context:
 
@@ -30,6 +30,6 @@ DAOs should design and periodically recalibrate their metrics system to reflect 
 
 ### Supported By:
 
-[Adaptive Metrics](./adaptive_metrics.html)
+* [Adaptive Metrics](./adaptive_metrics.html)
 
 ![Goodhart's Law](./output/goodhart's_law_specific_graph.png)

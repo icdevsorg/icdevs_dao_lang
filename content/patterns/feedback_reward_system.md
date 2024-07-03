@@ -4,7 +4,8 @@
 
 ### Supports:
 
-[Feedback Loops](./feedback_loops.html), [Incentive Alignment](./incentive_alignment)
+* [Feedback Loops](./feedback_loops.html)
+* [Incentive Alignment](./incentive_alignment)
 
 ### Context:
 
@@ -36,6 +37,6 @@ Incorporate a balanced feedback reward system in the DAO that motivates a broade
 
 ### Supported By:
 
-[Token-Based Rewards](./token_based_rewards.html)
+* [Token-Based Rewards](./token_based_rewards.html)
 
 ![Feedback Reward System](./output/feedback_reward_system_specific_graph.png)

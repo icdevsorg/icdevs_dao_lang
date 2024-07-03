@@ -3,7 +3,7 @@
 ![Open Data](./output/illustrations/open_data.png)
 
 ### Supports:
-[Transparent Trackability](./transparent_trackability.html)
+* [Transparent Trackability](./transparent_trackability.html)
 
 ### Context:
 In the landscape of DAOs, data regarding financial transactions, decision-making records, and governance actions are pivotal. These organizations operate on the principles of decentralization and collective management, where every action and decision can significantly impact the distributed network and its stakeholders.

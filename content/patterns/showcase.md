@@ -3,8 +3,8 @@
 ![Showcase](./output/illustrations/showcase.png)
 
 ### Supports:
-[Grants](./grants.html)
-[Celebrations](./celebrations.html)
+* [Grants](./grants.html)
+* [Celebrations](./celebrations.html)
 
 ### Context:
 In the dynamics of DAOs where transparency and community participation are central, showcasing successful projects and their outcomes promotes trust, inspiration, and accountability. It serves as a critical method for highlighting the impact of investments and fostering a competitive and innovative environment.

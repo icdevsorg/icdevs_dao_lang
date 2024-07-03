@@ -3,7 +3,7 @@
 ![Define Affordances/Disaffordances](./output/illustrations/define_affordances_disaffordances.png)
 
 ### Supports:
-[Predefined Action Protocols](./predefined_action_protocols.html)
+* [Predefined Action Protocols](./predefined_action_protocols.html)
 
 ### Context:
 In a DAO, where decision-making processes are decentralized and various stakeholders have the ability to influence outcomes, it is crucial to establish clear guidelines on what actions are permissible and which are not. This clarity helps in preparing the community to engage in consistent, productive interactions without overstepping boundaries or causing unnecessary disputes.

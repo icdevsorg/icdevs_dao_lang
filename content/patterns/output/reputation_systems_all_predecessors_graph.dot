@@ -9,4 +9,10 @@ digraph "" {
 	"Reputation Systems"	[label="Reputation Systems\nTrack contributions and behavior"];
 	"Contribution Tracking"	[label="Contribution Tracking\nTransparent system for tracking contributions"];
 	"Contribution Tracking" -> "Reputation Systems";
+	Honour	[label="Honour\nImplement a system where user may indebt themselves to each other and forgive each other's debts.\n"];
+	Honour -> "Reputation Systems";
+	"Commitment Pooling"	[label="Commitment Pooling\nA system where user place services or cash into a pool that others may exchange for their own services.\n"];
+	"Commitment Pooling" -> "Reputation Systems";
+	"Immutable Records"	[label="Immutable Records\nCreate tamper-proof records of all financial dealings"];
+	"Immutable Records" -> "Commitment Pooling";
 }

@@ -3,8 +3,8 @@
 ![Democratic Participation Incentives](./output/illustrations/democratic_participation_incentives.png)
 
 ### Supports:
-[Incentive Alignment](./incentive_alignment.html)
-[Effective Action](./effective_action.html)
+* [Incentive Alignment](./incentive_alignment.html)
+* [Effective Action](./effective_action.html)
 
 ### Context:
 In DAOs, governance and decision-making are pivotal to operations. Ensuring broad and effective participation among members is crucial for democratic and efficient decision-making, reflecting the community’s vision and objectives.

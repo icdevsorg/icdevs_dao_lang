@@ -4,7 +4,8 @@
 
 ### Supports:
 
-[Community Involvement](./community_involvement.html), [Legitimacy](./legitimacy.html)
+* [Community Involvement](./community_involvement.html)
+* [Legitimacy](./legitimacy.html)
 
 ### Context:
 
@@ -36,6 +37,6 @@ Design and implement governance systems that not only ensure complete transparen
 
 ### Supported By:
 
-[Transparent Trackability](./transparent_trackability.html)
+* [Transparent Trackability](./transparent_trackability.html)
 
 ![Transparent Governance](./output/transparent_governance_specific_graph.png)

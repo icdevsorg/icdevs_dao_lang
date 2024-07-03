@@ -3,7 +3,7 @@
 ![Qualitative Assessment](./output/illustrations/qualitative_assessment.png)
 
 ### Supports:
-[Impact Measurement](./impact_measurement.html)
+* [Impact Measurement](./impact_measurement.html)
 
 ### Context:
 In the decentralized ecosystem of DAOs, where actions are governed by code and community consensus, achieving a balanced assessment of project impacts is crucial. Both quantitative and qualitative data play essential roles in evaluating the overall success and community satisfaction of projects funded through Code Bounties, Grants, or hybrid investments.
@@ -26,6 +26,8 @@ These qualitative assessments should be integrated with quantitative analytics t
 Integrate qualitative assessment methods into the DAO's project evaluation processes to capture detailed insights about community impact, engagement, and satisfaction, thereby enhancing decision-making efficacy and resource allocation strategies.
 
 ### Supported By:
-[Dynamic Surveys](./dynamic_surveys.html), [Outcome Visualization](./outcome_visualization.html), [Impact Storytelling](./impact_storytelling.html)
+* [Dynamic Surveys](./dynamic_surveys.html)
+* [Outcome Visualization](./outcome_visualization.html)
+* [Impact Storytelling](./impact_storytelling.html)
 
 ![Qualitative Assessment](./output/qualitative_assessment_specific_graph.png)

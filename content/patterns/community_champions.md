@@ -3,7 +3,8 @@
 ![Community Champions](./output/illustrations/community_champions.png)
 
 ### Supports:
-[Community Involvement](./community_involvement.html),[Resource Development](./resource_development.html)
+* [Community Involvement](./community_involvement.html)
+* [Resource Development](./resource_development.html)
 
 ### Context:
 In decentralized environments, where traditional hierarchical structures of influence and communication are often flattened or absent, the role of actively engaged community members becomes critical. These individuals play a central role in driving community engagement, facilitating knowledge sharing, and promoting the health of the DAO.
@@ -32,6 +33,6 @@ Identifying and empowering Community Champions within the DAO can address these 
 Empower passionate community members to become Community Champions to enhance communication, engagement, and distributed influence within the DAO.
 
 ### Supported By:
-[Working Groups](./working_groups.html)
+* [Working Groups](./working_groups.html)
 
 ![Community Champions](./output/community_champions_specific_graph.png)

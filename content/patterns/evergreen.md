@@ -3,7 +3,9 @@
 ![Evergreen](./output/illustrations/evergreen.png)
 
 ### Supports:
-[Predefined Action Protocols](./predefined_action_protocols.html), [Bounties](./bounties.html), [RFPs](./rfps.html),
+* [Predefined Action Protocols](./predefined_action_protocols.html)
+* [Bounties](./bounties.html)
+* [RFPs](./rfps.html)
 
 ### Context:
 
@@ -28,6 +30,6 @@ Implement an 'Evergreen' policy within the DAO's operational framework. This pol
 Regularly update and refresh DAO initiatives to stay technologically relevant and highly engaging for the community, ensuring sustained effectiveness and resource optimization.
 
 ### Supported By:
-[Working Groups](./working_groups.html)
+* [Working Groups](./working_groups.html)
 
 ![Evergreen](./output/evergreen_specific_graph.png)

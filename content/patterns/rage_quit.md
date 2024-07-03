@@ -3,7 +3,7 @@
 ![Rage Quit](./output/illustrations/rage_quit.png)
 
 ### Supports:
-[Well Being](./well_being.html)
+* [Well Being](./well_being.html)
 
 ### Context:
 In many DAOs, member contributions (financial, intellectual, or labor) are pooled to collectively fund projects or make organizational decisions. As these organizations grow and diverge in interests, the risk of disenchantment with collective decisions increases. Ensuring mechanisms for safe exit is essential for maintaining trust.
@@ -36,6 +36,6 @@ Through this mechanism, MolochDAO managed to maintain a high degree of autonomy 
 Members should feel assured that they can reclaim their vested assets and exit if crucial decisions go against their core values or investment logic, thus maintaining individual autonomy while supporting collective governance.
 
 ### Supported By:
-[Inability to Fork External Assets](./inability_to_fork_external_assets.html)  
+* [Inability to Fork External Assets](./inability_to_fork_external_assets.html)
 
 ![Rage Quit](./output/rage_quit_specific_graph.png)

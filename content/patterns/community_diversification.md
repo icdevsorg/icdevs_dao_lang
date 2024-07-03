@@ -3,7 +3,7 @@
 ![Community Diversification](./output/illustrations/community_diversification.png)
 
 ### Supports:
-[Portfolio Approach](./portfolio_approach.html)
+* [Portfolio Approach](./portfolio_approach.html)
 
 ### Context:
 In the increasingly global and interconnected landscape of DAOs, diversity within the community is essential. DAOs generally operate over decentralized networks without physical boundaries, making them accessible to a global audience.
@@ -29,6 +29,6 @@ Actively foster a diverse community base to create a resilient and innovative en
 Actively diversify the community by implementing inclusive policies and support structures that encourage participation from a broad demographic spectrum, thereby enhancing the DAO's resilience, innovation capacity, and global relevance.
 
 ### Supported By:
-[Dunbar's Number](./dunbars_number.html)
+* [Dunbar's Number](./dunbars_number.html)
 
 ![Community Diversification](./output/community_diversification_specific_graph.png)

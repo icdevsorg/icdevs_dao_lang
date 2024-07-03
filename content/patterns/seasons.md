@@ -3,9 +3,10 @@
 ![Seasons](./output/illustrations/Seasons.png)
 
 ### Supports:
-- Iterative Funding
-- Regular Community Check-Ins
-- Celebrations
+
+* [Iterative Funding](./iterative_funding.html)
+* [Regular Community Check-Ins](./regular_community_check_ins.html)
+* [Celebrations](./celebrations.html)
 
 ### Context:
 In the context of DAO operations, constant activity throughout the year without regard to traditional human rhythms can lead to burnout and decreased engagement. Introducing a structured timeline that respects human behavioral patterns and cultural calendars can synchronize DAO activities with members' lives, enhancing participation and effectiveness.

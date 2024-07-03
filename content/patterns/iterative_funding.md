@@ -3,7 +3,7 @@
 ![Iterative Funding](./output/illustrations/iterative_funding.png)
 
 ### Supports:
-[Feedback Loops](./feedback_loops.html)
+* [Feedback Loops](./feedback_loops.html)
 
 ### Context:
 In a DAO ecosystem where capital allocation and project funding are critical, a mechanism is needed to ensure efficient use of resources, prevent capital drainage, and motivate perpetual project progress.
@@ -35,6 +35,7 @@ Adopt an Iterative Funding model where projects receive capital in phases which 
 Iterative Funding should be implemented as a core financial governance mechanism within DAOs to enhance capital efficiency, ensure project accountability, motivate continuous progress, and adapt funding to real-world results and feedback.
 
 ### Supported By:
-[Seasons](./seasons.html), [Feedback Integration Teams](./feedback_integration_teams.html)
+* [Seasons](./seasons.html)
+* [Feedback Integration Teams](./feedback_integration_teams.html)
 
 ![Iterative Funding](./output/iterative_funding_specific_graph.png)

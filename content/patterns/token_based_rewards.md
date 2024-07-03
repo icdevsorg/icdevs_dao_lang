@@ -3,7 +3,7 @@
 ![Token-Based Rewards](./output/illustrations/token_based_rewards.png)
 
 ### Supports:
-[Incentive Alignment](./incentive_alignment.html)
+* [Incentive Alignment](./incentive_alignment.html)
 
 ### Context:
 In the DAO ecosystem, ensuring ongoing participation and contribution to organizational goals is critical. Traditional organizations may rely on salary or equity-based systems, but DAOs require mechanisms that reflect their decentralized, digital-first nature.
@@ -24,6 +24,9 @@ Implement a token-based reward system wherein contributors to the DAO are compen
 Structure the distribution of tokens to balance immediate rewards with long-term incentives that ensure contributors remain engaged over time and contribute to the DAO’s evolving needs.
 
 ### Supported By:
-[Staking Mechanisms](./staking_mechanisms.html), [Shares for Sweat](./shares_for_sweat.html), [Coin Voting](./coin_voting.html), [Conviction Voting](./conviction_voting.html)
+* [Staking Mechanisms](./staking_mechanisms.html)
+* [Shares for Sweat](./shares_for_sweat.html)
+* [Coin Voting](./coin_voting.html)
+* [Conviction Voting](./conviction_voting.html)
 
 ![Token-Based Rewards](./output/token_based_rewards_specific_graph.png)

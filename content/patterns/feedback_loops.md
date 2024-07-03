@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Impact Measurement](./impact_measurement.html)
+* [Impact Measurement](./impact_measurement.html)
 
 ### Context:
 
@@ -36,12 +36,9 @@ Implement structured and transparent feedback loops that enable continuous impro
 
 ### Supported By:
 
-[Iterative Funding](./iterative_funding.html)
-
-[Regular Community Check-Ins](./regular_community_check_ins.html)
-
-[Feedback Integration Team](./feedback_integration_teams.html)
-
-[Feedback Reward System](./feedback_reward_system.html)
+* [Iterative Funding](./iterative_funding.html)
+* [Regular Community Check-Ins](./regular_community_check_ins.html)
+* [Feedback Integration Team](./feedback_integration_teams.html)
+* [Feedback Reward System](./feedback_reward_system.html)
 
 ![Feedback Loops](./output/feedback_loops_specific_graph.png)

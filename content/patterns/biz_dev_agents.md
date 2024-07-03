@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Institutions](./institutions.html), [Grants](./grants.html)
+* [Institutions](./institutions.html), [Grants](./grants.html)
 
 ### Context:
 

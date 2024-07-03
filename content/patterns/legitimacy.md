@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Effective Action](./effective_action.html)
+* [Effective Action](./effective_action.html)
 
 ### Context:
 
@@ -37,6 +37,8 @@ Emphasize processes that build and reinforce legitimacy to enhance community eng
 
 ### Supported By:
 
-[Financial Reserves](./financial_reserves.html), [Transparent Governance](./transparent_governance.html), [Multi-factorial Consensus](./multi_factorial_consensus.html)
+* [Financial Reserves](./financial_reserves.html)
+* [Transparent Governance](./transparent_governance.html)
+* [Multi-factorial Consensus](./multi_factorial_consensus.html)
 
 ![Legitimacy](./output/legitimacy_specific_graph.png)

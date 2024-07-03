@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Quantitative Analysis](./quantitative_analysis.html)
+* [Quantitative Analysis](./quantitative_analysis.html)
 
 ### Context:
 
@@ -31,6 +31,6 @@ Establish metrics that adapt and evolve with the conditions and demands of the D
 
 ### Supported By:
 
-[Goodhart's Law](./goodharts_law.html)
+* [Goodhart's Law](./goodharts_law.html)
 
 ![Adaptive Metrics](./output/adaptive_metrics_specific_graph.png)

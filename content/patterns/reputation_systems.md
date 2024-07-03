@@ -3,7 +3,7 @@
 ![Reputation Systems](./output/illustrations/reputation_systems.png)
 
 ### Supports:
-[Incentive Alignment](./incentive_alignment.html)
+* [Incentive Alignment](./incentive_alignment.html)
 
 ### Context:
 In DAOs, where traditional hierarchies are flattened or nonexistent, and direct oversight is limited, building trust and managing contributions effectively becomes challenging. Reputation systems within DAOs can bridge this gap by providing a quantifiable measure of member contributions and reliability.
@@ -28,9 +28,8 @@ Implement a robust reputation system that tracks, analyzes, and displays a compr
 Adopt and continuously refine a reputation system tailored to the DAO’s specific needs and goals, ensuring it remains transparent, fair, and tightly integrated with the DAO's incentive structures.
 
 ### Supported By:
-- [Contribution Tracking](./contribution_tracking.html)
-- [Honour](./honour.html)
-- [Commitment Pooling](./commitment_pooling.html)
+* [Contribution Tracking](./contribution_tracking.html)
+* [Honour](./honour.html)
+* [Commitment Pooling](./commitment_pooling.html)
 
 ![Reputation Systems](./output/reputation_systems_specific_graph.png)
-

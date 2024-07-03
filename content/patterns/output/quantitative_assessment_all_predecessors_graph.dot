@@ -6,7 +6,7 @@ digraph "" {
 	node [label="\N",
 		shape=box
 	];
-	"Quantitative Assessment"	[label=""];
+	"Quantitative Analysis"	[label=""];
 	"Dynamic Surveys"	[label="Dynamic Surveys\nRegularly updated surveys to gather feedback"];
-	"Dynamic Surveys" -> "Quantitative Assessment";
+	"Dynamic Surveys" -> "Quantitative Analysis";
 }

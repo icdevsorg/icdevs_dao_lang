@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Community Value Alignment](./community_value_alignment.html)
+* [Community Value Alignment](./community_value_alignment.html)
 
 ### Context:
 
@@ -32,7 +32,7 @@ Incorporate regular scheduled community interactions into the operational calend
 
 ### Supported By:
 
-[Seasons](./seasons.html)  
-[Dynamic Surveys](./dynamic_surveys.html)
+* [Seasons](./seasons.html)
+* [Dynamic Surveys](./dynamic_surveys.html)
 
 ![Regular Community Check-Ins](./output/regular_community_check_ins_specific_graph.png)

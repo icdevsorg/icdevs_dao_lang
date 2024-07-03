@@ -3,7 +3,7 @@
 ![Coin Voting](./output/illustrations/coin_voting.png)
 
 ### Supports:
-[Multi-factorial Consensus](./multi_factorial_consensus.html)
+* [Multi-factorial Consensus](./multi_factorial_consensus.html)
 
 ### Context:
 In DAOs, governance and decision-making are central challenges, with the need to distribute power fairly while ensuring efficient and effective management. Traditional models either centralize decision-making or struggle to scale as participant numbers increase.
@@ -29,7 +29,7 @@ This approach inherently reduces the risk of Sybil attacks since acquiring token
 Use Coin Voting to align voting power with financial stake and commitment within the DAO, thus ensuring that those most invested in the DAO’s success have corresponding influence in its governance.
 
 ### Supported By:
-[Staking Mechanisms](./staking_mechanisms.html),
-[CDP Voting](./cdp_voting.html)
+* [Staking Mechanisms](./staking_mechanisms.html)
+* [CDP Voting](./cdp_voting.html)
 
 ![Coin Voting](./output/coin_voting_specific_graph.png)

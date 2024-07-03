@@ -4,7 +4,7 @@
 
 ### Supports:
 
-[Working Groups](./working_groups.html)
+* [Working Groups](./working_groups.html)
 
 ### Context:
 

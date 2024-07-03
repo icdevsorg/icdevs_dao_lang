@@ -3,7 +3,7 @@
 ![Contingent Bribes](./output/illustrations/contingent_bribes.png)
 
 ### Supports:
-[Mica Secret Voting](./mica_secret_voting.html)
+* [Mica Secret Voting](./mica_secret_voting.html)
 
 ### Context:
 With the progression towards decentralized governance models in DAOs, ensuring the integrity of the voting process is paramount. In decentralized settings, controls and traditional oversight mechanisms that prevent unethical practices, such as bribing, are often less rigid than in centralized systems.

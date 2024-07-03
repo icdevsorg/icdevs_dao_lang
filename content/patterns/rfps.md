@@ -3,7 +3,7 @@
 ![Requests for Proposals](./output/illustrations/rfps.png)
 
 ### Supports:
-[Grants](./grants.html)
+* [Grants](./grants.html)
 
 ### Context:
 In a DAO, efficiently identifying and funding projects that are aligned with the organization’s objectives is critical to its success and sustainability.
@@ -27,6 +27,7 @@ Implement a structured Request for Proposals (RFP) process that outlines specifi
 Configure a robust and transparent RFP process that ensures fair participation and selects proposals that align with the DAO's strategic goals. This process should also inspire confidence within the community through its openness and objective criteria.
 
 ### Supported By:
-[Evergreen](./evergreen.html), [Community Value Alignment](./community_value_alignment.html)
+* [Evergreen](./evergreen.html)
+* [Community Value Alignment](./community_value_alignment.html)
 
 ![Requests for Proposals](./output/rfps_specific_graph.png)
