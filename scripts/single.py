@@ -32,7 +32,7 @@ def create_specific_node_graph_v3(graph, node_name):
         subgraph.add_subgraph(descendants, name='cluster_descendants', rank='min', style='invis')
 
     # Save to DOT file
-    subgraph_file_path = f'/mnt/data/{node_name}_specific_graph_v3.dot'
+    subgraph_file_path = f'/mnt/data/{node_name}_specific_graph.dot'
     subgraph.write(subgraph_file_path)
     return subgraph_file_path
 

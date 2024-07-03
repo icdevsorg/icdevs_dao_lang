@@ -45,7 +45,7 @@ def create_specific_node_graph_v3(graph, node_name, output_dir):
         # Place descendants in 'min' subgraph
         subgraph.add_subgraph(descendants, name='cluster_descendants', rank='min', style='invis')
 
-    filename = f"{node_name.replace(' ', '_').replace('/', '_').replace('-', '_').lower()}_specific_graph_v3.dot"
+    filename = f"{node_name.replace(' ', '_').replace('/', '_').replace('-', '_').lower()}_specific_graph.dot"
     
     subgraph.write(os.path.join(output_dir, filename))
     subgraph.layout(prog='dot')
