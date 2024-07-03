@@ -1,7 +1,5 @@
 # 🛠️ Methodology:
 
-# Methodology
-
 The process of developing a comprehensive understanding of Decentralized Autonomous Organizations (DAOs) has been a multi-faceted approach. By leveraging a combination of empirical research, firsthand experience, and community interactions, we sought to construct a well-rounded and practical framework for understanding and optimizing DAO operations, particularly in the context of capital deployment through grants and bounties.
 
 ## Literature Review

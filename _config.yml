@@ -74,6 +74,7 @@ exclude:
   - patterns.dot
   - readme.md
   - '*.py'
+  - pandoc
   
 
 

@@ -1,0 +1,149 @@
+# config.yaml
+from: markdown+emoji
+to: pdf
+
+# Set the output file name
+output-file: ./combined.pdf
+
+# Define the list of files to include in the conversion
+input-files:
+  - ../content_intro.md
+  - ../content_methodology.md
+  - ../content_interviews.md
+  - ../content_findings.md
+  - ../generative/generative_language.md
+  - ../content/patterns/toc.md
+  - ../content/patterns/resource_optimization.md
+  - ../content/patterns/impact_measurement.md
+  - ../content/patterns/resource_development.md
+  - ../content/patterns/incentive_alignment.md
+  - ../content/patterns/risk_management.md
+  - ../content/patterns/effective_action.md
+  - ../content/patterns/legitimacy.md
+  - ../content/patterns/credible_neutrality.md
+  - ../content/patterns/democratic_participation_incentives.md
+  - ../content/patterns/scalable_decision_making.md
+  - ../content/patterns/decentralized_autonomy.md
+  - ../content/patterns/control_as_a_liability.md
+  - ../content/patterns/subtraction.md
+  - ../content/patterns/transparent_governance.md
+  - ../content/patterns/educational_outreach.md
+  - ../content/patterns/community_champions.md
+  - ../content/patterns/celebrations.md
+  - ../content/patterns/dunbars_number.md
+  - ../content/patterns/working_groups.md
+  - ../content/patterns/infrastructure.md
+  - ../content/patterns/institutions.md
+  - ../content/patterns/grants.md
+  - ../content/patterns/bounties.md
+  - ../content/patterns/rfps.md
+  - ../content/patterns/showcase.md
+  - ../content/patterns/grant_shopping.md
+  - ../content/patterns/whole_process.md
+  - ../content/patterns/harvest_teams.md
+  - ../content/patterns/target_professionals.md
+  - ../content/patterns/bridge_feedback.md
+  - ../content/patterns/evergreen.md
+  - ../content/patterns/biz_dev_agents.md
+  - ../content/patterns/seconded_resources.md
+  - ../content/patterns/predefined_action_protocols.md
+  - ../content/patterns/dynamic_role_allocation.md
+  - ../content/patterns/good_ui.md
+  - ../content/patterns/define_affordances_disaffordances.md
+  - ../content/patterns/feedback_loops.md
+  - ../content/patterns/quantitative_analysis.md
+  - ../content/patterns/qualitative_assessment.md
+  - ../content/patterns/iterative_funding.md
+  - ../content/patterns/community_value_alignment.md
+  - ../content/patterns/stakeholder_synthesis.md
+  - ../content/patterns/seasons.md
+  - ../content/patterns/regular_community_check_ins.md
+  - ../content/patterns/feedback_integration_teams.md
+  - ../content/patterns/public_feedback_repositories.md
+  - ../content/patterns/feedback_reward_system.md
+  - ../content/patterns/transparent_trackability.md
+  - ../content/patterns/benchmarking.md
+  - ../content/patterns/adaptive_metrics.md
+  - ../content/patterns/dynamic_surveys.md
+  - ../content/patterns/goodharts_law.md
+  - ../content/patterns/outcome_visualization.md
+  - ../content/patterns/impact_storytelling.md
+  - ../content/patterns/immutable_records.md
+  - ../content/patterns/annual_reports.md
+  - ../content/patterns/open_data.md
+  - ../content/patterns/cross_functional_teams.md
+  - ../content/patterns/job_boundaries.md
+  - ../content/patterns/role_rotation.md
+  - ../content/patterns/communication_channels.md
+  - ../content/patterns/community_champions.md
+  - ../content/patterns/mentorship_programs.md
+  - ../content/patterns/dunbars_number.md
+  - ../content/patterns/skill_inventory.md
+  - ../content/patterns/learning_and_development_fund.md
+  - ../content/patterns/token_based_rewards.md
+  - ../content/patterns/reputation_systems.md
+  - ../content/patterns/performance_based_bonuses.md
+  - ../content/patterns/long_term_participation_rewards.md
+  - ../content/patterns/democratic_participation_incentives.md
+  - ../content/patterns/skill_and_role_development_incentives.md
+  - ../content/patterns/staking_mechanisms.md
+  - ../content/patterns/shares_for_sweat.md
+  - ../content/patterns/contribution_tracking.md
+  - ../content/patterns/escrow_and_milestone_payments.md
+  - ../content/patterns/contribution_tracking.md
+  - ../content/patterns/commitment_pooling.md
+  - ../content/patterns/honour.md
+  - ../content/patterns/financial_reserves.md
+  - ../content/patterns/portfolio_approach.md
+  - ../content/patterns/cross_platform_engagements.md
+  - ../content/patterns/community_diversification.md
+  - ../content/patterns/innovation_labs.md
+  - ../content/patterns/logical_decentralization.md
+  - ../content/patterns/decentralized_decision_making.md
+  - ../content/patterns/political_decentralization.md
+  - ../content/patterns/multi_factorial_consensus.md
+  - ../content/patterns/coin_voting.md
+  - ../content/patterns/citizen_voting.md
+  - ../content/patterns/conviction_voting.md
+  - ../content/patterns/quadratic_voting.md
+  - ../content/patterns/mica_secret_voting.md
+  - ../content/patterns/futarchy.md
+  - ../content/patterns/cdp_voting.md
+  - ../content/patterns/bribes.md
+  - ../content/patterns/contingent_bribes.md
+  - ../content/patterns/well_being.md
+  - ../content/patterns/rage_quit.md
+  - ../content/patterns/frivolity.md
+  - ../content/patterns/future_kindness.md
+  - ../content/patterns/right_size.md
+  - ../content/patterns/right_to_resignation.md
+  - ../content/patterns/levels_of_intensity.md
+  - ../content/patterns/inability_to_fork_external_assets.md
+  - ../forms/form_language.md
+  - ../content_workplan.md
+
+  # Add as many files as you need
+
+# Optional: specify additional Pandoc options
+# Set a custom LaTeX template
+# template: mytemplate.tex
+
+# Include a table of contents
+toc: true
+
+# Set PDF metadata
+metadata:
+  title: "ICDevs.org DAOs Project v0.0.1"
+  author: "ICDevs.org"
+  date: "2024-07-03"
+
+# Set PDF options
+pdf-engine: xelatex
+
+
+
+
+# Include additional files (e.g., bibliography, custom styles)
+# include-in-header: custom-header.tex
+# include-before-body: titlepage.tex
+# include-after-body: appendix.md

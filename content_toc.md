@@ -6,8 +6,9 @@
 1. [Introduction](./intro.html)
 2. [Methodology](./methodology.html)
 3. [The Interviews](./interviews.html)
-4. [The Generative Language](./generative/generative_language.html)
-5. [The Pattern Language](./patterns/toc.html)
+4. [Findings](./findings.html)
+5. [The Generative Language](./generative/generative_language.html)
+6. [The Pattern Language](./patterns/toc.html)
 
     A DAO seeking to promote a community or system is an operation in
 
@@ -225,8 +226,12 @@
     * [ITF. Inability to Fork External Assets](/patterns/inability_to_fork_external_assets.html)
 
 {:start="6"}
-6. [The Form Language](./forms/form_language.html)
-7. The Work Plan
+7. [The Form Language](./forms/form_language.html)
+  * [Smart Contracts](./forms/form_language.html#smart-contracts-1)
+  * [Activities](./forms/form_language.html#activities-1)
+  * [Institutions](./forms/form_language.html#institutions-1)
+  * [Support Software](./forms/form_language.html#support-software-1)
+8. [The Work Plan](./workplan.html)
 
 
 
