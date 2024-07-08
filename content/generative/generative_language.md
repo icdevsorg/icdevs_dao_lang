@@ -46,6 +46,7 @@ We can further explore Alexander's process for creating wholeness to find direct
 10. Always striving for simplicity by which thing becomes more coherent & pure.
 
 These actions guide the iterative and incremental development of DAO systems:
+
 1. **Step-by-step adaption**, considering the fluid nature of DAO and its governance.
 2. **Enhancement of the whole** through each systemic iteration or decision.
 3. **Creation and respect of centers**, recognizing key components like governance tokens or decision-making processes that hold the DAO together.

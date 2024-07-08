@@ -1,26 +1,26 @@
 ## MP - Mentorship Programs
 
-![Mentorship Programs](./output/illustrations/mentorship_programs.png)
+![Mentorship Programs](output/illustrations/mentorship_programs.png){ width=50% }
 
-### Supports:
+#### Supports:
 
-* [Resource Development](./resource_development.html)
+* [Resource Development](/patterns/resource_development.html)
 
-### Context:
+#### Context:
 
 In decentralized autonomous organizations (DAOs), the ability to perpetually generate and transfer knowledge within the community is crucial for sustainability and growth. Mentorship programs within DAOs leverage the varied expertise of seasoned members to elevate the competencies of newer or less experienced members.
 
-### Problem:
+#### Problem:
 
 DAOs consist of diverse members, often with varying levels of skill and experience. While this diversity is a strength, it can also create gaps in knowledge and hinder cohesive progress if not properly managed.
 
-### Forces:
+#### Forces:
 
 - **Knowledge Sharing vs. Information Overload:** Effective transfer of useful knowledge without overwhelming mentees.
 - **Community Engagement vs. Individual Learning Paths:** Balancing structured communal learning objectives with individual learning needs and interests.
 - **Expert Time vs. Scalability:** Utilizing expert members' time efficiently while scaling the program to accommodate a growing community.
 
-### Solution:
+#### Solution:
 
 Implement a structured yet adaptable mentorship scheme within the DAO where more experienced members are paired with newer members based on their skills and learning objectives. The program should include:
 
@@ -30,13 +30,13 @@ Implement a structured yet adaptable mentorship scheme within the DAO where more
 - **Guided Projects:** Encourage hands-on collaboration on small projects as part of the learning process.
 - **Recognition and Incentives:** Provide tokens or other forms of recognition to mentors for contributing their time and knowledge.
 
-### Therefore:
+#### Therefore:
 
 Structure mentorship programs in DAOs to facilitate effective knowledge sharing and skill development, enhance community cohesion, and ensure continuous personal and collective growth.
 
-### Supported By:
+#### Supported By:
 
-* [Dunbar’s Number](./dunbars_number.html)
-* [Skill Inventory](./skill_inventory.html)
+* [Dunbar’s Number](/patterns/dunbars_number.html)
+* [Skill Inventory](/patterns/skill_inventory.html)
 
-![Mentorship Programs](./output/mentorship_programs_specific_graph.png)
+![Mentorship Programs](output/mentorship_programs_specific_graph.png)

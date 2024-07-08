@@ -1,22 +1,23 @@
 ## CPE - Cross-Platform Engagements
 
-![Cross-Platform Engagemenst](./output/illustrations/cross_platform_engagements.png)
+![Cross-Platform Engagemenst](output/illustrations/cross_platform_engagements.png){ width=50% }
 
-### Supports:
-* [Portfolio Approach](./portfolio_approach.html)
+#### Supports:
+* [Portfolio Approach](/patterns/portfolio_approach.html)
 
-### Context:
+#### Context:
 DAOs often focus on optimizing resource allocation within a single platform or ecosystem, potentially leading to dependency and reduced exposure to diversified technological advancements and community insights.
 
-### Problem:
+#### Problem:
 Relying heavily on a single platform can expose DAOs to platform-specific risks including regulatory changes, platform stability issues, and shifts in platform governance models, which can affect the DAO's activities and asset values.
 
-### Forces:
+#### Forces:
+
 - **Platform Dependence Risk**: Over-reliance on one platform can lead to vulnerabilities.
 - **Innovation Stagnation**: Limited exposure to diverse technologies and frameworks can hinder innovative capacities.
 - **Resource Allocation Efficiency**: Diversifying platforms might increase operational complexity but potentially leads to more robust ecosystems.
 
-### Solution:
+#### Solution:
 
 Engage with multiple blockchain and technology platforms to diversify dependencies and leverage distinct features from various ecosystems. For DAOs deploying capital via code bounties, grants, and investments, this might involve:
 
@@ -32,8 +33,8 @@ Engage with multiple blockchain and technology platforms to diversify dependenci
 4. **Hosting Documents and Governance Discussions on Platform-agnostic Tools**:
    - **Example**: Using tools like Aragon, which allows for the creation and management of decentralized organizations across different blockchains, or DAOstack, which provides scalable frameworks for collective decision-making independent of the underlying blockchain platform. This ensures that the governance processes of a DAO remain accessible and resilient, even if one platform faces downtime or other issues.
 
-### Therefore:
+#### Therefore:
 Leverage a cross-platform approach to engage and integrate multiple communities and technologies, reducing reliance on any single platform and broadening exposure to innovations, thereby enhancing the resilience and resourcefulness of the DAO.
 
 
-![Cross-Platform Engagement](./output/cross_platform_engagements_specific_graph.png)
+![Cross-Platform Engagement](output/cross_platform_engagements_specific_graph.png)

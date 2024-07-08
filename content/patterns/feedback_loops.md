@@ -1,20 +1,20 @@
 ## FBL - Feedback Loops
 
-![Feedback Loops](./output/illustrations/feedback_loops.png)
+![Feedback Loops](output/illustrations/feedback_loops.png){ width=50% }
 
-### Supports:
+#### Supports:
 
-* [Impact Measurement](./impact_measurement.html)
+* [Impact Measurement](/patterns/impact_measurement.html)
 
-### Context:
+#### Context:
 
 In DAOs, continuous adaptation and responsiveness to the community and ecosystem are critical. The decentralization of power and inherent dynamic nature of these organizations necessitate mechanisms that allow for this adaptability.
 
-### Problem:
+#### Problem:
 
 DAOs face the challenge of making informed decisions and evolving strategies based on community input and project outcomes. Without a systematic approach to gather, analyze, and act on feedback, there might be missed opportunities for improvement, misalignment with community needs, or slow responses to emerging issues. 
 
-### Forces:
+#### Forces:
 
 - **Evolving Needs**: The needs and priorities of the DAO and its ecosystem are constantly changing.
 - **Community Engagement**: Ensuring active and meaningful participation from community members.
@@ -22,7 +22,7 @@ DAOs face the challenge of making informed decisions and evolving strategies bas
 - **Data Integration**: Difficulty in efficiently incorporating feedback into governance and project development.
 - **Change Management**: Managing the changes based on feedback in a way that aligns with the organization's goals and resources.
 
-### Solution:
+#### Solution:
 
 Establish formal, structured feedback mechanisms within the DAO to gather, analyze, and incorporate feedback continuously. These mechanisms might include regular community calls, surveys with adaptive questions, suggestion boxes, and feedback integration teams. Utilize blockchain technology to log feedback and actions taken in response to ensure transparency and accountability.
 
@@ -30,17 +30,17 @@ Integrate these feedback mechanisms with a systematic review process. For instan
 
 Real-world examples include DAOs like MakerDAO and Compound, which utilize forums and governance polls to integrate community feedback into protocol upgrades and treasury management. Implementing robust feedback systems has allowed these organizations to adapt and evolve swiftly in response to community input and changing circumstances in the DeFi landscape.
 
-### Therefore:
+#### Therefore:
 
 Implement structured and transparent feedback loops that enable continuous improvement and adaptation, ensuring the DAO remains responsive and aligned with community needs and ecosystem changes.
 
-### Supported By:
+#### Supported By:
 
-* [Iterative Funding](./iterative_funding.html)
-* [Regular Community Check-Ins](./regular_community_check_ins.html)
-* [Feedback Integration Team](./feedback_integration_teams.html)
-* [Feedback Reward System](./feedback_reward_system.html)
-* [Feedback Integration Teams](./feedback_integration_teams.html)
-* [Community Value Alignment](./community_value_alignment.html)
+* [Iterative Funding](/patterns/iterative_funding.html)
+* [Regular Community Check-Ins](/patterns/regular_community_check_ins.html)
+* [Feedback Integration Team](/patterns/feedback_integration_teams.html)
+* [Feedback Reward System](/patterns/feedback_reward_system.html)
+* [Feedback Integration Teams](/patterns/feedback_integration_teams.html)
+* [Community Value Alignment](/patterns/community_value_alignment.html)
 
-![Feedback Loops](./output/feedback_loops_specific_graph.png)
+![Feedback Loops](output/feedback_loops_specific_graph.png)

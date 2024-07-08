@@ -1,26 +1,26 @@
 ## IAL - Incentive Alignment
 
-![Incentive Alignment](./output/illustrations/incentive_alignment.png)
+![Incentive Alignment](output/illustrations/incentive_alignment.png){ width=50% }
 
-### Supports:
+#### Supports:
 
-* [Resource Optimization](./resource_optimization.html)
+* [Resource Optimization](/patterns/resource_optimization.html)
 
-### Context:
+#### Context:
 
 Decentralized Autonomous Organizations (DAOs) use coded incentives to encourage behavior that aligns with their overarching goals. The balance between short-term individual gains and long-term collective goals is crucial.
 
-### Problem:
+#### Problem:
 
 Ensuring that all participants in the DAO are working effectively towards shared, long-term objectives without being primarily motivated by short-term rewards.
 
-### Forces:
+#### Forces:
 
 - **Individual Goals vs Collective Goals**: Balancing individual interests with the group's long-term objectives.
 - **Short-term Rewards vs Long-Term Investment**: Ensuring incentives support sustained engagement and not just immediate outcomes.
 - **Complexity in Setting Metrics**: Difficulty in defining and quantifying what successful contributions look like in a decentralized setting.
 
-### Solution:
+#### Solution:
 
 To solve the misalignment of incentives, DAOs can employ various strategies such as performance-based bonuses, token-based rewards, and democratic participation incentives. These ensure that contributions towards the DAO’s objectives are encouraged and rewarded, thus aligning individual actions with collective goals.
 
@@ -30,18 +30,18 @@ To solve the misalignment of incentives, DAOs can employ various strategies such
 
 3. **Democratic Participation Incentives**: Reward members for their involvement in governance and decision-making processes. This can be implemented as a token reward for voting in crucial decisions, similar to the mechanism used by Compound Finance.
 
-### Therefore:
+#### Therefore:
 
 Implement a multi-faceted incentive system within a DAO that rewards both the participation in governance and the contributions to projects that align with the DAO's long-term goals, ensuring sustainability and progressive growth.
 
-### Supported By:
+#### Supported By:
 
-* [Token-Based Rewards](./token_based_rewards.html)
-* [Reputation Systems](./reputation_systems.html)
-* [Performance-Based Bonuses](./performance_based_bonuses.html)
-* [Democratic Participation Incentives](./democratic_participation_incentives.html)
-* [Skill and Role Development Incentives](./skill_and_role_development_incentives.html)
-* [Feedback Reward System](./feedback_reward_system.html)
-* [Well Being](./well_being.html)
+* [Token-Based Rewards](/patterns/token_based_rewards.html)
+* [Reputation Systems](/patterns/reputation_systems.html)
+* [Performance-Based Bonuses](/patterns/performance_based_bonuses.html)
+* [Democratic Participation Incentives](/patterns/democratic_participation_incentives.html)
+* [Skill and Role Development Incentives](/patterns/skill_and_role_development_incentives.html)
+* [Feedback Reward System](/patterns/feedback_reward_system.html)
+* [Well Being](/patterns/well_being.html)
 
-![Incentive Alignment](./output/incentive_alignment_specific_graph.png)
+![Incentive Alignment](output/incentive_alignment_specific_graph.png)

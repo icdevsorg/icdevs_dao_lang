@@ -1,23 +1,23 @@
 ## DYS - Dynamic Surveys
 
-![Dynamic Surveys](./output/illustrations/dynamic_surveys.png)
+![Dynamic Surveys](output/illustrations/dynamic_surveys.png){ width=50% }
 
-### Supports:
+#### Supports:
 
-* [Regular Community Check-Ins](./regular_community_check_ins.html)
-* [Quantitative Analysis](./quantitative_analysis.html)
-* [Qualitative Assessment](./qualitative_assessment.html)
-* [Feedback Integration Teams](./feedback_integration_teams.html)
+* [Regular Community Check-Ins](/patterns/regular_community_check_ins.html)
+* [Quantitative Analysis](/patterns/quantitative_analysis.html)
+* [Qualitative Assessment](/patterns/qualitative_assessment.html)
+* [Feedback Integration Teams](/patterns/feedback_integration_teams.html)
 
-### Context:
+#### Context:
 
 In DAOs, maintaining an understanding of community sentiment and reaction to ongoing projects and policies is crucial for adaptive and responsive governance.
 
-### Problem:
+#### Problem:
 
 Traditional surveys and feedback mechanisms are static and may not capture evolving community sentiments or detailed feedback on specific issues over time, potentially leading to misalignment between the DAO's actions and the community's needs and values.
 
-### Forces:
+#### Forces:
 
 - **Adaptability:** Surveys need to evolve with the community's changing attitudes and concerns.
 - **Granularity:** Feedback must be detailed enough to provide actionable insights.
@@ -25,12 +25,12 @@ Traditional surveys and feedback mechanisms are static and may not capture evolv
 - **Scalability:** Mechanisms must handle feedback at scale without losing individual granularity.
 - **Transparency:** Responses and analytics should be open to encourage trust and verifiability in the process.
 
-### Solution:
+#### Solution:
 
 Implement dynamic surveys within DAOs that update and evolve over time based on previous responses, current events, and emerging trends within the community. These surveys are regularly distributed to capture timely feedback and are designed with adaptive questioning techniques, such as branching paths that delve deeper based on a participant’s previous answers. The use of blockchain technology ensures that each response is recorded transparently, adding to the trustworthiness of the process. Integration with DAO-tailored analytics platforms allows for real-time sentiment analysis and trend identification, enabling swift and informed decision-making.
 
-### Therefore:
+#### Therefore:
 
 Utilize dynamic surveys to frequently and accurately gauge community sentiment, ensuring that the DAO remains closely aligned with its members' evolving perspectives and priorities. Implement adaptive and transparent mechanisms that allow for real-time feedback analysis and responsiveness to community input.
 
-![Dynamic Surveys](./output/dynamic_surveys_specific_graph.png)
+![Dynamic Surveys](output/dynamic_surveys_specific_graph.png)

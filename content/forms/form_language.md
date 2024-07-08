@@ -136,59 +136,59 @@ As we continue to refine and expand our Form Language, it will evolve, informed 
 
 ## Institutions
 
-#### **DAO Membership**
+### **DAO Membership**
 - **Description:** A cap of 150 members ensures the DAO remains agile and each member's contributions are meaningful. This limit is grounded in the idea of Dunbar's Number, which suggests a limit on the number of stable relationships one can maintain.
 - **Purpose:** Promotes effective communication and meaningful engagement among members.
 
-#### **DAO Support**
+### **DAO Support**
 - **Description:** Non-members who hold tokens or have interests aligned with the DAO but do not participate in daily governance.
 - **Purpose:** Allows a wider community to benefit from and contribute to the DAO's success without formal governance responsibilities.
 
-#### **DAO Houses**
+### **DAO Houses**
 - **Description:** Members are divided into competitively cooperative houses, each focusing on different core areas of the DAO. Each house has a seasonally rotating focus which allows for spotlighting specific initiatives.
 - **Purpose:** Encourages a dynamic, gamified, and distributed form of engagement and accountability within the DAO.
 
-#### **RFP Task Force Working Group**
+### **RFP Task Force Working Group**
 - **Description:** A team dedicated to creating and managing Requests for Proposals (RFPs) for new projects that require funding.
 - **Purpose:** Ensures continuous innovation and proactive exploration of new ideas and implementations in the DAO's field of interest.
 
-#### **RFP Evergreen Working Group**
+### **RFP Evergreen Working Group**
 - **Description:** Focuses on the periodic review and updating of existing RFPs, determining their relevancy and potential need for modifications or retirement.
 - **Purpose:** Maintains the relevancy and effectiveness of ongoing projects and ensures alignment with the DAO's evolving objectives.
 
-#### **Standards Task Force Working Group**
+### **Standards Task Force Working Group**
 - **Description:** This group sets priorities for new standards development within the DAO and guides the formation and funding of new permanent working groups.
 - **Purpose:** To streamline standard setting, ensuring all DAO projects adhere to high-quality and uniform criteria.
 
-#### **Standing Working Groups**
+### **Standing Working Groups**
 - **Description:** Permanent committees focused on sustained areas of interest or sectors where the DAO aims to make an impact. They develop standards and preparations for RFPs.
 - **Purpose:** Provides consistent, in-depth focus on key areas crucial to the DAO’s mission, enhancing expertise and outputs in these sectors.
 
-#### **Budget Working Group**
+### **Budget Working Group**
 - **Description:** Manages the allocation of the DAO’s financial resources across its different arms and projects.
 - **Purpose:** Ensures effective use of funds, aligning financial resource distribution with strategic priorities and project needs.
 
-#### **Audit Working Group**
+### **Audit Working Group**
 - **Description:** Manages producing the annual audit for the DAo.
 - **Purpose:** Ensures the report is produced and is accurate.
 
-#### **Bounty Working Group**
+### **Bounty Working Group**
 - **Description:** Identifies and sets bounties for specific projects and infrastructure needs within the DAO.
 - **Purpose:** Catalyzes action on key tasks and incentives completion of essential projects.
 
-#### **Grantee Relationship Committee**
+### **Grantee Relationship Committee**
 - **Description:** Manages relationships with grantees, ensuring ongoing support and alignment with the DAO's objectives.
 - **Purpose:** Maximizes the success rates of projects funded by the DAO through active oversight and support.
 
-#### **Grants Committee**
+### **Grants Committee**
 - **Description:** Evaluates grant applications, conducts interviews with applicants, and makes funding recommendations to the DAO based on strategic fit and potential for impact.
 - **Purpose:** Ensures only the most viable and aligned projects receive funding, maintaining the quality and focus of DAO resource allocation.
 
-#### **External Liaison Office**
+### **External Liaison Office**
 - **Description:** Responsible for managing relations with other DAOs, businesses, and stakeholders, important for collaborative projects and external engagement.
 - **Purpose:** Ensures the DAO is plugged in to the entire ecosystem.
 
-#### **Recruitment and Retention Office**
+### **Recruitment and Retention Office**
 - **Description:** Handles the strategic recruitment of new members and the retention of existing members through engagement strategies and structured feedback.
 - **Purpose:** Ensures the DAO grows with qualified and committed members while maintaining a high level of engagement from current members.
 

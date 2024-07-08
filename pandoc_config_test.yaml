@@ -1,0 +1,46 @@
+# config.yaml
+from: markdown+emoji+rebase_relative_paths
+to: pdf
+
+# Set the output file name
+output-file: test.pdf
+
+# Define the list of files to include in the conversion
+input-files:
+  - content_intro.md
+  - content_methodology.md
+  - content_interviews.md
+  - content_findings.md
+  - content/generative/generative_language.md
+  - content/patterns/toc.md
+  - content/patterns/adaptive_metrics.md
+  - content/patterns/goodharts_law.md
+  - content/patterns/quantitative_analysis.md
+  - content/forms/form_language.md
+  - content_workplan.md
+
+  # Add as many files as you need
+
+# Optional: specify additional Pandoc options
+# Set a custom LaTeX template
+# template: mytemplate.tex
+
+# Include a table of contents
+toc: true
+
+# Set PDF metadata
+metadata:
+  title: "ICDevs.org DAOs Project v0.0.1"
+  author: "ICDevs.org"
+  date: "2024-07-03"
+
+# Set PDF options
+pdf-engine: xelatex
+
+
+
+
+# Include additional files (e.g., bibliography, custom styles)
+# include-in-header: custom-header.tex
+# include-before-body: titlepage.tex
+# include-after-body: appendix.md

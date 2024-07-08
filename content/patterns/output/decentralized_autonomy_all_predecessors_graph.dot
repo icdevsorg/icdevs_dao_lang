@@ -11,6 +11,8 @@ digraph "" {
 	"Control as a Liability" -> "Decentralized Autonomy";
 	"Job Boundaries"	[label="Job Boundaries\nClearly defines roles and responsibilities."];
 	"Job Boundaries" -> "Decentralized Autonomy";
+	"Inability to Fork External Assets"	[label="Inability to Fork External Assets\nLimits of forking in decentralized networks"];
+	"Inability to Fork External Assets" -> "Control as a Liability";
 	Subtraction	[label="Subtraction\nActively seek to subtract power from the DAO and resist the natural tendency of an organization to grow and accumulate \
 power"];
 	Subtraction -> "Control as a Liability";

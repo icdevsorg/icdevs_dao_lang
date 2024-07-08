@@ -4,6 +4,8 @@ This site is dedicated to the DAO Project undertaken by ICDevs.org and funded by
 
 Please enter the report through the [Table of Contents](toc.html), or get started with the [Introduction](intro.html).
 
+[Download](ICDevs_DAO_Project.pdf) the PDF.
+
 {% include_relative content_toc.md %}
 
 {% include_relative content_intro.md %}

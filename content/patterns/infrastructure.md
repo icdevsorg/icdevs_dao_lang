@@ -1,26 +1,26 @@
 ## INF - Infrastructure
 
-![Infrastructure](./output/illustrations/infrastructure.png)
+![Infrastructure](output/illustrations/infrastructure.png){ width=50% }
 
-### Supports:
+#### Supports:
 
-* [Resource Development](./resource_development.html)
+* [Resource Development](/patterns/resource_development.html)
 
-### Context:
+#### Context:
 
 Decentralized Autonomous Organizations (DAOs) are established to foster open innovation and collective governance in managing resources and directing developments, specifically in sectors like technology, research, and social initiatives. An effective DAO not only optimizes its internal processes but more critically catalyzes the development of public good infrastructure that serves a broader ecosystem.
 
-### Problem:
+#### Problem:
 
 DAOs often face the cyclical challenge of funding redundant initiatives due to a lack of awareness and accessibility to existing solutions and frameworks. This inefficiency leads to dispersed efforts that fail to capitalize on the compounded benefits of shared, scalable public infrastructure.
 
-### Forces:
+#### Forces:
 
 - **Duplication of Efforts:** Without a consolidated infrastructure repository, duplicated efforts increase, draining valuable resources.
 - **Access to Utilities:** A lack of easy access to existing tools and frameworks hinders innovation and slows down project delivery.
 - **Collaborative Synergies:** Underutilized potential for synergistic developments that can arise from leveraging communal resources.
 
-### Solution:
+#### Solution:
 
 To counteract inefficiencies and enhance collaborative potential, DAOs should focus on funding, developing, and maintaining public good infrastructure that is universally accessible and beneficial. This involves:
 
@@ -30,14 +30,14 @@ To counteract inefficiencies and enhance collaborative potential, DAOs should fo
 4. **Integration and Standardization:** Promote the development of interoperable systems that can integrate with existing and future tools, reducing the friction in adopting new technologies.
 5. **Sustainability and Maintenance:** Ensure ongoing support and updates for developed infrastructures, preserving their relevance and utility over time.
 
-### Therefore:
+#### Therefore:
 
 Invest in and nurture the development of shared public infrastructure within the broader ecosystem that the DAO operates in. This supports sustainable, efficient, and collaborative growth across communities, preventing redundancy and fostering innovation.
 
-### Supported By:
+#### Supported By:
 
-* [Grants](./grants.html)
-* [Bounties](./bounties.html)
-* [Innovation Labs](./innovation_labs.html)
+* [Grants](/patterns/grants.html)
+* [Bounties](/patterns/bounties.html)
+* [Innovation Labs](/patterns/innovation_labs.html)
 
-![Infrastructure](./output/infrastructure_specific_graph.png)
+![Infrastructure](output/infrastructure_specific_graph.png)

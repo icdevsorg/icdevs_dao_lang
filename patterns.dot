@@ -149,7 +149,7 @@ digraph G {
 "Financial Reserves" -> {"Risk Management","Legitimacy"};
 "Portfolio Approach" -> "Risk Management";
 "Decentralized Decision-Making" -> {"Risk Management", "Effective Action"};
-"Inability to Fork External Assets" -> {"Control as Liability", "Rage Quit"};
+"Inability to Fork External Assets" -> {"Control as a Liability", "Rage Quit"};
 
 "Cross-functional Teams" -> {"Resource Development", "Portfolio Approach", "Effective Action"};
 "Cross-Platform Engagements" -> "Portfolio Approach";

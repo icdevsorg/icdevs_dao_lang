@@ -1,27 +1,27 @@
 ## PBB - Performance-Based Bonuses
 
-![Performance-Based Bonuses](./output/illustrations/performance_based_bonuses.png)
+![Performance-Based Bonuses](output/illustrations/performance_based_bonuses.png){ width=50% }
 
-### Supports:
+#### Supports:
 
-* [Incentive Alignment](./incentive_alignment.html)
+* [Incentive Alignment](/patterns/incentive_alignment.html)
 
-### Context:
+#### Context:
 
 In a DAO ecosystem, engaging and motivating contributors consistently is crucial. The dynamic and decentralized nature of DAOs often results in a divergence of interests among its members. Managing and aligning these interests, while fostering a culture of excellence and commitment, is a perennial challenge.
 
-### Problem:
+#### Problem:
 
 Within DAOs, continuous engagement and high performance of contributors cannot always be ensured through traditional fixed or passive reward systems, particularly when individual contributions have direct impacts on project success and overall DAO performance.
 
-### Forces:
+#### Forces:
 
 - **Engagement**: Need to actively engage participants to contribute meaningfully.
 - **Excellence**: Desire to encourage above-average contributions.
 - **Measurement**: Difficulty in measuring contributions in non-traditional work settings.
 - **Incentivization**: The challenge of designing incentives that align personal rewards with collective goals.
 
-### Solution:
+#### Solution:
 
 Implement a system of Performance-Based Bonuses (PBB) by setting clear, measurable goals linked to DAO projects and overall objectives. This system would work by evaluating the contributions of DAO participants not just on participation, but on measurable outcomes that exceed baseline expectations.
 
@@ -29,14 +29,14 @@ For instance, a software development contribution could have thresholds set for 
 
 Crucial to this system is the establishment of a fair, transparent, and thorough measurement and rewards distribution mechanism. This might include periodic review sessions, use of blockchain for transparency, and peer validation methods to ensure contributions are accurately reported and evaluated.
 
-### Therefore:
+#### Therefore:
 
 Adopt Performance-Based Bonuses to enhance contributor motivation, align their individual goals with the DAO’s objectives, and foster a culture of meritocracy and excellence.
 
-### Supported By:
-* [Contribution Tracking](./contribution_tracking.html)
-* [Escrow and Milestone Payments](./escrow_and_milestone_payments.html)
-* [Long-Term Participation Rewards](./long_term_participation_rewards.html)
-* [Bounties](./bounties.html)
+#### Supported By:
+* [Contribution Tracking](/patterns/contribution_tracking.html)
+* [Escrow and Milestone Payments](/patterns/escrow_and_milestone_payments.html)
+* [Long-Term Participation Rewards](/patterns/long_term_participation_rewards.html)
+* [Bounties](/patterns/bounties.html)
 
-![Performance-Based Bonuses](./output/performance_based_bonuses_specific_graph.png)
+![Performance-Based Bonuses](output/performance_based_bonuses_specific_graph.png)

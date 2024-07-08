@@ -94,6 +94,8 @@ or phases"];
 	"Contribution Tracking" -> "Skill and Role Development Incentives";
 	"Control as a Liability"	[label="Control as a Liability\nMinimizing control to promote democratic governance"];
 	"Control as a Liability" -> "Decentralized Autonomy";
+	"Inability to Fork External Assets"	[label="Inability to Fork External Assets\nLimits of forking in decentralized networks"];
+	"Inability to Fork External Assets" -> "Control as a Liability";
 	Subtraction	[label="Subtraction\nActively seek to subtract power from the DAO and resist the natural tendency of an organization to grow and accumulate \
 power"];
 	Subtraction -> "Control as a Liability";

@@ -1,31 +1,31 @@
 ## MFC - Multi-factorial Consensus
 
-![Multi-factorial Consensus](./output/illustrations/multi_factorial_consensus.png)
+![Multi-factorial Consensus](output/illustrations/multi_factorial_consensus.png){ width=50% }
 
-### Supports:
+#### Supports:
 
-* [Scalable Decision-Making](./scalable_decision_making.html)
-* [Credible Neutrality](./credible_neutrality.html)
-* [Legitimacy](./legitimacy.html)
-* [Decentralized Decision-Making](./decentralized_decision_making.html)
-* [Political Decentralization](./political_decentralization.html)
+* [Scalable Decision-Making](/patterns/scalable_decision_making.html)
+* [Credible Neutrality](/patterns/credible_neutrality.html)
+* [Legitimacy](/patterns/legitimacy.html)
+* [Decentralized Decision-Making](/patterns/decentralized_decision_making.html)
+* [Political Decentralization](/patterns/political_decentralization.html)
 
-### Context:
+#### Context:
 
 In the governance of Decentralized Autonomous Organizations (DAOs), achieving a fair, transparent, and efficient consensus is crucial. Traditional central governance models are challenged by decentralized paradigms where no single individual or group holds unilateral decision-making power.
 
-### Problem:
+#### Problem:
 
 Traditional single-factor decision-making systems in DAOs often lead to outcomes that may not reflect the broader community's interests. They are susceptible to manipulation by a majority stakeholder or a small, influential group, potentially undermining the organization's credibility and trust.
 
-### Forces:
+#### Forces:
 
 - **Representation:** All community voices need representation in the decision-making process to ensure widespread acceptance and legitimacy.
 - **Fairness:** Preventing any single entity or group from dominating the agenda is crucial for long-term sustainability.
 - **Efficiency:** Decision-making processes must not only be fair and comprehensive but also efficient to prevent governance gridlock.
 - **Transparency:** The mechanisms of decision-making should be visible and understandable to all DAO members to build trust and verify integrity.
 
-### Solution:
+#### Solution:
 
 Integrate multiple voting and consensus mechanisms to distribute decision-making power within a DAO. This creates a system where several checks and balances moderate each other, increasing the robustness of decisions. Techniques such as Coin Voting, Citizen Voting, Commitment Voting, and Quadratic Voting can be used in tandem to ensure that diverse aspects such as stake size, individual participation, commitment duration, and minority protection are all factored into the decision-making process.
 
@@ -35,14 +35,14 @@ Integrate multiple voting and consensus mechanisms to distribute decision-making
    
 These real-world implementations show that blending multiple decision mechanisms enhances DAO governance by aligning it more closely with broad-based support and engagement, lowering risks of manipulation or disenfranchisement.
 
-### Therefore:
+#### Therefore:
 
 Adopt a Multi-factorial Consensus approach that employs various voting methodologies tailored to specific types of decisions, promoting a balanced and comprehensive governance model.
 
-### Supported By:
-* [Coin Voting](./coin_voting.html)
-* [Citizen Voting](./citizen_voting.html)
-* [Conviction Voting](./conviction_voting.html)
-* [Quadratic Voting](./quadratic_voting.html)
+#### Supported By:
+* [Coin Voting](/patterns/coin_voting.html)
+* [Citizen Voting](/patterns/citizen_voting.html)
+* [Conviction Voting](/patterns/conviction_voting.html)
+* [Quadratic Voting](/patterns/quadratic_voting.html)
 
-![Multi-factorial Consensus](./output/multi_factorial_consensus_specific_graph.png)
+![Multi-factorial Consensus](output/multi_factorial_consensus_specific_graph.png)
