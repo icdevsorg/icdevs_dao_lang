@@ -133,9 +133,9 @@ toc: true
 
 # Set PDF metadata
 metadata:
-  title: "ICDevs.org DAOs Project v0.0.1"
+  title: "ICDevs.org DAOs Project v0.0.2"
   author: "ICDevs.org"
-  date: "2024-07-03"
+  date: "2024-07-10"
 
 # Set PDF options
 pdf-engine: xelatex
